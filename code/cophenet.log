@@ -1,0 +1,320 @@
+
+final_embeddings_approved_64_1_2 loaded
+final_embeddings_approved_64_1_2_linkage_ward loaded
+cophenet 0.650401998538
+cophenet time 113.43
+
+final_embeddings_approved_128_1_2 loaded
+final_embeddings_approved_128_1_2_linkage_ward loaded
+cophenet -0.0851850697601
+cophenet time 141.35
+
+final_embeddings_approved_256_1_2 loaded
+final_embeddings_approved_256_1_2_linkage_ward loaded
+cophenet -0.126671875892
+cophenet time 189.56
+
+final_embeddings_approved_256_2_4 loaded
+final_embeddings_approved_256_2_4_linkage_ward loaded
+cophenet -0.125944821827
+cophenet time 198.74
+
+final_embeddings_approved_512_2_4 loaded
+final_embeddings_approved_512_2_4_linkage_ward loaded
+cophenet -0.108253270206
+cophenet time 370.76
+
+final_embeddings_approved_256_3_4 loaded
+final_embeddings_approved_256_3_4_linkage_ward loaded
+cophenet -0.139684341456
+cophenet time 184.01
+
+final_embeddings_approved_512_1_2 loaded
+final_embeddings_approved_512_1_2_linkage_ward loaded
+cophenet -0.0929838527993
+cophenet time 327.89
+
+final_embeddings_approved_512_3_4 loaded
+final_embeddings_approved_512_3_4_linkage_ward loaded
+cophenet -0.131446190388
+cophenet time 333.35
+
+final_embeddings_approved_256_4_8 loaded
+final_embeddings_approved_256_4_8_linkage_ward loaded
+cophenet 0.447213238121
+cophenet time 181.68
+
+final_embeddings_approved_512_4_8 loaded
+final_embeddings_approved_512_4_8_linkage_ward loaded
+cophenet -0.173778859689
+cophenet time 315.76
+
+final_embeddings_approved_128_3_4 loaded
+final_embeddings_approved_128_3_4_linkage_ward loaded
+cophenet 0.550394444566
+cophenet time 93.56
+
+final_embeddings_approved_128_2_4 loaded
+final_embeddings_approved_128_2_4_linkage_ward loaded
+cophenet 0.541585451886
+cophenet time 100.57
+
+final_embeddings_only_approved_skip-gram_16_2_1 loaded
+final_embeddings_only_approved_skip-gram_16_2_1_linkage_ward loaded
+cophenet 0.663373087393
+cophenet time 11.10
+
+final_embeddings_only_approved_skip-gram_32_2_1 loaded
+final_embeddings_only_approved_skip-gram_32_2_1_linkage_ward loaded
+cophenet 0.780928779715
+cophenet time 7.33
+
+final_embeddings_only_approved_skip-gram_64_2_1 loaded
+final_embeddings_only_approved_skip-gram_64_2_1_linkage_ward loaded
+cophenet -0.101633417572
+cophenet time 9.56
+
+final_embeddings_only_approved_skip-gram_128_2_1 loaded
+final_embeddings_only_approved_skip-gram_128_2_1_linkage_ward loaded
+cophenet -0.114242259683
+cophenet time 12.79
+
+final_embeddings_only_approved_skip-gram_32_4_2 loaded
+final_embeddings_only_approved_skip-gram_32_4_2_linkage_ward loaded
+cophenet 0.636967006483
+cophenet time 7.84
+
+final_embeddings_only_approved_skip-gram_64_4_2 loaded
+final_embeddings_only_approved_skip-gram_64_4_2_linkage_ward loaded
+cophenet 0.73842595645
+cophenet time 9.94
+
+final_embeddings_only_approved_skip-gram_128_4_2 loaded
+final_embeddings_only_approved_skip-gram_128_4_2_linkage_ward loaded
+cophenet -0.253225021895
+cophenet time 14.14
+
+final_embeddings_only_approved_skip-gram_256_4_2 loaded
+final_embeddings_only_approved_skip-gram_256_4_2_linkage_ward loaded
+cophenet -0.116461201399
+cophenet time 25.68
+
+final_embeddings_only_approved_skip-gram_64_8_4 loaded
+final_embeddings_only_approved_skip-gram_64_8_4_linkage_ward loaded
+cophenet 0.613833058442
+cophenet time 10.15
+
+final_embeddings_only_approved_skip-gram_128_8_4 loaded
+final_embeddings_only_approved_skip-gram_128_8_4_linkage_ward loaded
+cophenet 0.680096928198
+cophenet time 17.65
+
+final_embeddings_only_approved_skip-gram_256_8_4 loaded
+final_embeddings_only_approved_skip-gram_256_8_4_linkage_ward loaded
+cophenet -0.243760647537
+cophenet time 19.63
+
+final_embeddings_only_approved_cbow_16_2_1 loaded
+final_embeddings_only_approved_cbow_16_2_1_linkage_ward loaded
+cophenet 0.531699575115
+cophenet time 8.54
+
+final_embeddings_only_approved_cbow_32_2_1 loaded
+final_embeddings_only_approved_cbow_32_2_1_linkage_ward loaded
+cophenet -0.164385039722
+cophenet time 9.44
+
+final_embeddings_only_approved_cbow_64_2_1 loaded
+final_embeddings_only_approved_cbow_64_2_1_linkage_ward loaded
+cophenet -0.12485615205
+cophenet time 8.38
+
+final_embeddings_only_approved_cbow_128_2_1 loaded
+final_embeddings_only_approved_cbow_128_2_1_linkage_ward loaded
+cophenet -0.0794655635441
+cophenet time 12.51
+
+final_embeddings_only_approved_cbow_24_2_1 loaded
+final_embeddings_only_approved_cbow_24_2_1_linkage_ward loaded
+cophenet 0.397026227523
+cophenet time 7.88
+
+final_embeddings_only_approved_skip-gram_16_2_1 loaded
+final_embeddings_only_approved_skip-gram_16_2_1_linkage_ward loaded
+cophenet 0.543250711211
+cophenet time 11.23
+
+final_embeddings_only_approved_skip-gram_32_2_1 loaded
+final_embeddings_only_approved_skip-gram_32_2_1_linkage_ward loaded
+cophenet 0.684016122197
+cophenet time 8.88
+
+final_embeddings_only_approved_skip-gram_64_2_1 loaded
+final_embeddings_only_approved_skip-gram_64_2_1_linkage_ward loaded
+cophenet 0.660726199619
+cophenet time 12.71
+
+final_embeddings_only_approved_skip-gram_32_2_1 loaded
+final_embeddings_only_approved_skip-gram_32_2_1_linkage_ward loaded
+cophenet 0.684016122197
+cophenet time 11.51
+
+final_embeddings_only_approved_skip-gram_128_2_1 loaded
+final_embeddings_only_approved_skip-gram_128_2_1_linkage_ward loaded
+cophenet -0.119835686114
+cophenet time 20.46
+
+final_embeddings_only_approved_skip-gram_32_4_2 loaded
+final_embeddings_only_approved_skip-gram_32_4_2_linkage_ward loaded
+cophenet 0.509017952491
+cophenet time 13.49
+
+final_embeddings_only_approved_skip-gram_64_4_2 loaded
+final_embeddings_only_approved_skip-gram_64_4_2_linkage_ward loaded
+cophenet 0.653806128304
+cophenet time 14.97
+
+final_embeddings_only_approved_skip-gram_128_4_2 loaded
+final_embeddings_only_approved_skip-gram_128_4_2_linkage_ward loaded
+cophenet 0.57485666771
+cophenet time 19.80
+
+final_embeddings_only_approved_skip-gram_256_4_2 loaded
+final_embeddings_only_approved_skip-gram_256_4_2_linkage_ward loaded
+cophenet -0.0258849723094
+cophenet time 39.47
+
+final_embeddings_only_approved_skip-gram_64_8_4 loaded
+final_embeddings_only_approved_skip-gram_64_8_4_linkage_ward loaded
+cophenet 0.486804504107
+cophenet time 19.43
+
+final_embeddings_only_approved_skip-gram_128_8_4 loaded
+final_embeddings_only_approved_skip-gram_128_8_4_linkage_ward loaded
+cophenet 0.614549674916
+cophenet time 27.54
+
+final_embeddings_only_approved_skip-gram_256_8_4 loaded
+final_embeddings_only_approved_skip-gram_256_8_4_linkage_ward loaded
+cophenet 0.473240349663
+cophenet time 47.01
+
+final_embeddings_only_approved_skip-gram_512_8_4 loaded
+final_embeddings_only_approved_skip-gram_512_8_4_linkage_ward loaded
+cophenet 0.00185176958375
+cophenet time 77.54
+
+final_embeddings_only_approved_skip-gram_16_2_1_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_16_2_1_filter_drugs_linkage_ward loaded
+cophenet 0.858014305098
+cophenet time 0.11
+
+final_embeddings_only_approved_skip-gram_32_2_1_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_32_2_1_filter_drugs_linkage_ward loaded
+cophenet 0.875819181363
+cophenet time 0.14
+
+final_embeddings_only_approved_skip-gram_64_2_1_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_64_2_1_filter_drugs_linkage_ward loaded
+cophenet 0.777210309998
+cophenet time 0.21
+
+final_embeddings_only_approved_skip-gram_128_2_1_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_128_2_1_filter_drugs_linkage_ward loaded
+cophenet 0.0627565169969
+cophenet time 0.36
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drugs_linkage_ward loaded
+cophenet 0.8472077138
+cophenet time 0.13
+
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drugs_linkage_ward loaded
+cophenet 0.770664175067
+cophenet time 0.19
+
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drugs_linkage_ward loaded
+cophenet 0.705575537337
+cophenet time 0.34
+
+final_embeddings_only_approved_skip-gram_256_4_2_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_256_4_2_filter_drugs_linkage_ward loaded
+cophenet 0.0725973348969
+cophenet time 0.67
+
+final_embeddings_only_approved_skip-gram_64_8_4_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_64_8_4_filter_drugs_linkage_ward loaded
+cophenet 0.836497434238
+cophenet time 0.20
+
+final_embeddings_only_approved_skip-gram_128_8_4_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_128_8_4_filter_drugs_linkage_ward loaded
+cophenet 0.650167906469
+cophenet time 0.34
+
+final_embeddings_only_approved_skip-gram_256_8_4_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_256_8_4_filter_drugs_linkage_ward loaded
+cophenet 0.632424684764
+cophenet time 0.63
+
+final_embeddings_only_approved_skip-gram_512_8_4_filter_drugs loaded
+final_embeddings_only_approved_skip-gram_512_8_4_filter_drugs_linkage_ward loaded
+cophenet 0.0613297845052
+cophenet time 1.27
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drug_names_only_approved_100 loaded
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drug_names_only_approved_100_linkage_ward loaded
+cophenet 0.602809514578
+cophenet time 0.00
+
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drug_names_only_approved_100 loaded
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drug_names_only_approved_100_linkage_ward loaded
+cophenet 0.253866534532
+cophenet time 0.00
+
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drug_names_only_approved_100 loaded
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drug_names_only_approved_100_linkage_ward loaded
+cophenet 0.322912729424
+cophenet time 0.00
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100 loaded
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100_linkage_ward loaded
+cophenet 0.569351853581
+cophenet time 0.00
+
+final_embeddings_all_skip-gram_64_4_2_filter_concatenated_drug_names_all_100 loaded
+final_embeddings_all_skip-gram_64_4_2_filter_concatenated_drug_names_all_100_linkage_ward loaded
+cophenet 0.380850641449
+cophenet time 0.00
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100 loaded
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100_linkage_ward loaded
+cophenet 0.701473142755
+cophenet time 0.00
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_concatenated_drug_names_only_approved_100 loaded
+final_embeddings_only_approved_skip-gram_32_4_2_filter_concatenated_drug_names_only_approved_100_linkage_ward loaded
+cophenet 0.67397904104
+cophenet time 0.00
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_1000 loaded
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_1000_linkage_ward loaded
+cophenet 0.816419635715
+cophenet time 0.04
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_500 loaded
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_500_linkage_ward loaded
+cophenet 0.585522999524
+cophenet time 0.01
+
+final_embeddings_all_skip-gram_64_8_4_filter_concatenated_drug_names_all_500 loaded
+final_embeddings_all_skip-gram_64_8_4_filter_concatenated_drug_names_all_500_linkage_ward loaded
+cophenet 0.532374299084
+cophenet time 0.01
+
+final_embeddings_all_skip-gram_128_8_4_filter_concatenated_drug_names_all_500 loaded
+final_embeddings_all_skip-gram_128_8_4_filter_concatenated_drug_names_all_500_linkage_ward loaded
+cophenet 0.121750556741
+cophenet time 0.03

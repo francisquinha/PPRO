@@ -1,0 +1,4662 @@
+
+drugbank_approved_words loaded
+batch_size = 32
+embedding_size = 32
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  265.627563477
+Average loss at step  2000 :  93.1268780264
+Average loss at step  4000 :  40.237932884
+Average loss at step  6000 :  21.0322053953
+Average loss at step  8000 :  21.6459705858
+Average loss at step  10000 :  12.3446210227
+Average loss at step  12000 :  8.99402436644
+Average loss at step  14000 :  9.14528099028
+Average loss at step  16000 :  11.7187597717
+Average loss at step  18000 :  12.5850829242
+Average loss at step  20000 :  12.1475325093
+Average loss at step  22000 :  8.09054983036
+Average loss at step  24000 :  1267.3604449
+Average loss at step  26000 :  22011.7112344
+Average loss at step  28000 :  46685.4438123
+Average loss at step  30000 :  17514.5202957
+Average loss at step  32000 :  8576.6708131
+Average loss at step  34000 :  28558.5765513
+Average loss at step  36000 :  163666.301188
+Average loss at step  38000 :  978522.977635
+Average loss at step  40000 :  55461277.9802
+Average loss at step  42000 :  3048502927.23
+Average loss at step  44000 :  530550554315.0
+Average loss at step  46000 :  1.77413236203e+12
+Average loss at step  48000 :  2.48328109939e+12
+Average loss at step  50000 :  1.44894761057e+13
+Average loss at step  52000 :  3.70225741742e+12
+Average loss at step  54000 :  1.20786998681e+13
+Average loss at step  56000 :  1.60528524055e+13
+Average loss at step  58000 :  6.12127438447e+13
+Average loss at step  60000 :  4.40227264086e+14
+Average loss at step  62000 :  3.39878098333e+14
+Average loss at step  64000 :  7.64480917285e+14
+Average loss at step  66000 :  1.49849507515e+15
+Average loss at step  68000 :  2.47421486659e+15
+Average loss at step  70000 :  1.19637408203e+15
+Average loss at step  72000 :  3.57701588451e+15
+Average loss at step  74000 :  1.10576090222e+15
+Average loss at step  76000 :  3.68713951973e+14
+Average loss at step  78000 :  1.32177808131e+15
+Average loss at step  80000 :  2.56160090842e+15
+Average loss at step  82000 :  6.16073028348e+15
+Average loss at step  84000 :  9.09827276326e+16
+Average loss at step  86000 :  9.09590186398e+17
+Average loss at step  88000 :  5.62221799735e+19
+Average loss at step  90000 :  6.89644517958e+20
+Average loss at step  92000 :  4.77687846218e+25
+Average loss at step  94000 :  9.58078428973e+27
+Average loss at step  96000 :  1.21069595733e+30
+Average loss at step  98000 :  2.78140992783e+33
+Average loss at step  100000 :  3.22723624311e+34
+final_embeddings_approved_32_1_2 saved 
+
+drugbank_approved_words loaded
+batch_size = 64
+embedding_size = 64
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  279.330596924
+Average loss at step  2000 :  88.9849443913
+Average loss at step  4000 :  32.6734752331
+Average loss at step  6000 :  19.5770794724
+Average loss at step  8000 :  10.4851955739
+Average loss at step  10000 :  8.36737681294
+Average loss at step  12000 :  6.38557719709
+Average loss at step  14000 :  5.76833482063
+Average loss at step  16000 :  4.00901125714
+Average loss at step  18000 :  3.58827223127
+Average loss at step  20000 :  4.41393277644
+Average loss at step  22000 :  4.41453337411
+Average loss at step  24000 :  4.25663015081
+Average loss at step  26000 :  3.49373459479
+Average loss at step  28000 :  4.21254324251
+Average loss at step  30000 :  4.24955758301
+Average loss at step  32000 :  3.75973398428
+Average loss at step  34000 :  3.95221099783
+Average loss at step  36000 :  3.68712644909
+Average loss at step  38000 :  2.82636354963
+Average loss at step  40000 :  3.31721525924
+Average loss at step  42000 :  4.39145433377
+Average loss at step  44000 :  3.67743585453
+Average loss at step  46000 :  4.17040611662
+Average loss at step  48000 :  3.73348732937
+Average loss at step  50000 :  3.35741668439
+Average loss at step  52000 :  3.72108404443
+Average loss at step  54000 :  3.55335137198
+Average loss at step  56000 :  4.67338989651
+Average loss at step  58000 :  5.17849789443
+Average loss at step  60000 :  3.13185343918
+Average loss at step  62000 :  3.45091520426
+Average loss at step  64000 :  5.04103807018
+Average loss at step  66000 :  3.48406481776
+Average loss at step  68000 :  3.66515872074
+Average loss at step  70000 :  3.39353949868
+Average loss at step  72000 :  3.69536216211
+Average loss at step  74000 :  3.61240966562
+Average loss at step  76000 :  3.30508756392
+Average loss at step  78000 :  3.00544956769
+Average loss at step  80000 :  3.92278367092
+Average loss at step  82000 :  2.94388081809
+Average loss at step  84000 :  3.14846267535
+Average loss at step  86000 :  3.05858627097
+Average loss at step  88000 :  3.12156550635
+Average loss at step  90000 :  2.72669147329
+Average loss at step  92000 :  3.12108615452
+Average loss at step  94000 :  3.20883682124
+Average loss at step  96000 :  3.47879646967
+Average loss at step  98000 :  3.50902367699
+Average loss at step  100000 :  4.80357440135
+final_embeddings_approved_64_1_2 saved 
+
+drugbank_approved_words loaded
+batch_size = 128
+embedding_size = 128
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  290.148071289
+Average loss at step  2000 :  87.3534144829
+Average loss at step  4000 :  31.3355637358
+Average loss at step  6000 :  16.9768154688
+Average loss at step  8000 :  10.2525168957
+Average loss at step  10000 :  7.27026085571
+Average loss at step  12000 :  6.43483554605
+Average loss at step  14000 :  5.25561414253
+Average loss at step  16000 :  4.92976572431
+Average loss at step  18000 :  4.36856492162
+Average loss at step  20000 :  3.48829856803
+Average loss at step  22000 :  4.58727912948
+Average loss at step  24000 :  4.36235896787
+Average loss at step  26000 :  3.93728193155
+Average loss at step  28000 :  4.62589122636
+Average loss at step  30000 :  4.8478104779
+Average loss at step  32000 :  5.05147636237
+Average loss at step  34000 :  3.478989998
+Average loss at step  36000 :  3.87862440965
+Average loss at step  38000 :  3.95626369626
+Average loss at step  40000 :  3.82306712238
+Average loss at step  42000 :  3.31602589187
+Average loss at step  44000 :  3.36705792171
+Average loss at step  46000 :  3.20766553062
+Average loss at step  48000 :  3.64962074977
+Average loss at step  50000 :  4.97979505117
+Average loss at step  52000 :  4.07122795698
+Average loss at step  54000 :  4.15921327875
+Average loss at step  56000 :  3.57670885722
+Average loss at step  58000 :  3.6632532374
+Average loss at step  60000 :  3.57785567859
+Average loss at step  62000 :  3.98119340435
+Average loss at step  64000 :  3.4161557911
+Average loss at step  66000 :  3.55694989952
+Average loss at step  68000 :  3.58733846828
+Average loss at step  70000 :  3.25295153165
+Average loss at step  72000 :  4.27688246125
+Average loss at step  74000 :  4.17234738982
+Average loss at step  76000 :  3.53040321794
+Average loss at step  78000 :  2.68627653542
+Average loss at step  80000 :  2.87393645695
+Average loss at step  82000 :  2.63896828866
+Average loss at step  84000 :  2.38472170255
+Average loss at step  86000 :  2.7476860939
+Average loss at step  88000 :  2.33140761325
+Average loss at step  90000 :  3.25263614067
+Average loss at step  92000 :  2.88787195903
+Average loss at step  94000 :  3.21940072424
+Average loss at step  96000 :  2.71707238773
+Average loss at step  98000 :  2.29039788565
+Average loss at step  100000 :  2.58639821875
+final_embeddings_approved_128_1_2 saved
+
+drugbank_approved_words loaded
+batch_size = 256
+embedding_size = 256
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  286.376312256
+Average loss at step  2000 :  86.8278173246
+Average loss at step  4000 :  30.7748293364
+Average loss at step  6000 :  17.0491978197
+Average loss at step  8000 :  10.991734904
+Average loss at step  10000 :  7.60674890795
+Average loss at step  12000 :  7.00448345834
+Average loss at step  14000 :  5.97796157885
+Average loss at step  16000 :  6.77078703424
+Average loss at step  18000 :  4.56024598388
+Average loss at step  20000 :  4.65585898499
+Average loss at step  22000 :  4.09361730553
+Average loss at step  24000 :  4.02622778002
+Average loss at step  26000 :  5.67950883657
+Average loss at step  28000 :  4.62073492238
+Average loss at step  30000 :  4.2095785163
+Average loss at step  32000 :  4.41263665786
+Average loss at step  34000 :  4.16744644406
+Average loss at step  36000 :  4.49814153469
+Average loss at step  38000 :  4.46025471269
+Average loss at step  40000 :  3.17040727791
+Average loss at step  42000 :  2.79126569599
+Average loss at step  44000 :  2.75351760621
+Average loss at step  46000 :  3.46064839645
+Average loss at step  48000 :  2.94723317086
+Average loss at step  50000 :  2.62988978841
+Average loss at step  52000 :  2.71016433014
+Average loss at step  54000 :  2.81654840808
+Average loss at step  56000 :  2.80208955325
+Average loss at step  58000 :  2.95021164557
+Average loss at step  60000 :  2.95305615732
+Average loss at step  62000 :  2.8381201088
+Average loss at step  64000 :  2.85910076848
+Average loss at step  66000 :  2.78188297303
+Average loss at step  68000 :  2.78259359679
+Average loss at step  70000 :  2.73852099708
+Average loss at step  72000 :  2.83844120435
+Average loss at step  74000 :  2.97598402011
+Average loss at step  76000 :  2.95880359033
+Average loss at step  78000 :  2.96594757569
+Average loss at step  80000 :  2.85936551657
+Average loss at step  82000 :  2.7968462342
+Average loss at step  84000 :  2.36358081454
+Average loss at step  86000 :  2.44703276849
+Average loss at step  88000 :  2.34133704391
+Average loss at step  90000 :  2.54459454965
+Average loss at step  92000 :  2.65069658122
+Average loss at step  94000 :  2.88744666205
+Average loss at step  96000 :  2.57896830489
+Average loss at step  98000 :  2.49959182166
+Average loss at step  100000 :  2.50105044089
+final_embeddings_approved_256_1_2 saved
+
+drugbank_approved_words loaded
+batch_size = 32
+embedding_size = 32
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  273.911529541
+Average loss at step  2000 :  3425538310.38
+Average loss at step  4000 :  9.76558450478e+22
+Average loss at step  6000 :  7.41486303778e+32
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_approved_32_2_4 saved
+
+drugbank_approved_words loaded
+batch_size = 64
+embedding_size = 64
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  271.282836914
+Average loss at step  2000 :  92.740440733
+Average loss at step  4000 :  35.1651517416
+Average loss at step  6000 :  22.8149873816
+Average loss at step  8000 :  17.4008384672
+Average loss at step  10000 :  12.9856001907
+Average loss at step  12000 :  9.59504289633
+Average loss at step  14000 :  10.7350099454
+Average loss at step  16000 :  9.12773266487
+Average loss at step  18000 :  17.0833291974
+Average loss at step  20000 :  7.96465078606
+Average loss at step  22000 :  21.899599016
+Average loss at step  24000 :  23.6830805544
+Average loss at step  26000 :  30.4114561299
+Average loss at step  28000 :  295.656683184
+Average loss at step  30000 :  39.151383629
+Average loss at step  32000 :  12.4616902669
+Average loss at step  34000 :  320.367654111
+Average loss at step  36000 :  4864.500769
+Average loss at step  38000 :  23982.7800418
+Average loss at step  40000 :  290956.354989
+Average loss at step  42000 :  479962.304996
+Average loss at step  44000 :  8673278.02023
+Average loss at step  46000 :  20238144.6647
+Average loss at step  48000 :  35830800.0891
+Average loss at step  50000 :  699439990.486
+Average loss at step  52000 :  143743564.68
+Average loss at step  54000 :  1804520576.53
+Average loss at step  56000 :  13915383870.0
+Average loss at step  58000 :  17885582775.5
+Average loss at step  60000 :  42291548150.4
+Average loss at step  62000 :  3.93526439684e+12
+Average loss at step  64000 :  4.83327864087e+13
+Average loss at step  66000 :  1.66393883327e+16
+Average loss at step  68000 :  1.54475509911e+19
+Average loss at step  70000 :  2.67196280056e+20
+Average loss at step  72000 :  8.4396088692e+20
+Average loss at step  74000 :  6.60575756941e+20
+Average loss at step  76000 :  4.08363416972e+20
+Average loss at step  78000 :  9.78582033686e+20
+Average loss at step  80000 :  3.70738675279e+21
+Average loss at step  82000 :  1.10320056286e+24
+Average loss at step  84000 :  1.52518826729e+26
+Average loss at step  86000 :  3.4911415328e+27
+Average loss at step  88000 :  3.70746252894e+31
+Average loss at step  90000 :  1.45210793481e+34
+Average loss at step  92000 :  inf
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_approved_64_2_4 saved
+
+drugbank_approved_words loaded
+batch_size = 128
+embedding_size = 128
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  256.8387146
+Average loss at step  2000 :  88.895312376
+Average loss at step  4000 :  34.8545384954
+Average loss at step  6000 :  21.5280722162
+Average loss at step  8000 :  11.3983738513
+Average loss at step  10000 :  8.81722917131
+Average loss at step  12000 :  8.00112779687
+Average loss at step  14000 :  6.40407616745
+Average loss at step  16000 :  4.68144762367
+Average loss at step  18000 :  4.27317076796
+Average loss at step  20000 :  4.9062839616
+Average loss at step  22000 :  6.06695639185
+Average loss at step  24000 :  4.78092966468
+Average loss at step  26000 :  4.10590048171
+Average loss at step  28000 :  4.84750344416
+Average loss at step  30000 :  4.70170548152
+Average loss at step  32000 :  4.31813092052
+Average loss at step  34000 :  4.24631751809
+Average loss at step  36000 :  4.42465230235
+Average loss at step  38000 :  3.42732305232
+Average loss at step  40000 :  3.94014078998
+Average loss at step  42000 :  4.99501651447
+Average loss at step  44000 :  4.24525753926
+Average loss at step  46000 :  6.60968975326
+Average loss at step  48000 :  7.34132295774
+Average loss at step  50000 :  35.1898728193
+Average loss at step  52000 :  11.0882861671
+Average loss at step  54000 :  7.7388553675
+Average loss at step  56000 :  8.16559292347
+Average loss at step  58000 :  108.62458298
+Average loss at step  60000 :  170.955005701
+Average loss at step  62000 :  81.547234839
+Average loss at step  64000 :  41.4472867641
+Average loss at step  66000 :  211.290755573
+Average loss at step  68000 :  1279.31136509
+Average loss at step  70000 :  3904.09277155
+Average loss at step  72000 :  4770.42820648
+Average loss at step  74000 :  3571.95660794
+Average loss at step  76000 :  18527.2716785
+Average loss at step  78000 :  15341.713753
+Average loss at step  80000 :  10410.9937508
+Average loss at step  82000 :  15243.802258
+Average loss at step  84000 :  36797.6812389
+Average loss at step  86000 :  15187.3943104
+Average loss at step  88000 :  16024.8996237
+Average loss at step  90000 :  26644.0475105
+Average loss at step  92000 :  56875.3193965
+Average loss at step  94000 :  58554.3609285
+Average loss at step  96000 :  47987.8666537
+Average loss at step  98000 :  38353.2359956
+Average loss at step  100000 :  10620.0355564
+final_embeddings_approved_128_2_4 saved
+
+drugbank_approved_words loaded
+batch_size = 256
+embedding_size = 256
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  254.300811768
+Average loss at step  2000 :  88.2631416743
+Average loss at step  4000 :  32.0514868487
+Average loss at step  6000 :  17.2449777193
+Average loss at step  8000 :  11.417513766
+Average loss at step  10000 :  8.07336133943
+Average loss at step  12000 :  7.06496036547
+Average loss at step  14000 :  6.00534860119
+Average loss at step  16000 :  5.54845432889
+Average loss at step  18000 :  4.99029102617
+Average loss at step  20000 :  4.18514313032
+Average loss at step  22000 :  5.18975119704
+Average loss at step  24000 :  5.16101934333
+Average loss at step  26000 :  4.78600956267
+Average loss at step  28000 :  5.40355352744
+Average loss at step  30000 :  5.58631361876
+Average loss at step  32000 :  5.57492482589
+Average loss at step  34000 :  4.18283443778
+Average loss at step  36000 :  4.48866983525
+Average loss at step  38000 :  4.35671192219
+Average loss at step  40000 :  4.44428390647
+Average loss at step  42000 :  3.88348359165
+Average loss at step  44000 :  4.0457977857
+Average loss at step  46000 :  3.7848318663
+Average loss at step  48000 :  4.218052766
+Average loss at step  50000 :  5.54392755067
+Average loss at step  52000 :  4.74787208083
+Average loss at step  54000 :  4.68864273895
+Average loss at step  56000 :  4.14868883824
+Average loss at step  58000 :  4.19313769493
+Average loss at step  60000 :  4.20626531926
+Average loss at step  62000 :  4.60652983123
+Average loss at step  64000 :  4.00054903197
+Average loss at step  66000 :  4.21588558441
+Average loss at step  68000 :  4.19379320481
+Average loss at step  70000 :  3.8905819546
+Average loss at step  72000 :  4.8097848849
+Average loss at step  74000 :  4.54598896275
+Average loss at step  76000 :  4.08763479412
+Average loss at step  78000 :  3.26418992451
+Average loss at step  80000 :  3.45944767666
+Average loss at step  82000 :  3.25251210621
+Average loss at step  84000 :  2.9808260119
+Average loss at step  86000 :  3.5148453514
+Average loss at step  88000 :  2.94492470199
+Average loss at step  90000 :  4.26234289008
+Average loss at step  92000 :  3.41667018889
+Average loss at step  94000 :  3.33946981703
+Average loss at step  96000 :  3.18805963822
+Average loss at step  98000 :  2.89296902883
+Average loss at step  100000 :  3.12468618996
+final_embeddings_approved_256_2_4 saved
+
+drugbank_approved_words loaded
+batch_size = 512
+embedding_size = 512
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  265.339202881
+Average loss at step  2000 :  87.4116712487
+Average loss at step  4000 :  31.9973008323
+Average loss at step  6000 :  18.2725500801
+Average loss at step  8000 :  11.9777193083
+Average loss at step  10000 :  8.28234081842
+Average loss at step  12000 :  7.85448084105
+Average loss at step  14000 :  6.76747577214
+Average loss at step  16000 :  7.62604871231
+Average loss at step  18000 :  5.41333518521
+Average loss at step  20000 :  5.44603827965
+Average loss at step  22000 :  4.77185370409
+Average loss at step  24000 :  4.78760892938
+Average loss at step  26000 :  6.62543832314
+Average loss at step  28000 :  5.45474952051
+Average loss at step  30000 :  5.01722293848
+Average loss at step  32000 :  5.20109790403
+Average loss at step  34000 :  4.97515716881
+Average loss at step  36000 :  5.24085937542
+Average loss at step  38000 :  5.18603110683
+Average loss at step  40000 :  3.88792303747
+Average loss at step  42000 :  3.51157887846
+Average loss at step  44000 :  3.48390773284
+Average loss at step  46000 :  4.28206980876
+Average loss at step  48000 :  3.75385954855
+Average loss at step  50000 :  3.4052774229
+Average loss at step  52000 :  3.4944315596
+Average loss at step  54000 :  3.6028046461
+Average loss at step  56000 :  3.4989526692
+Average loss at step  58000 :  3.64465999907
+Average loss at step  60000 :  3.6535142352
+Average loss at step  62000 :  3.55883779956
+Average loss at step  64000 :  3.58372172669
+Average loss at step  66000 :  3.4959841957
+Average loss at step  68000 :  3.49110755778
+Average loss at step  70000 :  3.44705877626
+Average loss at step  72000 :  3.53102208614
+Average loss at step  74000 :  3.67976789477
+Average loss at step  76000 :  3.70434872973
+Average loss at step  78000 :  3.593266478
+Average loss at step  80000 :  3.56152601105
+Average loss at step  82000 :  3.60530740188
+Average loss at step  84000 :  3.01735186854
+Average loss at step  86000 :  3.11709434855
+Average loss at step  88000 :  3.01425319353
+Average loss at step  90000 :  3.20454670535
+Average loss at step  92000 :  3.37936235723
+Average loss at step  94000 :  3.14561433147
+Average loss at step  96000 :  3.15155785012
+Average loss at step  98000 :  3.1506672896
+Average loss at step  100000 :  3.14556635646
+final_embeddings_approved_512_2_4 saved
+
+drugbank_approved_words loaded
+batch_size = 256
+embedding_size = 256
+skip_window = 3
+num_skips = 4
+Initialized
+Average loss at step  0 :  288.96206665
+Average loss at step  2000 :  88.8230784039
+Average loss at step  4000 :  31.5909980217
+Average loss at step  6000 :  18.0584364074
+Average loss at step  8000 :  11.702632289
+Average loss at step  10000 :  8.49230994317
+Average loss at step  12000 :  8.23548003943
+Average loss at step  14000 :  6.40786790262
+Average loss at step  16000 :  5.99612170744
+Average loss at step  18000 :  5.34933648562
+Average loss at step  20000 :  4.60150849269
+Average loss at step  22000 :  5.52824104328
+Average loss at step  24000 :  5.32290059763
+Average loss at step  26000 :  5.03438481759
+Average loss at step  28000 :  5.53702729391
+Average loss at step  30000 :  5.78983680958
+Average loss at step  32000 :  5.99423734733
+Average loss at step  34000 :  4.40302404846
+Average loss at step  36000 :  4.76571827051
+Average loss at step  38000 :  4.69379031012
+Average loss at step  40000 :  5.15129890997
+Average loss at step  42000 :  4.26370368139
+Average loss at step  44000 :  4.29501318388
+Average loss at step  46000 :  4.21844913475
+Average loss at step  48000 :  4.53783044237
+Average loss at step  50000 :  5.91103146419
+Average loss at step  52000 :  5.04278129756
+Average loss at step  54000 :  4.97530168336
+Average loss at step  56000 :  4.43582605518
+Average loss at step  58000 :  4.46792067218
+Average loss at step  60000 :  4.44782365546
+Average loss at step  62000 :  4.95512700835
+Average loss at step  64000 :  4.27274638766
+Average loss at step  66000 :  4.41696726161
+Average loss at step  68000 :  4.39909980863
+Average loss at step  70000 :  4.20867560926
+Average loss at step  72000 :  5.17832795325
+Average loss at step  74000 :  5.11732271057
+Average loss at step  76000 :  4.44333789688
+Average loss at step  78000 :  3.63032447392
+Average loss at step  80000 :  3.75694910896
+Average loss at step  82000 :  3.5943749209
+Average loss at step  84000 :  3.34809508443
+Average loss at step  86000 :  3.8395504297
+Average loss at step  88000 :  3.29578675258
+Average loss at step  90000 :  4.29686472969
+Average loss at step  92000 :  4.32711841173
+Average loss at step  94000 :  3.66026578093
+Average loss at step  96000 :  4.66982298789
+Average loss at step  98000 :  3.33657904309
+Average loss at step  100000 :  3.39945361976
+final_embeddings_approved_256_3_4 saved
+
+drugbank_approved_words loaded
+batch_size = 512
+embedding_size = 512
+skip_window = 3
+num_skips = 4
+Initialized
+Average loss at step  0 :  226.10848999
+Average loss at step  2000 :  88.1278532357
+Average loss at step  4000 :  32.2271612614
+Average loss at step  6000 :  18.2189936194
+Average loss at step  8000 :  12.1641456014
+Average loss at step  10000 :  8.64511196858
+Average loss at step  12000 :  8.07668609244
+Average loss at step  14000 :  7.30793339814
+Average loss at step  16000 :  7.9071334815
+Average loss at step  18000 :  5.85530205634
+Average loss at step  20000 :  5.7971570126
+Average loss at step  22000 :  5.7738677278
+Average loss at step  24000 :  5.22875340368
+Average loss at step  26000 :  7.01824018574
+Average loss at step  28000 :  5.65776977926
+Average loss at step  30000 :  5.23317676413
+Average loss at step  32000 :  5.45474422777
+Average loss at step  34000 :  5.18283402497
+Average loss at step  36000 :  5.57607874072
+Average loss at step  38000 :  5.49140362749
+Average loss at step  40000 :  4.28176739371
+Average loss at step  42000 :  3.90060893703
+Average loss at step  44000 :  3.86753871781
+Average loss at step  46000 :  4.57008882591
+Average loss at step  48000 :  4.02458721892
+Average loss at step  50000 :  3.73709220104
+Average loss at step  52000 :  3.84829145797
+Average loss at step  54000 :  3.88817171857
+Average loss at step  56000 :  3.89867285138
+Average loss at step  58000 :  3.98014832605
+Average loss at step  60000 :  3.992406718
+Average loss at step  62000 :  3.92191272762
+Average loss at step  64000 :  3.88235965457
+Average loss at step  66000 :  3.86063133317
+Average loss at step  68000 :  3.78765738398
+Average loss at step  70000 :  3.76959555604
+Average loss at step  72000 :  3.86368667501
+Average loss at step  74000 :  3.93024190629
+Average loss at step  76000 :  3.94222322857
+Average loss at step  78000 :  3.8981065802
+Average loss at step  80000 :  3.84632126464
+Average loss at step  82000 :  3.88786800593
+Average loss at step  84000 :  3.41107685459
+Average loss at step  86000 :  3.47388150579
+Average loss at step  88000 :  3.37786880904
+Average loss at step  90000 :  3.55714683688
+Average loss at step  92000 :  3.7290363896
+Average loss at step  94000 :  3.51518083064
+Average loss at step  96000 :  3.54532521333
+Average loss at step  98000 :  3.51876982516
+Average loss at step  100000 :  3.50686726108
+final_embeddings_approved_512_3_4 saved
+
+drugbank_approved_words loaded
+batch_size = 256
+embedding_size = 256
+skip_window = 4
+num_skips = 8
+Initialized
+Average loss at step  0 :  278.396453857
+Average loss at step  2000 :  89.7119571915
+Average loss at step  4000 :  34.2920016051
+Average loss at step  6000 :  19.5611734661
+Average loss at step  8000 :  11.6896246278
+Average loss at step  10000 :  9.63758131722
+Average loss at step  12000 :  10.0624258736
+Average loss at step  14000 :  8.94866102296
+Average loss at step  16000 :  5.53784068239
+Average loss at step  18000 :  4.89440071869
+Average loss at step  20000 :  6.13752700643
+Average loss at step  22000 :  7.39515981028
+Average loss at step  24000 :  9.57736839128
+Average loss at step  26000 :  6.08799195335
+Average loss at step  28000 :  5.66162433789
+Average loss at step  30000 :  5.51795007934
+Average loss at step  32000 :  4.94524575009
+Average loss at step  34000 :  5.26355216143
+Average loss at step  36000 :  4.89870029143
+Average loss at step  38000 :  4.09615383873
+Average loss at step  40000 :  4.38037670561
+Average loss at step  42000 :  5.91203994122
+Average loss at step  44000 :  4.77921338566
+Average loss at step  46000 :  5.14776697137
+Average loss at step  48000 :  4.94643189972
+Average loss at step  50000 :  4.41534125335
+Average loss at step  52000 :  4.76688519466
+Average loss at step  54000 :  4.64040883702
+Average loss at step  56000 :  5.81549275464
+Average loss at step  58000 :  6.16625466299
+Average loss at step  60000 :  4.28991608805
+Average loss at step  62000 :  4.6765607779
+Average loss at step  64000 :  6.0981555866
+Average loss at step  66000 :  4.28711490853
+Average loss at step  68000 :  4.26081856674
+Average loss at step  70000 :  4.3898200052
+Average loss at step  72000 :  4.68303024767
+Average loss at step  74000 :  4.5685469388
+Average loss at step  76000 :  6.28546509995
+Average loss at step  78000 :  4.90997407059
+Average loss at step  80000 :  5.05322177693
+Average loss at step  82000 :  5.0020163563
+Average loss at step  84000 :  4.23968016873
+Average loss at step  86000 :  4.21275750538
+Average loss at step  88000 :  4.15931243285
+Average loss at step  90000 :  3.9356112074
+Average loss at step  92000 :  4.16197667174
+Average loss at step  94000 :  4.18322903334
+Average loss at step  96000 :  5.65671593804
+Average loss at step  98000 :  4.53944269378
+Average loss at step  100000 :  6.05494014817
+final_embeddings_approved_256_4_8 saved
+
+drugbank_approved_words loaded
+batch_size = 512
+embedding_size = 512
+skip_window = 4
+num_skips = 8
+Initialized
+Average loss at step  0 :  265.873718262
+Average loss at step  2000 :  88.9472802033
+Average loss at step  4000 :  32.9256625341
+Average loss at step  6000 :  18.8735607129
+Average loss at step  8000 :  13.4710988189
+Average loss at step  10000 :  9.11328814876
+Average loss at step  12000 :  7.83599975001
+Average loss at step  14000 :  6.82385030614
+Average loss at step  16000 :  6.46838790948
+Average loss at step  18000 :  5.69434054393
+Average loss at step  20000 :  4.94517916279
+Average loss at step  22000 :  5.89972440952
+Average loss at step  24000 :  5.73512103034
+Average loss at step  26000 :  5.28300534912
+Average loss at step  28000 :  6.01489899778
+Average loss at step  30000 :  6.28159081322
+Average loss at step  32000 :  6.44322826375
+Average loss at step  34000 :  4.85850196804
+Average loss at step  36000 :  5.19927456414
+Average loss at step  38000 :  5.15277014104
+Average loss at step  40000 :  5.21401076169
+Average loss at step  42000 :  5.23828683729
+Average loss at step  44000 :  4.85274916312
+Average loss at step  46000 :  4.63975699877
+Average loss at step  48000 :  4.88791862103
+Average loss at step  50000 :  6.41598997816
+Average loss at step  52000 :  5.47291425633
+Average loss at step  54000 :  5.34154127259
+Average loss at step  56000 :  4.84537996626
+Average loss at step  58000 :  4.83481984258
+Average loss at step  60000 :  4.85672342037
+Average loss at step  62000 :  5.23141583073
+Average loss at step  64000 :  4.58421309674
+Average loss at step  66000 :  5.00447387373
+Average loss at step  68000 :  4.81016311923
+Average loss at step  70000 :  4.53030707151
+Average loss at step  72000 :  5.54304480958
+Average loss at step  74000 :  5.12345040557
+Average loss at step  76000 :  4.71380543983
+Average loss at step  78000 :  3.95281550503
+Average loss at step  80000 :  4.0754903748
+Average loss at step  82000 :  3.93004328489
+Average loss at step  84000 :  3.67769335914
+Average loss at step  86000 :  4.05536615226
+Average loss at step  88000 :  3.56172251749
+Average loss at step  90000 :  4.45054993023
+Average loss at step  92000 :  4.09554464637
+Average loss at step  94000 :  4.74646154104
+Average loss at step  96000 :  4.01614878397
+Average loss at step  98000 :  3.75987454289
+Average loss at step  100000 :  3.90589780549
+final_embeddings_approved_512_4_8 saved
+
+drugbank_approved_words loaded
+batch_size = 512
+embedding_size = 512
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  260.835998535
+Average loss at step  2000 :  86.7686374712
+Average loss at step  4000 :  31.7491155428
+Average loss at step  6000 :  17.6683377393
+Average loss at step  8000 :  13.222468058
+Average loss at step  10000 :  8.73258120808
+Average loss at step  12000 :  6.81335565665
+Average loss at step  14000 :  7.68453765315
+Average loss at step  16000 :  5.98466018504
+Average loss at step  18000 :  5.8171792354
+Average loss at step  20000 :  5.11622771886
+Average loss at step  22000 :  3.45797418764
+Average loss at step  24000 :  4.1001927326
+Average loss at step  26000 :  3.32475240722
+Average loss at step  28000 :  3.47656733523
+Average loss at step  30000 :  3.67570722854
+Average loss at step  32000 :  3.55838430446
+Average loss at step  34000 :  3.46007889522
+Average loss at step  36000 :  3.4457111195
+Average loss at step  38000 :  3.63595910481
+Average loss at step  40000 :  3.49271260911
+Average loss at step  42000 :  3.02471230164
+Average loss at step  44000 :  2.65172344249
+Average loss at step  46000 :  3.08200302731
+Average loss at step  48000 :  2.95579964517
+Average loss at step  50000 :  2.95716344082
+Average loss at step  52000 :  3.18743943651
+Average loss at step  54000 :  3.0750490545
+Average loss at step  56000 :  3.04802352006
+Average loss at step  58000 :  3.01831075643
+Average loss at step  60000 :  3.2101581693
+Average loss at step  62000 :  3.1808120368
+Average loss at step  64000 :  2.81121278408
+Average loss at step  66000 :  2.37732445341
+Average loss at step  68000 :  2.68300156777
+Average loss at step  70000 :  2.76001706339
+Average loss at step  72000 :  2.76990055313
+Average loss at step  74000 :  2.93924313515
+Average loss at step  76000 :  2.79586081684
+Average loss at step  78000 :  2.82626900915
+Average loss at step  80000 :  2.80847913987
+Average loss at step  82000 :  2.94605622344
+Average loss at step  84000 :  2.9812547605
+Average loss at step  86000 :  2.73853409648
+Average loss at step  88000 :  2.32577707916
+Average loss at step  90000 :  2.44725582112
+Average loss at step  92000 :  2.6352051378
+Average loss at step  94000 :  2.59488868891
+Average loss at step  96000 :  2.73450074045
+Average loss at step  98000 :  2.7123448734
+Average loss at step  100000 :  2.69182625252
+final_embeddings_approved_512_1_2 saved
+
+drugbank_approved_words loaded
+batch_size = 128
+embedding_size = 128
+skip_window = 3
+num_skips = 4
+Initialized
+Average loss at step  0 :  260.515075684
+Average loss at step  2000 :  89.8184038911
+Average loss at step  4000 :  33.2420058598
+Average loss at step  6000 :  18.9012193136
+Average loss at step  8000 :  13.0023078768
+Average loss at step  10000 :  9.55351881237
+Average loss at step  12000 :  11.1562573904
+Average loss at step  14000 :  6.80941426492
+Average loss at step  16000 :  5.26265523958
+Average loss at step  18000 :  4.56708033177
+Average loss at step  20000 :  5.2278337737
+Average loss at step  22000 :  5.18903072863
+Average loss at step  24000 :  5.12951173484
+Average loss at step  26000 :  4.95637521602
+Average loss at step  28000 :  5.15858868788
+Average loss at step  30000 :  5.19353078023
+Average loss at step  32000 :  4.62952440098
+Average loss at step  34000 :  4.5511292001
+Average loss at step  36000 :  4.55391612034
+Average loss at step  38000 :  3.89959890586
+Average loss at step  40000 :  4.21144185013
+Average loss at step  42000 :  5.3296354794
+Average loss at step  44000 :  4.53546698955
+Average loss at step  46000 :  5.39820094511
+Average loss at step  48000 :  4.63748755369
+Average loss at step  50000 :  4.17371129762
+Average loss at step  52000 :  4.54406042224
+Average loss at step  54000 :  4.37454688485
+Average loss at step  56000 :  5.56142284333
+Average loss at step  58000 :  5.96514839144
+Average loss at step  60000 :  4.00796385218
+Average loss at step  62000 :  4.46722173889
+Average loss at step  64000 :  5.86663429721
+Average loss at step  66000 :  3.98160028441
+Average loss at step  68000 :  4.09301510321
+Average loss at step  70000 :  4.10985022355
+Average loss at step  72000 :  4.43850920168
+Average loss at step  74000 :  4.40237950131
+Average loss at step  76000 :  4.08501515993
+Average loss at step  78000 :  3.82689068301
+Average loss at step  80000 :  4.65999026808
+Average loss at step  82000 :  3.78421729652
+Average loss at step  84000 :  4.01561171427
+Average loss at step  86000 :  4.0024736865
+Average loss at step  88000 :  3.89370807744
+Average loss at step  90000 :  3.69594109397
+Average loss at step  92000 :  3.91024088459
+Average loss at step  94000 :  3.97643999529
+Average loss at step  96000 :  4.24066364187
+Average loss at step  98000 :  4.330313623
+Average loss at step  100000 :  5.71352622437
+final_embeddings_approved_128_3_4 saved
+
+drugbank_approved_words loaded
+batch_size = 128
+embedding_size = 128
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  258.162780762
+Average loss at step  2000 :  88.8712325604
+Average loss at step  4000 :  34.6974936697
+Average loss at step  6000 :  18.8864377518
+Average loss at step  8000 :  11.3709880645
+Average loss at step  10000 :  8.97461321395
+Average loss at step  12000 :  7.84581795834
+Average loss at step  14000 :  6.82719070393
+Average loss at step  16000 :  4.73546051496
+Average loss at step  18000 :  4.38333829518
+Average loss at step  20000 :  5.09963808617
+Average loss at step  22000 :  4.96545316228
+Average loss at step  24000 :  4.91401958871
+Average loss at step  26000 :  4.92445389348
+Average loss at step  28000 :  4.85191118933
+Average loss at step  30000 :  5.12466126801
+Average loss at step  32000 :  4.71087021404
+Average loss at step  34000 :  4.65594889029
+Average loss at step  36000 :  4.52988203699
+Average loss at step  38000 :  3.48036836889
+Average loss at step  40000 :  3.90996967036
+Average loss at step  42000 :  5.00892927885
+Average loss at step  44000 :  4.23201518244
+Average loss at step  46000 :  4.77693123568
+Average loss at step  48000 :  4.45442593348
+Average loss at step  50000 :  3.92945300307
+Average loss at step  52000 :  4.31028910318
+Average loss at step  54000 :  4.06216649592
+Average loss at step  56000 :  5.31578452145
+Average loss at step  58000 :  5.69047381486
+Average loss at step  60000 :  3.64636486961
+Average loss at step  62000 :  4.01122124581
+Average loss at step  64000 :  5.47168236928
+Average loss at step  66000 :  3.73467154081
+Average loss at step  68000 :  3.73030999056
+Average loss at step  70000 :  3.87320621221
+Average loss at step  72000 :  4.17734023696
+Average loss at step  74000 :  4.04873535812
+Average loss at step  76000 :  21.3002240074
+Average loss at step  78000 :  9.86602093942
+Average loss at step  80000 :  7.56861823244
+Average loss at step  82000 :  5.0348700611
+Average loss at step  84000 :  5.28256631652
+Average loss at step  86000 :  4.20428179412
+Average loss at step  88000 :  5.31684823441
+Average loss at step  90000 :  3.57191736071
+Average loss at step  92000 :  3.90871599255
+Average loss at step  94000 :  3.88676388981
+Average loss at step  96000 :  4.12498896272
+Average loss at step  98000 :  4.3975364151
+Average loss at step  100000 :  6.12630353659
+final_embeddings_approved_128_2_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+skip_window = 1
+num_skips = 2
+Initialized
+Average loss at step  0 :  230.361419678
+Average loss at step  2000 :  54.0965234593
+Average loss at step  4000 :  10.8864884169
+Average loss at step  6000 :  6.07135532248
+Average loss at step  8000 :  5.77800483084
+Average loss at step  10000 :  5.06106063771
+Average loss at step  12000 :  4.93463289356
+Average loss at step  14000 :  5.06863489199
+Average loss at step  16000 :  4.81998608339
+Average loss at step  18000 :  4.50417546022
+Average loss at step  20000 :  4.6258716898
+Average loss at step  22000 :  4.66286582124
+Average loss at step  24000 :  4.56861184955
+Average loss at step  26000 :  4.62496259212
+Average loss at step  28000 :  4.29639917362
+Average loss at step  30000 :  4.22792599225
+Average loss at step  32000 :  4.32609698248
+Average loss at step  34000 :  4.39237472415
+Average loss at step  36000 :  4.25745160377
+Average loss at step  38000 :  4.35756043851
+Average loss at step  40000 :  4.36988619208
+Average loss at step  42000 :  4.47615897393
+Average loss at step  44000 :  4.43528046262
+Average loss at step  46000 :  4.32290343761
+Average loss at step  48000 :  4.21334052944
+Average loss at step  50000 :  4.20133865559
+Average loss at step  52000 :  4.18677942073
+Average loss at step  54000 :  4.32706574857
+Average loss at step  56000 :  4.27322294629
+Average loss at step  58000 :  4.31248515928
+Average loss at step  60000 :  4.30207198036
+Average loss at step  62000 :  4.28691844273
+Average loss at step  64000 :  4.4228269906
+Average loss at step  66000 :  4.2988507086
+Average loss at step  68000 :  4.32578334129
+Average loss at step  70000 :  4.3458522222
+Average loss at step  72000 :  4.35738306856
+Average loss at step  74000 :  4.28632351339
+Average loss at step  76000 :  4.20527125359
+Average loss at step  78000 :  4.26767032552
+Average loss at step  80000 :  4.11468913019
+Average loss at step  82000 :  4.35026704836
+Average loss at step  84000 :  4.03683031714
+Average loss at step  86000 :  4.16982161629
+Average loss at step  88000 :  4.30121946263
+Average loss at step  90000 :  4.01391742063
+Average loss at step  92000 :  4.02531911743
+Average loss at step  94000 :  4.0125446049
+Average loss at step  96000 :  3.98062688804
+Average loss at step  98000 :  4.02299698877
+Average loss at step  100000 :  4.00343765593
+final_embeddings_only_approved_skip-gram_64_1_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+skip_window = 2
+num_skips = 4
+Initialized
+Average loss at step  0 :  226.453430176
+Average loss at step  2000 :  52.0271644874
+Average loss at step  4000 :  10.8807239331
+Average loss at step  6000 :  6.05829722011
+Average loss at step  8000 :  5.89751006007
+Average loss at step  10000 :  5.08791756785
+Average loss at step  12000 :  4.94100300646
+Average loss at step  14000 :  5.10054664207
+Average loss at step  16000 :  4.76691862869
+Average loss at step  18000 :  4.51782154524
+Average loss at step  20000 :  4.61804109788
+Average loss at step  22000 :  4.63229434752
+Average loss at step  24000 :  4.57621583533
+Average loss at step  26000 :  4.60084931171
+Average loss at step  28000 :  4.29431428778
+Average loss at step  30000 :  4.27011901188
+Average loss at step  32000 :  4.33768073797
+Average loss at step  34000 :  4.34060589218
+Average loss at step  36000 :  4.21062542474
+Average loss at step  38000 :  4.2973956579
+Average loss at step  40000 :  4.29877267587
+Average loss at step  42000 :  4.4440329566
+Average loss at step  44000 :  4.35743091667
+Average loss at step  46000 :  4.29930275702
+Average loss at step  48000 :  4.17619490933
+Average loss at step  50000 :  4.15126357973
+Average loss at step  52000 :  4.146245193
+Average loss at step  54000 :  4.26639076829
+Average loss at step  56000 :  4.21560319376
+Average loss at step  58000 :  4.18856185818
+Average loss at step  60000 :  4.21730458736
+Average loss at step  62000 :  4.23988870263
+Average loss at step  64000 :  4.36152332664
+Average loss at step  66000 :  4.21037258971
+Average loss at step  68000 :  4.24763054883
+Average loss at step  70000 :  4.28692475581
+Average loss at step  72000 :  4.26401368821
+Average loss at step  74000 :  4.2380300045
+Average loss at step  76000 :  4.11223157167
+Average loss at step  78000 :  4.18115582335
+Average loss at step  80000 :  4.10136476445
+Average loss at step  82000 :  4.24986302531
+Average loss at step  84000 :  4.00783335996
+Average loss at step  86000 :  4.08668186963
+Average loss at step  88000 :  4.19612872666
+Average loss at step  90000 :  3.94748828149
+Average loss at step  92000 :  3.97644826448
+Average loss at step  94000 :  3.97311587822
+Average loss at step  96000 :  3.94472692466
+Average loss at step  98000 :  3.96294505703
+Average loss at step  100000 :  3.95284990633
+final_embeddings_only_approved_skip-gram_128_2_4 saved
+
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  225.220184326
+Average loss at step  2000 :  60.5181419641
+Average loss at step  4000 :  21.5400430294
+Average loss at step  6000 :  15.184160579
+Average loss at step  8000 :  14.3522424059
+Average loss at step  10000 :  12.237279758
+Average loss at step  12000 :  12.8489579581
+Average loss at step  14000 :  10.4890292259
+Average loss at step  16000 :  10.0675741901
+Average loss at step  18000 :  9.25514770705
+Average loss at step  20000 :  8.61666975611
+Average loss at step  22000 :  7.85428376021
+Average loss at step  24000 :  7.13498347604
+Average loss at step  26000 :  8.57939581306
+Average loss at step  28000 :  7.54068890226
+Average loss at step  30000 :  6.56716412938
+Average loss at step  32000 :  6.23509642911
+Average loss at step  34000 :  5.66577518404
+Average loss at step  36000 :  5.92768283296
+Average loss at step  38000 :  6.62771802622
+Average loss at step  40000 :  5.70483345068
+Average loss at step  42000 :  5.21781895548
+Average loss at step  44000 :  5.1228627364
+Average loss at step  46000 :  5.1849741849
+Average loss at step  48000 :  5.25907500172
+Average loss at step  50000 :  4.13910612521
+Average loss at step  52000 :  4.96241064763
+Average loss at step  54000 :  6.23723958987
+Average loss at step  56000 :  4.07980815297
+Average loss at step  58000 :  4.3266820721
+Average loss at step  60000 :  4.18543741506
+Average loss at step  62000 :  4.64839635789
+Average loss at step  64000 :  4.90320742646
+Average loss at step  66000 :  3.87988145548
+Average loss at step  68000 :  4.76986078092
+Average loss at step  70000 :  4.14307728097
+Average loss at step  72000 :  4.16566683295
+Average loss at step  74000 :  3.87149031648
+Average loss at step  76000 :  4.42352650356
+Average loss at step  78000 :  4.52060793164
+Average loss at step  80000 :  4.69494686693
+Average loss at step  82000 :  3.93780598646
+Average loss at step  84000 :  3.84700586194
+Average loss at step  86000 :  4.64794517082
+Average loss at step  88000 :  3.86908319888
+Average loss at step  90000 :  3.89400900519
+Average loss at step  92000 :  3.62025024122
+Average loss at step  94000 :  4.42191507977
+Average loss at step  96000 :  4.57491856217
+Average loss at step  98000 :  3.98085927829
+Average loss at step  100000 :  3.91691535667
+final_embeddings_only_approved_skip-gram_16_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 8
+embedding_size = 8
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  261.66293335
+Average loss at step  2000 :  109.971808183
+Average loss at step  4000 :  11035.5187915
+Average loss at step  6000 :  2417964.65781
+Average loss at step  8000 :  63828817.6796
+Average loss at step  10000 :  4602894446.55
+Average loss at step  12000 :  1.80196850379e+13
+Average loss at step  14000 :  1.59745959888e+16
+Average loss at step  16000 :  9.96757299452e+17
+Average loss at step  18000 :  5.65285716779e+19
+Average loss at step  20000 :  6.8219319898e+24
+Average loss at step  22000 :  7.1041589054e+29
+Average loss at step  24000 :  1.28936967889e+33
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_8_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  239.677352905
+Average loss at step  2000 :  53.909734158
+Average loss at step  4000 :  13.6289708929
+Average loss at step  6000 :  8.28206107259
+Average loss at step  8000 :  5.98518229663
+Average loss at step  10000 :  5.42063817793
+Average loss at step  12000 :  4.84371599537
+Average loss at step  14000 :  5.92387114495
+Average loss at step  16000 :  4.5530691123
+Average loss at step  18000 :  4.40047668582
+Average loss at step  20000 :  4.65179767889
+Average loss at step  22000 :  4.00098470283
+Average loss at step  24000 :  4.3889477132
+Average loss at step  26000 :  3.76116958261
+Average loss at step  28000 :  4.71191287667
+Average loss at step  30000 :  3.80854399836
+Average loss at step  32000 :  3.9561999982
+Average loss at step  34000 :  3.70070958763
+Average loss at step  36000 :  3.58849786556
+Average loss at step  38000 :  3.64168846714
+Average loss at step  40000 :  3.94321164453
+Average loss at step  42000 :  3.48781513122
+Average loss at step  44000 :  3.86096033448
+Average loss at step  46000 :  3.4947610184
+Average loss at step  48000 :  3.95452475947
+Average loss at step  50000 :  3.66543822473
+Average loss at step  52000 :  3.76659240693
+Average loss at step  54000 :  3.37008922267
+Average loss at step  56000 :  3.33467562425
+Average loss at step  58000 :  3.24172182548
+Average loss at step  60000 :  3.13998581928
+Average loss at step  62000 :  3.28678620255
+Average loss at step  64000 :  3.25663215595
+Average loss at step  66000 :  3.40653335518
+Average loss at step  68000 :  3.16374136852
+Average loss at step  70000 :  3.31640842789
+Average loss at step  72000 :  2.90196183157
+Average loss at step  74000 :  3.25992283899
+Average loss at step  76000 :  3.23221718878
+Average loss at step  78000 :  3.31832167011
+Average loss at step  80000 :  3.1663611567
+Average loss at step  82000 :  3.43315743166
+Average loss at step  84000 :  3.56458555359
+Average loss at step  86000 :  3.20139174443
+Average loss at step  88000 :  3.52386368281
+Average loss at step  90000 :  3.2494309181
+Average loss at step  92000 :  3.21974627864
+Average loss at step  94000 :  3.1137141912
+Average loss at step  96000 :  3.09083676013
+Average loss at step  98000 :  3.14022816163
+Average loss at step  100000 :  3.05186498404
+final_embeddings_only_approved_skip-gram_32_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  245.433792114
+Average loss at step  2000 :  50.9823256758
+Average loss at step  4000 :  10.1617415394
+Average loss at step  6000 :  5.18095405757
+Average loss at step  8000 :  5.09309195429
+Average loss at step  10000 :  4.2178122384
+Average loss at step  12000 :  3.98646056759
+Average loss at step  14000 :  4.13964117682
+Average loss at step  16000 :  3.79943914586
+Average loss at step  18000 :  3.52174634987
+Average loss at step  20000 :  3.61723701602
+Average loss at step  22000 :  3.62636399096
+Average loss at step  24000 :  3.65321346033
+Average loss at step  26000 :  3.70883223802
+Average loss at step  28000 :  3.28010729045
+Average loss at step  30000 :  3.16975380272
+Average loss at step  32000 :  3.24847426611
+Average loss at step  34000 :  3.306006194
+Average loss at step  36000 :  3.09158907342
+Average loss at step  38000 :  3.26019963694
+Average loss at step  40000 :  3.22715585649
+Average loss at step  42000 :  3.48724663395
+Average loss at step  44000 :  3.31260072452
+Average loss at step  46000 :  3.27374426064
+Average loss at step  48000 :  3.09868472356
+Average loss at step  50000 :  3.11535212672
+Average loss at step  52000 :  3.04222999287
+Average loss at step  54000 :  3.22593001807
+Average loss at step  56000 :  3.19592472386
+Average loss at step  58000 :  3.03550826311
+Average loss at step  60000 :  3.24814733613
+Average loss at step  62000 :  3.20357749397
+Average loss at step  64000 :  3.38177694601
+Average loss at step  66000 :  3.23668662822
+Average loss at step  68000 :  3.25040524405
+Average loss at step  70000 :  3.2210168075
+Average loss at step  72000 :  3.25281709272
+Average loss at step  74000 :  3.26715205699
+Average loss at step  76000 :  3.08321367306
+Average loss at step  78000 :  3.1921305564
+Average loss at step  80000 :  3.08483514196
+Average loss at step  82000 :  3.24295795426
+Average loss at step  84000 :  2.8718699162
+Average loss at step  86000 :  3.12121733421
+Average loss at step  88000 :  3.10018606821
+Average loss at step  90000 :  2.82658959377
+Average loss at step  92000 :  2.88816161323
+Average loss at step  94000 :  2.85576214159
+Average loss at step  96000 :  2.82678122151
+Average loss at step  98000 :  2.81281380796
+Average loss at step  100000 :  2.76712270045
+final_embeddings_only_approved_skip-gram_64_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  225.920425415
+Average loss at step  2000 :  48.1634354956
+Average loss at step  4000 :  9.1915515933
+Average loss at step  6000 :  5.35498315734
+Average loss at step  8000 :  4.42112558806
+Average loss at step  10000 :  3.7789082675
+Average loss at step  12000 :  3.87888937676
+Average loss at step  14000 :  3.66398603225
+Average loss at step  16000 :  3.37111850673
+Average loss at step  18000 :  3.36313755751
+Average loss at step  20000 :  3.41953155023
+Average loss at step  22000 :  3.59221601951
+Average loss at step  24000 :  3.30812153417
+Average loss at step  26000 :  3.23024304909
+Average loss at step  28000 :  3.37547290969
+Average loss at step  30000 :  3.29718050951
+Average loss at step  32000 :  3.51753383148
+Average loss at step  34000 :  3.47458947742
+Average loss at step  36000 :  3.47091221493
+Average loss at step  38000 :  3.34631142348
+Average loss at step  40000 :  3.33509516358
+Average loss at step  42000 :  3.26610851264
+Average loss at step  44000 :  3.37069877523
+Average loss at step  46000 :  2.9675401246
+Average loss at step  48000 :  2.91102725363
+Average loss at step  50000 :  2.88581967658
+Average loss at step  52000 :  2.79451926863
+Average loss at step  54000 :  2.81228833848
+Average loss at step  56000 :  2.85730347872
+Average loss at step  58000 :  2.8720769279
+Average loss at step  60000 :  2.75775877768
+Average loss at step  62000 :  2.72587847435
+Average loss at step  64000 :  2.81092267501
+Average loss at step  66000 :  2.91746092498
+Average loss at step  68000 :  2.80288770604
+Average loss at step  70000 :  2.79507351291
+Average loss at step  72000 :  2.80585250008
+Average loss at step  74000 :  2.81342784876
+Average loss at step  76000 :  2.83467869145
+Average loss at step  78000 :  2.87459907883
+Average loss at step  80000 :  2.811699278
+Average loss at step  82000 :  2.81354389289
+Average loss at step  84000 :  2.85583839399
+Average loss at step  86000 :  2.71250010902
+Average loss at step  88000 :  2.79934691083
+Average loss at step  90000 :  2.81412914652
+Average loss at step  92000 :  2.76686205494
+Average loss at step  94000 :  2.75500608647
+Average loss at step  96000 :  2.66090221685
+Average loss at step  98000 :  2.67088578194
+Average loss at step  100000 :  2.74824950999
+final_embeddings_only_approved_skip-gram_128_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  216.407897949
+Average loss at step  2000 :  100.831682453
+Average loss at step  4000 :  3484219954.51
+Average loss at step  6000 :  2.57314363253e+17
+Average loss at step  8000 :  1.79416766171e+26
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_16_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  254.549728394
+Average loss at step  2000 :  61.238964291
+Average loss at step  4000 :  21.0536257929
+Average loss at step  6000 :  15.565576591
+Average loss at step  8000 :  12.9603189232
+Average loss at step  10000 :  11.9427823344
+Average loss at step  12000 :  12.5575161905
+Average loss at step  14000 :  10.7061428781
+Average loss at step  16000 :  9.81413774002
+Average loss at step  18000 :  9.43585778522
+Average loss at step  20000 :  8.65930258447
+Average loss at step  22000 :  7.95728506672
+Average loss at step  24000 :  6.9760765332
+Average loss at step  26000 :  8.28383104891
+Average loss at step  28000 :  7.5977089842
+Average loss at step  30000 :  6.65208700669
+Average loss at step  32000 :  6.53124182898
+Average loss at step  34000 :  6.04865016454
+Average loss at step  36000 :  6.10145859039
+Average loss at step  38000 :  6.72776278915
+Average loss at step  40000 :  5.98882664454
+Average loss at step  42000 :  5.38878146738
+Average loss at step  44000 :  5.5491827209
+Average loss at step  46000 :  5.50290883994
+Average loss at step  48000 :  5.44782416838
+Average loss at step  50000 :  4.73017703414
+Average loss at step  52000 :  5.30106426424
+Average loss at step  54000 :  6.45360237575
+Average loss at step  56000 :  4.30802394646
+Average loss at step  58000 :  4.76019503206
+Average loss at step  60000 :  4.48963193047
+Average loss at step  62000 :  4.948473894
+Average loss at step  64000 :  5.15790617058
+Average loss at step  66000 :  4.15479145283
+Average loss at step  68000 :  5.00210412836
+Average loss at step  70000 :  4.37222259271
+Average loss at step  72000 :  4.3224128623
+Average loss at step  74000 :  4.49222347778
+Average loss at step  76000 :  4.95852711743
+Average loss at step  78000 :  4.514740601
+Average loss at step  80000 :  5.01782352525
+Average loss at step  82000 :  4.34834987152
+Average loss at step  84000 :  4.27893176782
+Average loss at step  86000 :  5.07315535927
+Average loss at step  88000 :  4.29503107703
+Average loss at step  90000 :  4.19695347351
+Average loss at step  92000 :  4.0833803696
+Average loss at step  94000 :  4.66690190202
+Average loss at step  96000 :  4.63093306297
+Average loss at step  98000 :  4.08047948676
+Average loss at step  100000 :  4.18318142819
+final_embeddings_only_approved_skip-gram_32_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  233.980895996
+Average loss at step  2000 :  54.5299672606
+Average loss at step  4000 :  13.9960500486
+Average loss at step  6000 :  8.71483421326
+Average loss at step  8000 :  6.46348236251
+Average loss at step  10000 :  5.7970296129
+Average loss at step  12000 :  5.28289993453
+Average loss at step  14000 :  6.30123424625
+Average loss at step  16000 :  4.99861540532
+Average loss at step  18000 :  4.88156441963
+Average loss at step  20000 :  5.01252046442
+Average loss at step  22000 :  4.51192936969
+Average loss at step  24000 :  4.76387018448
+Average loss at step  26000 :  4.27145733905
+Average loss at step  28000 :  5.14313174033
+Average loss at step  30000 :  4.33255794454
+Average loss at step  32000 :  4.44995507342
+Average loss at step  34000 :  4.15026531768
+Average loss at step  36000 :  4.07811513501
+Average loss at step  38000 :  4.14405369228
+Average loss at step  40000 :  4.33069514835
+Average loss at step  42000 :  3.93541353858
+Average loss at step  44000 :  4.35056328076
+Average loss at step  46000 :  4.02962024927
+Average loss at step  48000 :  4.33780939215
+Average loss at step  50000 :  4.09003734404
+Average loss at step  52000 :  4.19631345969
+Average loss at step  54000 :  3.88161019558
+Average loss at step  56000 :  3.73570992923
+Average loss at step  58000 :  3.72996128702
+Average loss at step  60000 :  3.68722491241
+Average loss at step  62000 :  3.80691982597
+Average loss at step  64000 :  3.76019672668
+Average loss at step  66000 :  3.90593206137
+Average loss at step  68000 :  3.67381366795
+Average loss at step  70000 :  3.76292927003
+Average loss at step  72000 :  3.45388224
+Average loss at step  74000 :  3.7618191027
+Average loss at step  76000 :  3.70108255804
+Average loss at step  78000 :  3.80739051557
+Average loss at step  80000 :  3.65183049858
+Average loss at step  82000 :  3.88513798243
+Average loss at step  84000 :  3.8850642873
+Average loss at step  86000 :  3.62110270739
+Average loss at step  88000 :  3.9236285736
+Average loss at step  90000 :  3.6577607671
+Average loss at step  92000 :  3.70793349618
+Average loss at step  94000 :  3.58244421327
+Average loss at step  96000 :  3.50184139019
+Average loss at step  98000 :  3.57659053749
+Average loss at step  100000 :  3.49702185112
+final_embeddings_only_approved_skip-gram_64_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  236.83505249
+Average loss at step  2000 :  50.9027923514
+Average loss at step  4000 :  10.5167212975
+Average loss at step  6000 :  5.72789932501
+Average loss at step  8000 :  5.51877109778
+Average loss at step  10000 :  4.66726279128
+Average loss at step  12000 :  4.50140369916
+Average loss at step  14000 :  4.71389099157
+Average loss at step  16000 :  4.32648943883
+Average loss at step  18000 :  4.03544627392
+Average loss at step  20000 :  4.17604155636
+Average loss at step  22000 :  4.13268141663
+Average loss at step  24000 :  4.12725533974
+Average loss at step  26000 :  4.1579612298
+Average loss at step  28000 :  3.75482518709
+Average loss at step  30000 :  3.6890577262
+Average loss at step  32000 :  3.78283604133
+Average loss at step  34000 :  3.79730655754
+Average loss at step  36000 :  3.66772426641
+Average loss at step  38000 :  3.75518670839
+Average loss at step  40000 :  3.79151015466
+Average loss at step  42000 :  3.99128231525
+Average loss at step  44000 :  3.81821987343
+Average loss at step  46000 :  3.76443359506
+Average loss at step  48000 :  3.61619867492
+Average loss at step  50000 :  3.61056719661
+Average loss at step  52000 :  3.5915706988
+Average loss at step  54000 :  3.70765243447
+Average loss at step  56000 :  3.69969871664
+Average loss at step  58000 :  3.60493428379
+Average loss at step  60000 :  3.67428397369
+Average loss at step  62000 :  3.68932741654
+Average loss at step  64000 :  3.8930205881
+Average loss at step  66000 :  3.74556323892
+Average loss at step  68000 :  3.75794995153
+Average loss at step  70000 :  3.75614463836
+Average loss at step  72000 :  3.78017225844
+Average loss at step  74000 :  3.75468202835
+Average loss at step  76000 :  3.56020538181
+Average loss at step  78000 :  3.69109446329
+Average loss at step  80000 :  3.58161356264
+Average loss at step  82000 :  3.76489000881
+Average loss at step  84000 :  3.47570701149
+Average loss at step  86000 :  3.65936262602
+Average loss at step  88000 :  3.62165578651
+Average loss at step  90000 :  3.33862334311
+Average loss at step  92000 :  3.3594318704
+Average loss at step  94000 :  3.31868336725
+Average loss at step  96000 :  3.30780492681
+Average loss at step  98000 :  3.31450186235
+Average loss at step  100000 :  3.27007792771
+final_embeddings_only_approved_skip-gram_128_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  247.042800903
+Average loss at step  2000 :  50.6192494407
+Average loss at step  4000 :  10.7586970212
+Average loss at step  6000 :  5.63534173393
+Average loss at step  8000 :  5.58344168556
+Average loss at step  10000 :  4.611364609
+Average loss at step  12000 :  4.46173856211
+Average loss at step  14000 :  4.63908593285
+Average loss at step  16000 :  4.33760745972
+Average loss at step  18000 :  4.0665591501
+Average loss at step  20000 :  4.16861794174
+Average loss at step  22000 :  4.13690623033
+Average loss at step  24000 :  4.13191768765
+Average loss at step  26000 :  4.12354800808
+Average loss at step  28000 :  3.76096060228
+Average loss at step  30000 :  3.69631622493
+Average loss at step  32000 :  3.78717669058
+Average loss at step  34000 :  3.81243628186
+Average loss at step  36000 :  3.62851332027
+Average loss at step  38000 :  3.76652289283
+Average loss at step  40000 :  3.7661676845
+Average loss at step  42000 :  3.97287056488
+Average loss at step  44000 :  3.81882688665
+Average loss at step  46000 :  3.74286930656
+Average loss at step  48000 :  3.62425179386
+Average loss at step  50000 :  3.63365895617
+Average loss at step  52000 :  3.612809524
+Average loss at step  54000 :  3.71480482864
+Average loss at step  56000 :  3.68758244288
+Average loss at step  58000 :  3.60172244626
+Average loss at step  60000 :  3.68444696635
+Average loss at step  62000 :  3.72480785644
+Average loss at step  64000 :  3.84379716766
+Average loss at step  66000 :  3.75649901438
+Average loss at step  68000 :  3.75700900942
+Average loss at step  70000 :  3.75237141454
+Average loss at step  72000 :  3.77747720909
+Average loss at step  74000 :  3.72294449198
+Average loss at step  76000 :  3.60337879491
+Average loss at step  78000 :  3.69933718133
+Average loss at step  80000 :  3.54538689673
+Average loss at step  82000 :  3.75163746983
+Average loss at step  84000 :  3.45583682811
+Average loss at step  86000 :  3.61735262132
+Average loss at step  88000 :  3.6546992209
+Average loss at step  90000 :  3.31452415812
+Average loss at step  92000 :  3.35616047251
+Average loss at step  94000 :  3.31697845125
+Average loss at step  96000 :  3.30038323361
+Average loss at step  98000 :  3.30858562577
+Average loss at step  100000 :  3.29680126429
+final_embeddings_only_approved_skip-gram_128_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 256
+embedding_size = 256
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  245.055267334
+Average loss at step  2000 :  49.1033368181
+Average loss at step  4000 :  9.74177460456
+Average loss at step  6000 :  5.67179820216
+Average loss at step  8000 :  4.98924362445
+Average loss at step  10000 :  4.36025293612
+Average loss at step  12000 :  4.44353561974
+Average loss at step  14000 :  4.15842416608
+Average loss at step  16000 :  3.95712060857
+Average loss at step  18000 :  3.96274197292
+Average loss at step  20000 :  3.98334801364
+Average loss at step  22000 :  4.134532493
+Average loss at step  24000 :  3.87296831644
+Average loss at step  26000 :  3.79403844237
+Average loss at step  28000 :  3.90351829135
+Average loss at step  30000 :  3.90050780439
+Average loss at step  32000 :  4.06283422208
+Average loss at step  34000 :  4.00140265346
+Average loss at step  36000 :  4.04557416093
+Average loss at step  38000 :  3.93461200881
+Average loss at step  40000 :  3.8677589981
+Average loss at step  42000 :  3.87486070377
+Average loss at step  44000 :  3.92267347687
+Average loss at step  46000 :  3.5139497031
+Average loss at step  48000 :  3.4211654259
+Average loss at step  50000 :  3.39389895034
+Average loss at step  52000 :  3.35271094918
+Average loss at step  54000 :  3.35876332134
+Average loss at step  56000 :  3.38522225243
+Average loss at step  58000 :  3.41234494257
+Average loss at step  60000 :  3.32157654428
+Average loss at step  62000 :  3.31078888273
+Average loss at step  64000 :  3.34737351251
+Average loss at step  66000 :  3.44417817575
+Average loss at step  68000 :  3.35140342808
+Average loss at step  70000 :  3.35260680044
+Average loss at step  72000 :  3.36974243695
+Average loss at step  74000 :  3.35534519058
+Average loss at step  76000 :  3.36914781612
+Average loss at step  78000 :  3.44380411404
+Average loss at step  80000 :  3.34932215428
+Average loss at step  82000 :  3.33184637153
+Average loss at step  84000 :  3.36521145153
+Average loss at step  86000 :  3.30205291694
+Average loss at step  88000 :  3.35367407262
+Average loss at step  90000 :  3.31760819066
+Average loss at step  92000 :  3.29048226285
+Average loss at step  94000 :  3.27723529947
+Average loss at step  96000 :  3.20476948088
+Average loss at step  98000 :  3.23922971082
+Average loss at step  100000 :  3.25845122653
+final_embeddings_only_approved_skip-gram_256_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  229.940307617
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_16_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  204.30682373
+Average loss at step  2000 :  137.413571176
+Average loss at step  4000 :  8.53733092035e+14
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_32_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  244.790420532
+Average loss at step  2000 :  61.4925911257
+Average loss at step  4000 :  21.5462378453
+Average loss at step  6000 :  15.1241732783
+Average loss at step  8000 :  13.5310544879
+Average loss at step  10000 :  12.7950215738
+Average loss at step  12000 :  12.9421293907
+Average loss at step  14000 :  11.0555267534
+Average loss at step  16000 :  10.2524749266
+Average loss at step  18000 :  9.58828642523
+Average loss at step  20000 :  9.362813658
+Average loss at step  22000 :  8.37613973969
+Average loss at step  24000 :  7.63720629215
+Average loss at step  26000 :  8.60670187151
+Average loss at step  28000 :  8.08181699896
+Average loss at step  30000 :  7.15618429494
+Average loss at step  32000 :  7.02753776944
+Average loss at step  34000 :  6.49771448672
+Average loss at step  36000 :  6.47244692951
+Average loss at step  38000 :  7.08539704251
+Average loss at step  40000 :  6.25475987208
+Average loss at step  42000 :  5.7509609046
+Average loss at step  44000 :  5.87694864631
+Average loss at step  46000 :  5.78414572155
+Average loss at step  48000 :  5.75319072062
+Average loss at step  50000 :  5.20213218743
+Average loss at step  52000 :  5.44292843992
+Average loss at step  54000 :  6.70829966903
+Average loss at step  56000 :  4.71681058264
+Average loss at step  58000 :  5.07988484412
+Average loss at step  60000 :  4.90770646679
+Average loss at step  62000 :  5.31151999766
+Average loss at step  64000 :  5.75883857226
+Average loss at step  66000 :  4.57950796825
+Average loss at step  68000 :  5.46704293144
+Average loss at step  70000 :  4.91547618183
+Average loss at step  72000 :  4.77301729459
+Average loss at step  74000 :  4.87296257305
+Average loss at step  76000 :  5.23540199953
+Average loss at step  78000 :  4.89325432384
+Average loss at step  80000 :  5.18723033154
+Average loss at step  82000 :  4.64745295572
+Average loss at step  84000 :  4.52914065003
+Average loss at step  86000 :  5.4094147346
+Average loss at step  88000 :  4.50545013678
+Average loss at step  90000 :  4.60274848169
+Average loss at step  92000 :  4.41701935762
+Average loss at step  94000 :  4.79768407875
+Average loss at step  96000 :  4.89172240293
+Average loss at step  98000 :  4.46554368865
+Average loss at step  100000 :  4.49458276469
+final_embeddings_only_approved_skip-gram_64_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  222.868988037
+Average loss at step  2000 :  54.8593603226
+Average loss at step  4000 :  14.2196792054
+Average loss at step  6000 :  9.05881980956
+Average loss at step  8000 :  6.7977736547
+Average loss at step  10000 :  6.03791926324
+Average loss at step  12000 :  5.68129846919
+Average loss at step  14000 :  6.73621848881
+Average loss at step  16000 :  5.42768880689
+Average loss at step  18000 :  5.3191464231
+Average loss at step  20000 :  5.41532278669
+Average loss at step  22000 :  4.90726000118
+Average loss at step  24000 :  5.22747764337
+Average loss at step  26000 :  4.73539400268
+Average loss at step  28000 :  5.56080283284
+Average loss at step  30000 :  4.75510018611
+Average loss at step  32000 :  4.89146665108
+Average loss at step  34000 :  4.58099621546
+Average loss at step  36000 :  4.48446838874
+Average loss at step  38000 :  4.51733609951
+Average loss at step  40000 :  4.64888717318
+Average loss at step  42000 :  4.32498041642
+Average loss at step  44000 :  4.81316687328
+Average loss at step  46000 :  4.43335796237
+Average loss at step  48000 :  4.60926457763
+Average loss at step  50000 :  4.39431464195
+Average loss at step  52000 :  4.51492502546
+Average loss at step  54000 :  4.19288826752
+Average loss at step  56000 :  4.09399940348
+Average loss at step  58000 :  4.095259606
+Average loss at step  60000 :  4.09597188818
+Average loss at step  62000 :  4.23853233719
+Average loss at step  64000 :  4.14417878222
+Average loss at step  66000 :  4.24293564743
+Average loss at step  68000 :  4.07158391818
+Average loss at step  70000 :  4.17676797837
+Average loss at step  72000 :  3.91815581536
+Average loss at step  74000 :  4.10525994903
+Average loss at step  76000 :  4.08904646081
+Average loss at step  78000 :  4.14464860886
+Average loss at step  80000 :  3.98014991403
+Average loss at step  82000 :  4.26220985925
+Average loss at step  84000 :  4.27306358993
+Average loss at step  86000 :  4.03359328043
+Average loss at step  88000 :  4.22788877773
+Average loss at step  90000 :  4.00543923664
+Average loss at step  92000 :  4.02501351827
+Average loss at step  94000 :  3.94316706866
+Average loss at step  96000 :  3.90380023223
+Average loss at step  98000 :  3.95090036547
+Average loss at step  100000 :  3.82252392721
+final_embeddings_only_approved_skip-gram_128_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 256
+embedding_size = 256
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  239.700408936
+Average loss at step  2000 :  51.4070558785
+Average loss at step  4000 :  11.0713639697
+Average loss at step  6000 :  6.20182310033
+Average loss at step  8000 :  6.00953632867
+Average loss at step  10000 :  5.11119716668
+Average loss at step  12000 :  4.88523082161
+Average loss at step  14000 :  5.15416762102
+Average loss at step  16000 :  4.83384715295
+Average loss at step  18000 :  4.46677718461
+Average loss at step  20000 :  4.61908534181
+Average loss at step  22000 :  4.665299532
+Average loss at step  24000 :  4.49553374481
+Average loss at step  26000 :  4.59151206923
+Average loss at step  28000 :  4.17514488018
+Average loss at step  30000 :  4.18768984389
+Average loss at step  32000 :  4.25296877074
+Average loss at step  34000 :  4.30071354091
+Average loss at step  36000 :  4.17303562891
+Average loss at step  38000 :  4.18709951162
+Average loss at step  40000 :  4.18872678065
+Average loss at step  42000 :  4.36700074768
+Average loss at step  44000 :  4.24677172792
+Average loss at step  46000 :  4.13441753256
+Average loss at step  48000 :  4.06255057955
+Average loss at step  50000 :  4.01502285135
+Average loss at step  52000 :  4.04677978694
+Average loss at step  54000 :  4.13340173382
+Average loss at step  56000 :  4.1118085295
+Average loss at step  58000 :  4.05992708409
+Average loss at step  60000 :  4.11896295989
+Average loss at step  62000 :  4.09564995408
+Average loss at step  64000 :  4.286467623
+Average loss at step  66000 :  4.11321863425
+Average loss at step  68000 :  4.15186673188
+Average loss at step  70000 :  4.17232206094
+Average loss at step  72000 :  4.17820032299
+Average loss at step  74000 :  4.12014951766
+Average loss at step  76000 :  3.99908560073
+Average loss at step  78000 :  4.03397562814
+Average loss at step  80000 :  3.93038661802
+Average loss at step  82000 :  4.1621872341
+Average loss at step  84000 :  3.94742034209
+Average loss at step  86000 :  4.0299969542
+Average loss at step  88000 :  4.07360345638
+Average loss at step  90000 :  3.73545584285
+Average loss at step  92000 :  3.69279964578
+Average loss at step  94000 :  3.73583845824
+Average loss at step  96000 :  3.66983334684
+Average loss at step  98000 :  3.71804741353
+Average loss at step  100000 :  3.70842126632
+final_embeddings_only_approved_skip-gram_256_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 8
+embedding_size = 8
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  218.253295898
+Average loss at step  2000 :  1.8031957965e+13
+Average loss at step  4000 :  5.90724532945e+22
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_cbow_8_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  233.022262573
+Average loss at step  2000 :  57.8006986008
+Average loss at step  4000 :  21.0231375034
+Average loss at step  6000 :  15.4835385991
+Average loss at step  8000 :  33.2967507489
+Average loss at step  10000 :  41.9151628946
+Average loss at step  12000 :  102.285712999
+Average loss at step  14000 :  123.058034583
+Average loss at step  16000 :  341.560812002
+Average loss at step  18000 :  605.200824922
+Average loss at step  20000 :  1039.40978738
+Average loss at step  22000 :  1169.03470728
+Average loss at step  24000 :  903.370328213
+Average loss at step  26000 :  712.140952073
+Average loss at step  28000 :  564.529000816
+Average loss at step  30000 :  408.231761787
+Average loss at step  32000 :  359.115283253
+Average loss at step  34000 :  361.300607697
+Average loss at step  36000 :  313.897799849
+Average loss at step  38000 :  220.23785078
+Average loss at step  40000 :  276.241382442
+Average loss at step  42000 :  222.38225343
+Average loss at step  44000 :  214.024875014
+Average loss at step  46000 :  157.891440621
+Average loss at step  48000 :  291.329105544
+Average loss at step  50000 :  231.774038175
+Average loss at step  52000 :  229.428427754
+Average loss at step  54000 :  199.004123619
+Average loss at step  56000 :  205.730714492
+Average loss at step  58000 :  147.216584964
+Average loss at step  60000 :  101.568154839
+Average loss at step  62000 :  106.907751224
+Average loss at step  64000 :  83.9694195266
+Average loss at step  66000 :  105.870120145
+Average loss at step  68000 :  85.5439985654
+Average loss at step  70000 :  90.238693821
+Average loss at step  72000 :  64.0156326935
+Average loss at step  74000 :  75.3600052176
+Average loss at step  76000 :  73.4498486304
+Average loss at step  78000 :  160.212719676
+Average loss at step  80000 :  101.990335626
+Average loss at step  82000 :  122.864504257
+Average loss at step  84000 :  124.719552763
+Average loss at step  86000 :  93.6477712727
+Average loss at step  88000 :  101.686219397
+Average loss at step  90000 :  103.393011584
+Average loss at step  92000 :  79.7920191469
+Average loss at step  94000 :  66.0548825872
+Average loss at step  96000 :  75.5415782679
+Average loss at step  98000 :  48.2983054492
+Average loss at step  100000 :  63.7187120571
+final_embeddings_only_approved_cbow_16_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  232.503067017
+Average loss at step  2000 :  48.0918892776
+Average loss at step  4000 :  11.1831816105
+Average loss at step  6000 :  5.20749296546
+Average loss at step  8000 :  4.83741499251
+Average loss at step  10000 :  3.98366228408
+Average loss at step  12000 :  3.53520754308
+Average loss at step  14000 :  3.28384422311
+Average loss at step  16000 :  3.34199172038
+Average loss at step  18000 :  2.88708938304
+Average loss at step  20000 :  3.15602208203
+Average loss at step  22000 :  3.03155505994
+Average loss at step  24000 :  3.14975876069
+Average loss at step  26000 :  3.12721181795
+Average loss at step  28000 :  2.6325440537
+Average loss at step  30000 :  2.47201151827
+Average loss at step  32000 :  2.63174673128
+Average loss at step  34000 :  2.62595790792
+Average loss at step  36000 :  2.37805021852
+Average loss at step  38000 :  2.61973603174
+Average loss at step  40000 :  2.56513128546
+Average loss at step  42000 :  2.90888842613
+Average loss at step  44000 :  2.75706190556
+Average loss at step  46000 :  2.6238507182
+Average loss at step  48000 :  2.47105447829
+Average loss at step  50000 :  2.47762060842
+Average loss at step  52000 :  2.38544736183
+Average loss at step  54000 :  2.69697223447
+Average loss at step  56000 :  2.49475463256
+Average loss at step  58000 :  2.3592637656
+Average loss at step  60000 :  2.58133624867
+Average loss at step  62000 :  2.53945557117
+Average loss at step  64000 :  2.77282688263
+Average loss at step  66000 :  2.6681637053
+Average loss at step  68000 :  2.64991360384
+Average loss at step  70000 :  2.59311787826
+Average loss at step  72000 :  2.62038807696
+Average loss at step  74000 :  2.67363823631
+Average loss at step  76000 :  2.41819250068
+Average loss at step  78000 :  2.70814384645
+Average loss at step  80000 :  2.5247635977
+Average loss at step  82000 :  2.70260181549
+Average loss at step  84000 :  2.15410453852
+Average loss at step  86000 :  2.69385330275
+Average loss at step  88000 :  2.67260291865
+Average loss at step  90000 :  2.51317537701
+Average loss at step  92000 :  2.34682161349
+Average loss at step  94000 :  2.29479527938
+Average loss at step  96000 :  2.21345540294
+Average loss at step  98000 :  2.2112751897
+Average loss at step  100000 :  2.07772347504
+final_embeddings_only_approved_cbow_32_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  244.569610596
+Average loss at step  2000 :  45.7238267664
+Average loss at step  4000 :  8.32389393681
+Average loss at step  6000 :  4.24382413989
+Average loss at step  8000 :  3.28492383164
+Average loss at step  10000 :  2.93298045617
+Average loss at step  12000 :  2.99592705858
+Average loss at step  14000 :  2.8986667611
+Average loss at step  16000 :  2.53080422336
+Average loss at step  18000 :  2.50502821633
+Average loss at step  20000 :  2.54932644251
+Average loss at step  22000 :  2.78301598656
+Average loss at step  24000 :  2.52725316021
+Average loss at step  26000 :  2.3755310449
+Average loss at step  28000 :  2.52866039407
+Average loss at step  30000 :  2.49301388931
+Average loss at step  32000 :  2.63999606773
+Average loss at step  34000 :  2.67463449329
+Average loss at step  36000 :  2.60095277786
+Average loss at step  38000 :  2.50139497325
+Average loss at step  40000 :  2.60247651967
+Average loss at step  42000 :  2.43366929403
+Average loss at step  44000 :  2.65683901638
+Average loss at step  46000 :  2.27842172673
+Average loss at step  48000 :  2.19639203829
+Average loss at step  50000 :  2.06391713393
+Average loss at step  52000 :  1.96354838197
+Average loss at step  54000 :  1.93354338661
+Average loss at step  56000 :  2.11267411461
+Average loss at step  58000 :  2.10226867622
+Average loss at step  60000 :  1.9262033006
+Average loss at step  62000 :  1.88783222118
+Average loss at step  64000 :  2.02597273237
+Average loss at step  66000 :  2.13810758561
+Average loss at step  68000 :  1.99494741246
+Average loss at step  70000 :  1.96959212255
+Average loss at step  72000 :  1.97161534977
+Average loss at step  74000 :  2.03825846875
+Average loss at step  76000 :  2.05812543178
+Average loss at step  78000 :  2.15703977039
+Average loss at step  80000 :  1.99753059146
+Average loss at step  82000 :  2.0692471703
+Average loss at step  84000 :  2.20856031391
+Average loss at step  86000 :  1.95255644542
+Average loss at step  88000 :  2.08977484545
+Average loss at step  90000 :  2.04386237717
+Average loss at step  92000 :  1.99751748657
+Average loss at step  94000 :  1.92221450591
+Average loss at step  96000 :  1.80090438992
+Average loss at step  98000 :  1.82594663987
+Average loss at step  100000 :  1.98873565222
+final_embeddings_only_approved_cbow_64_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  258.661254883
+Average loss at step  2000 :  44.4736520076
+Average loss at step  4000 :  7.83989431494
+Average loss at step  6000 :  3.98103773385
+Average loss at step  8000 :  3.10008996427
+Average loss at step  10000 :  2.80057158601
+Average loss at step  12000 :  2.87439988554
+Average loss at step  14000 :  2.6871006752
+Average loss at step  16000 :  2.74973946553
+Average loss at step  18000 :  2.83942166916
+Average loss at step  20000 :  2.77790080619
+Average loss at step  22000 :  2.79508284524
+Average loss at step  24000 :  2.37631309265
+Average loss at step  26000 :  2.14024609157
+Average loss at step  28000 :  2.1502784248
+Average loss at step  30000 :  2.10980132964
+Average loss at step  32000 :  2.05949238479
+Average loss at step  34000 :  2.17066258228
+Average loss at step  36000 :  2.105294175
+Average loss at step  38000 :  2.16396504515
+Average loss at step  40000 :  2.22017833218
+Average loss at step  42000 :  2.27970024952
+Average loss at step  44000 :  2.17794000113
+Average loss at step  46000 :  2.11765095252
+Average loss at step  48000 :  1.94394309664
+Average loss at step  50000 :  1.97526260439
+Average loss at step  52000 :  1.92940975368
+Average loss at step  54000 :  1.91527806222
+Average loss at step  56000 :  2.01249618447
+Average loss at step  58000 :  1.94698644641
+Average loss at step  60000 :  2.02909018463
+Average loss at step  62000 :  2.06264025044
+Average loss at step  64000 :  2.12428506634
+Average loss at step  66000 :  1.98594956681
+Average loss at step  68000 :  2.00102761805
+Average loss at step  70000 :  1.83617197713
+Average loss at step  72000 :  1.93880464995
+Average loss at step  74000 :  1.82335730943
+Average loss at step  76000 :  1.89994657171
+Average loss at step  78000 :  1.91578067392
+Average loss at step  80000 :  1.86848563352
+Average loss at step  82000 :  1.98035119602
+Average loss at step  84000 :  1.96594893497
+Average loss at step  86000 :  2.0059632908
+Average loss at step  88000 :  1.90266326606
+Average loss at step  90000 :  1.95135904062
+Average loss at step  92000 :  1.75948531145
+Average loss at step  94000 :  1.88786302921
+Average loss at step  96000 :  1.75919806769
+Average loss at step  98000 :  1.82388575545
+Average loss at step  100000 :  1.85756029457
+final_embeddings_only_approved_cbow_128_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 24
+embedding_size = 24
+num_skips = 2
+skip_window = 1
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  240.383651733
+Average loss at step  2000 :  50.6059560784
+Average loss at step  4000 :  13.2282020181
+Average loss at step  6000 :  8.45423119199
+Average loss at step  8000 :  5.3922390179
+Average loss at step  10000 :  5.59785325652
+Average loss at step  12000 :  4.38518053052
+Average loss at step  14000 :  4.06039135867
+Average loss at step  16000 :  3.82455740446
+Average loss at step  18000 :  3.80283827451
+Average loss at step  20000 :  3.28913195893
+Average loss at step  22000 :  3.50913714164
+Average loss at step  24000 :  3.14830247962
+Average loss at step  26000 :  3.21842571923
+Average loss at step  28000 :  3.52197662884
+Average loss at step  30000 :  3.47556996372
+Average loss at step  32000 :  3.29529517618
+Average loss at step  34000 :  3.21127224317
+Average loss at step  36000 :  3.23357479462
+Average loss at step  38000 :  2.8450581333
+Average loss at step  40000 :  2.50423341817
+Average loss at step  42000 :  2.70264340186
+Average loss at step  44000 :  2.99767023045
+Average loss at step  46000 :  2.67202040327
+Average loss at step  48000 :  2.48107849789
+Average loss at step  50000 :  2.74659025419
+Average loss at step  52000 :  2.88981698707
+Average loss at step  54000 :  2.7737188597
+Average loss at step  56000 :  3.1073675952
+Average loss at step  58000 :  2.88579917425
+Average loss at step  60000 :  2.85893572173
+Average loss at step  62000 :  2.80454937249
+Average loss at step  64000 :  2.46227816132
+Average loss at step  66000 :  2.79065779713
+Average loss at step  68000 :  2.44888569778
+Average loss at step  70000 :  2.6017335594
+Average loss at step  72000 :  2.83311988206
+Average loss at step  74000 :  2.51033759859
+Average loss at step  76000 :  2.52716435333
+Average loss at step  78000 :  2.56287985685
+Average loss at step  80000 :  2.6475613329
+Average loss at step  82000 :  2.93859792262
+Average loss at step  84000 :  2.88134759608
+Average loss at step  86000 :  2.9535098294
+Average loss at step  88000 :  2.80653898549
+Average loss at step  90000 :  2.72769729632
+Average loss at step  92000 :  2.53819107625
+Average loss at step  94000 :  3.09293105224
+Average loss at step  96000 :  2.59338959664
+Average loss at step  98000 :  2.68341162586
+Average loss at step  100000 :  2.65771474087
+final_embeddings_only_approved_cbow_24_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  253.319854736
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_cbow_16_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  246.979125977
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_cbow_32_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 4
+skip_window = 2
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  239.44367981
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_cbow_64_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 4
+skip_window = 2
+architecture = cbow
+num_steps = 100001
+Initialized
+Average loss at step  0 :  234.181640625
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_cbow_128_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  256.573547363
+Average loss at step  2000 :  62.5254891764
+Average loss at step  4000 :  16.9897428874
+Average loss at step  6000 :  8.88692839956
+Average loss at step  8000 :  7.21314535946
+Average loss at step  10000 :  5.38720198208
+Average loss at step  12000 :  3.98802490425
+Average loss at step  14000 :  4.19384861445
+Average loss at step  16000 :  3.74949060935
+Average loss at step  18000 :  3.80615971333
+Average loss at step  20000 :  3.68652440649
+Average loss at step  22000 :  3.62944996786
+Average loss at step  24000 :  4.72540059787
+Average loss at step  26000 :  3.91810268271
+Average loss at step  28000 :  3.52092899382
+Average loss at step  30000 :  3.34496585172
+Average loss at step  32000 :  3.09094945353
+Average loss at step  34000 :  3.71250096351
+Average loss at step  36000 :  3.20963241822
+Average loss at step  38000 :  3.45465435839
+Average loss at step  40000 :  3.09296461558
+Average loss at step  42000 :  3.15424540383
+Average loss at step  44000 :  3.43872490913
+Average loss at step  46000 :  3.11384692842
+Average loss at step  48000 :  3.19964848226
+Average loss at step  50000 :  3.70653799891
+Average loss at step  52000 :  2.85095143622
+Average loss at step  54000 :  3.13917110342
+Average loss at step  56000 :  3.05566156125
+Average loss at step  58000 :  3.36263966739
+Average loss at step  60000 :  2.75391816998
+Average loss at step  62000 :  3.00831330997
+Average loss at step  64000 :  2.99483270335
+Average loss at step  66000 :  2.93715470153
+Average loss at step  68000 :  2.97619333762
+Average loss at step  70000 :  2.99986641324
+Average loss at step  72000 :  3.10633603913
+Average loss at step  74000 :  2.87033771485
+Average loss at step  76000 :  2.81436332661
+Average loss at step  78000 :  3.44982106954
+Average loss at step  80000 :  2.93240439636
+Average loss at step  82000 :  2.96873459554
+Average loss at step  84000 :  2.84137211001
+Average loss at step  86000 :  2.93874997449
+Average loss at step  88000 :  2.94461006144
+Average loss at step  90000 :  2.85658768153
+Average loss at step  92000 :  2.73265691495
+Average loss at step  94000 :  2.99734754694
+Average loss at step  96000 :  2.88772818404
+Average loss at step  98000 :  2.76423315567
+Average loss at step  100000 :  2.75678118584
+final_embeddings_only_approved_skip-gram_32_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  279.399291992
+Average loss at step  2000 :  68.2512679318
+Average loss at step  4000 :  22.5357252544
+Average loss at step  6000 :  16.1017813519
+Average loss at step  8000 :  10.8889499483
+Average loss at step  10000 :  11.5039083916
+Average loss at step  12000 :  9.08053461635
+Average loss at step  14000 :  9.82919991529
+Average loss at step  16000 :  8.58058914691
+Average loss at step  18000 :  7.69208955765
+Average loss at step  20000 :  9.04572706252
+Average loss at step  22000 :  6.77424694127
+Average loss at step  24000 :  6.21784490258
+Average loss at step  26000 :  6.90254007244
+Average loss at step  28000 :  6.86591474795
+Average loss at step  30000 :  6.64484856576
+Average loss at step  32000 :  5.471553408
+Average loss at step  34000 :  6.22339581907
+Average loss at step  36000 :  5.72198618716
+Average loss at step  38000 :  5.07655588853
+Average loss at step  40000 :  5.912695856
+Average loss at step  42000 :  5.64682470262
+Average loss at step  44000 :  5.13922886872
+Average loss at step  46000 :  5.933775556
+Average loss at step  48000 :  6.38309270173
+Average loss at step  50000 :  5.44124911022
+Average loss at step  52000 :  4.94590114433
+Average loss at step  54000 :  5.03924395728
+Average loss at step  56000 :  4.66472483975
+Average loss at step  58000 :  4.60873653427
+Average loss at step  60000 :  4.39260757607
+Average loss at step  62000 :  4.53789647174
+Average loss at step  64000 :  3.184476089
+Average loss at step  66000 :  5.53172737217
+Average loss at step  68000 :  4.56163588291
+Average loss at step  70000 :  4.77341329843
+Average loss at step  72000 :  3.65196240336
+Average loss at step  74000 :  5.06838802397
+Average loss at step  76000 :  3.94129475838
+Average loss at step  78000 :  4.0354133932
+Average loss at step  80000 :  3.67090385094
+Average loss at step  82000 :  3.5264315632
+Average loss at step  84000 :  4.10776277998
+Average loss at step  86000 :  4.4320678314
+Average loss at step  88000 :  3.43766077554
+Average loss at step  90000 :  3.98037814118
+Average loss at step  92000 :  3.49351205921
+Average loss at step  94000 :  3.49928222322
+Average loss at step  96000 :  4.40745003122
+Average loss at step  98000 :  4.58041293275
+Average loss at step  100000 :  3.29589305723
+final_embeddings_only_approved_skip-gram_16_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 8
+embedding_size = 8
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  279.087738037
+Average loss at step  2000 :  108.105095478
+Average loss at step  4000 :  138.841425549
+Average loss at step  6000 :  431.129162577
+Average loss at step  8000 :  16837.3283567
+Average loss at step  10000 :  123760.950431
+Average loss at step  12000 :  1069697.7754
+Average loss at step  14000 :  6884560.0042
+Average loss at step  16000 :  36285112.2866
+Average loss at step  18000 :  951889184.777
+Average loss at step  20000 :  3.19102810477e+12
+Average loss at step  22000 :  2.83410697033e+15
+Average loss at step  24000 :  1.69198605812e+16
+Average loss at step  26000 :  5.20689181418e+16
+Average loss at step  28000 :  1.93438322791e+18
+Average loss at step  30000 :  1.06046097829e+20
+Average loss at step  32000 :  6.58138354121e+21
+Average loss at step  34000 :  6.69811593509e+22
+Average loss at step  36000 :  3.92421171995e+23
+Average loss at step  38000 :  4.79428003259e+25
+Average loss at step  40000 :  1.24484706792e+28
+Average loss at step  42000 :  1.316350062e+30
+Average loss at step  44000 :  2.87510568325e+30
+Average loss at step  46000 :  1.90384626913e+31
+Average loss at step  48000 :  1.07775328488e+32
+Average loss at step  50000 :  7.83864081844e+32
+Average loss at step  52000 :  3.60929061989e+33
+Average loss at step  54000 :  3.95610588929e+34
+Average loss at step  56000 :  inf
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_8_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  242.244232178
+Average loss at step  2000 :  59.935675757
+Average loss at step  4000 :  15.1643615513
+Average loss at step  6000 :  6.7387281009
+Average loss at step  8000 :  4.43837074834
+Average loss at step  10000 :  3.80962127596
+Average loss at step  12000 :  4.17076487702
+Average loss at step  14000 :  3.57773248029
+Average loss at step  16000 :  3.08768181819
+Average loss at step  18000 :  3.3662641201
+Average loss at step  20000 :  3.15169012278
+Average loss at step  22000 :  3.23137199348
+Average loss at step  24000 :  3.05746997362
+Average loss at step  26000 :  3.46546755791
+Average loss at step  28000 :  3.02555472398
+Average loss at step  30000 :  3.01447774464
+Average loss at step  32000 :  2.94762452674
+Average loss at step  34000 :  2.84419983453
+Average loss at step  36000 :  2.95715297943
+Average loss at step  38000 :  2.81097754723
+Average loss at step  40000 :  3.17772230327
+Average loss at step  42000 :  2.86715575385
+Average loss at step  44000 :  2.94728762031
+Average loss at step  46000 :  2.79560484207
+Average loss at step  48000 :  2.96980224925
+Average loss at step  50000 :  2.7282904827
+Average loss at step  52000 :  2.64751607782
+Average loss at step  54000 :  2.59981456864
+Average loss at step  56000 :  2.7039301694
+Average loss at step  58000 :  2.75025182533
+Average loss at step  60000 :  2.81960902154
+Average loss at step  62000 :  2.67522215945
+Average loss at step  64000 :  2.81237980872
+Average loss at step  66000 :  2.5050430178
+Average loss at step  68000 :  2.72917134863
+Average loss at step  70000 :  2.85145148286
+Average loss at step  72000 :  2.61394961375
+Average loss at step  74000 :  2.77308174783
+Average loss at step  76000 :  2.96098033994
+Average loss at step  78000 :  2.63432342327
+Average loss at step  80000 :  2.74290726751
+Average loss at step  82000 :  2.79265181601
+Average loss at step  84000 :  2.71192061383
+Average loss at step  86000 :  2.60355100888
+Average loss at step  88000 :  2.60784804159
+Average loss at step  90000 :  2.54052138633
+Average loss at step  92000 :  2.50462078458
+Average loss at step  94000 :  2.63063263834
+Average loss at step  96000 :  2.57657551563
+Average loss at step  98000 :  2.82690830064
+Average loss at step  100000 :  2.5506823366
+final_embeddings_only_approved_skip-gram_64_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  229.405609131
+Average loss at step  2000 :  58.2259749912
+Average loss at step  4000 :  12.7944827099
+Average loss at step  6000 :  6.72168601972
+Average loss at step  8000 :  4.27457764584
+Average loss at step  10000 :  3.66607200521
+Average loss at step  12000 :  3.38042931968
+Average loss at step  14000 :  3.45278484106
+Average loss at step  16000 :  3.07646942943
+Average loss at step  18000 :  2.99548868847
+Average loss at step  20000 :  3.141936616
+Average loss at step  22000 :  3.03893442804
+Average loss at step  24000 :  2.99984939939
+Average loss at step  26000 :  2.71357216126
+Average loss at step  28000 :  2.70806180751
+Average loss at step  30000 :  2.8912058264
+Average loss at step  32000 :  2.84712855482
+Average loss at step  34000 :  2.6830681023
+Average loss at step  36000 :  2.78932778096
+Average loss at step  38000 :  2.99571240211
+Average loss at step  40000 :  2.74835159713
+Average loss at step  42000 :  2.82526784068
+Average loss at step  44000 :  2.68127331978
+Average loss at step  46000 :  2.58504139471
+Average loss at step  48000 :  2.66070357955
+Average loss at step  50000 :  2.76631881559
+Average loss at step  52000 :  2.7318799879
+Average loss at step  54000 :  2.78535056102
+Average loss at step  56000 :  2.78454159379
+Average loss at step  58000 :  2.90233485734
+Average loss at step  60000 :  2.73418054581
+Average loss at step  62000 :  2.77168954527
+Average loss at step  64000 :  2.86586660802
+Average loss at step  66000 :  2.81602969712
+Average loss at step  68000 :  2.70199908733
+Average loss at step  70000 :  2.51983371425
+Average loss at step  72000 :  2.77158981824
+Average loss at step  74000 :  2.71069608796
+Average loss at step  76000 :  2.70977548069
+Average loss at step  78000 :  2.55507782656
+Average loss at step  80000 :  2.91646211612
+Average loss at step  82000 :  2.59858338529
+Average loss at step  84000 :  2.46415699595
+Average loss at step  86000 :  2.43384492826
+Average loss at step  88000 :  2.44626651806
+Average loss at step  90000 :  2.43920423567
+Average loss at step  92000 :  2.42738216698
+Average loss at step  94000 :  2.34957880521
+Average loss at step  96000 :  2.41644580412
+Average loss at step  98000 :  2.41088518798
+Average loss at step  100000 :  2.4405291605
+final_embeddings_only_approved_skip-gram_128_2_1 saved
+
+drugbank_words_only_approved loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  247.179992676
+Average loss at step  2000 :  106.716073365
+Average loss at step  4000 :  138.147009415
+Average loss at step  6000 :  2596.52864807
+Average loss at step  8000 :  7964996.43159
+Average loss at step  10000 :  67482329.8115
+Average loss at step  12000 :  1006209616.62
+Average loss at step  14000 :  10831343446.8
+Average loss at step  16000 :  932060086026.0
+Average loss at step  18000 :  2.62057369867e+13
+Average loss at step  20000 :  3.41405003717e+23
+Average loss at step  22000 :  8.53062183222e+24
+Average loss at step  24000 :  1.16797018992e+26
+Average loss at step  26000 :  7.15996651238e+26
+Average loss at step  28000 :  1.76292356292e+28
+Average loss at step  30000 :  2.23525900483e+29
+Average loss at step  32000 :  5.41284161222e+31
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_16_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  231.90663147
+Average loss at step  2000 :  68.6164783626
+Average loss at step  4000 :  22.1501190169
+Average loss at step  6000 :  16.2936245152
+Average loss at step  8000 :  11.0584798861
+Average loss at step  10000 :  11.3070213829
+Average loss at step  12000 :  9.49029011935
+Average loss at step  14000 :  9.98332818621
+Average loss at step  16000 :  8.77120311177
+Average loss at step  18000 :  7.70560363483
+Average loss at step  20000 :  9.01534429789
+Average loss at step  22000 :  6.81572784019
+Average loss at step  24000 :  6.44717552388
+Average loss at step  26000 :  7.14824531376
+Average loss at step  28000 :  7.30347731864
+Average loss at step  30000 :  6.8207309587
+Average loss at step  32000 :  5.93999537039
+Average loss at step  34000 :  6.58378044385
+Average loss at step  36000 :  6.13366590101
+Average loss at step  38000 :  5.6267582646
+Average loss at step  40000 :  6.11919069278
+Average loss at step  42000 :  6.43262808436
+Average loss at step  44000 :  5.40868967104
+Average loss at step  46000 :  6.49641499525
+Average loss at step  48000 :  6.68281924343
+Average loss at step  50000 :  5.92748193246
+Average loss at step  52000 :  5.30698473454
+Average loss at step  54000 :  5.52012582123
+Average loss at step  56000 :  5.03122444654
+Average loss at step  58000 :  5.12269113213
+Average loss at step  60000 :  4.78971497172
+Average loss at step  62000 :  5.12862985805
+Average loss at step  64000 :  3.76149130344
+Average loss at step  66000 :  5.68007982725
+Average loss at step  68000 :  4.97949528819
+Average loss at step  70000 :  5.22123421562
+Average loss at step  72000 :  4.27431713927
+Average loss at step  74000 :  5.42560160071
+Average loss at step  76000 :  4.41188952166
+Average loss at step  78000 :  4.57291019511
+Average loss at step  80000 :  4.18055509758
+Average loss at step  82000 :  4.08549057269
+Average loss at step  84000 :  4.6433275159
+Average loss at step  86000 :  5.05951543105
+Average loss at step  88000 :  3.98588563043
+Average loss at step  90000 :  4.53117503464
+Average loss at step  92000 :  4.23212541318
+Average loss at step  94000 :  3.98217124981
+Average loss at step  96000 :  4.72716133112
+Average loss at step  98000 :  5.1351276595
+Average loss at step  100000 :  3.82453618002
+final_embeddings_only_approved_skip-gram_32_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  266.244720459
+Average loss at step  2000 :  63.4276474516
+Average loss at step  4000 :  17.2918406217
+Average loss at step  6000 :  9.45626267731
+Average loss at step  8000 :  7.99376597917
+Average loss at step  10000 :  6.13930921829
+Average loss at step  12000 :  4.69035474885
+Average loss at step  14000 :  4.80708640051
+Average loss at step  16000 :  4.43257957888
+Average loss at step  18000 :  4.56803487134
+Average loss at step  20000 :  4.37106876421
+Average loss at step  22000 :  4.34303844571
+Average loss at step  24000 :  5.33949808574
+Average loss at step  26000 :  4.58238214326
+Average loss at step  28000 :  4.12593465799
+Average loss at step  30000 :  3.99425559628
+Average loss at step  32000 :  3.79213398665
+Average loss at step  34000 :  4.31587050951
+Average loss at step  36000 :  3.91785051239
+Average loss at step  38000 :  4.11858345807
+Average loss at step  40000 :  3.7827560972
+Average loss at step  42000 :  3.82242432421
+Average loss at step  44000 :  4.02365816367
+Average loss at step  46000 :  3.79150660723
+Average loss at step  48000 :  3.76200717378
+Average loss at step  50000 :  4.46949345332
+Average loss at step  52000 :  3.44882556295
+Average loss at step  54000 :  3.72168200547
+Average loss at step  56000 :  3.67868287504
+Average loss at step  58000 :  4.00009510124
+Average loss at step  60000 :  3.37269765002
+Average loss at step  62000 :  3.69689225292
+Average loss at step  64000 :  3.67393918151
+Average loss at step  66000 :  3.5130226348
+Average loss at step  68000 :  3.5767320019
+Average loss at step  70000 :  3.57722570628
+Average loss at step  72000 :  3.76832904434
+Average loss at step  74000 :  3.52765446317
+Average loss at step  76000 :  3.43113782561
+Average loss at step  78000 :  4.02777014595
+Average loss at step  80000 :  3.59835915655
+Average loss at step  82000 :  3.61788768315
+Average loss at step  84000 :  3.45191917908
+Average loss at step  86000 :  3.6292513988
+Average loss at step  88000 :  3.61053476727
+Average loss at step  90000 :  3.47363365132
+Average loss at step  92000 :  3.36885817891
+Average loss at step  94000 :  3.64365858847
+Average loss at step  96000 :  3.56695382345
+Average loss at step  98000 :  3.42563488263
+Average loss at step  100000 :  3.40294436949
+final_embeddings_only_approved_skip-gram_64_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  229.772399902
+Average loss at step  2000 :  60.0630220131
+Average loss at step  4000 :  15.9658388338
+Average loss at step  6000 :  7.51384161544
+Average loss at step  8000 :  5.11265904486
+Average loss at step  10000 :  4.50407980251
+Average loss at step  12000 :  4.86072611165
+Average loss at step  14000 :  4.3208414278
+Average loss at step  16000 :  3.75897996914
+Average loss at step  18000 :  4.01441232657
+Average loss at step  20000 :  3.86849066901
+Average loss at step  22000 :  3.9035306741
+Average loss at step  24000 :  3.72265286314
+Average loss at step  26000 :  4.05408660424
+Average loss at step  28000 :  3.68890351027
+Average loss at step  30000 :  3.60824519801
+Average loss at step  32000 :  3.59974382436
+Average loss at step  34000 :  3.49477488589
+Average loss at step  36000 :  3.58224267554
+Average loss at step  38000 :  3.42245750356
+Average loss at step  40000 :  3.80356110418
+Average loss at step  42000 :  3.49308724022
+Average loss at step  44000 :  3.57744493771
+Average loss at step  46000 :  3.42284055144
+Average loss at step  48000 :  3.57837356865
+Average loss at step  50000 :  3.34753003365
+Average loss at step  52000 :  3.27155530709
+Average loss at step  54000 :  3.23426614481
+Average loss at step  56000 :  3.2866473456
+Average loss at step  58000 :  3.37832195771
+Average loss at step  60000 :  3.43368469417
+Average loss at step  62000 :  3.28516995066
+Average loss at step  64000 :  3.4329680016
+Average loss at step  66000 :  3.12253040087
+Average loss at step  68000 :  3.36548897368
+Average loss at step  70000 :  3.45947043014
+Average loss at step  72000 :  3.22240222323
+Average loss at step  74000 :  3.38408129001
+Average loss at step  76000 :  3.57352508891
+Average loss at step  78000 :  3.28964479798
+Average loss at step  80000 :  3.32872841156
+Average loss at step  82000 :  3.4073894065
+Average loss at step  84000 :  3.29254061073
+Average loss at step  86000 :  3.2157960124
+Average loss at step  88000 :  3.23332032108
+Average loss at step  90000 :  3.14771032429
+Average loss at step  92000 :  3.14218313408
+Average loss at step  94000 :  3.25572181219
+Average loss at step  96000 :  3.18838344884
+Average loss at step  98000 :  3.46631899798
+Average loss at step  100000 :  3.16717556584
+final_embeddings_only_approved_skip-gram_128_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 256
+embedding_size = 256
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  233.916412354
+Average loss at step  2000 :  58.9840159456
+Average loss at step  4000 :  13.5907714075
+Average loss at step  6000 :  7.30389523208
+Average loss at step  8000 :  4.97607845938
+Average loss at step  10000 :  4.39521419895
+Average loss at step  12000 :  4.07893905914
+Average loss at step  14000 :  4.10557558334
+Average loss at step  16000 :  3.78566918921
+Average loss at step  18000 :  3.67282482612
+Average loss at step  20000 :  3.79971475863
+Average loss at step  22000 :  3.67086268795
+Average loss at step  24000 :  3.64067330348
+Average loss at step  26000 :  3.39834783602
+Average loss at step  28000 :  3.35777094942
+Average loss at step  30000 :  3.5252859472
+Average loss at step  32000 :  3.44644921362
+Average loss at step  34000 :  3.34673583841
+Average loss at step  36000 :  3.4318555547
+Average loss at step  38000 :  3.64084720147
+Average loss at step  40000 :  3.40443609345
+Average loss at step  42000 :  3.47666103458
+Average loss at step  44000 :  3.31975277793
+Average loss at step  46000 :  3.21843901354
+Average loss at step  48000 :  3.32667930615
+Average loss at step  50000 :  3.44603063512
+Average loss at step  52000 :  3.37637568694
+Average loss at step  54000 :  3.44537355781
+Average loss at step  56000 :  3.39943551588
+Average loss at step  58000 :  3.52400891334
+Average loss at step  60000 :  3.369808191
+Average loss at step  62000 :  3.41343970633
+Average loss at step  64000 :  3.49571104991
+Average loss at step  66000 :  3.45689717942
+Average loss at step  68000 :  3.32704839468
+Average loss at step  70000 :  3.13009164679
+Average loss at step  72000 :  3.39977362275
+Average loss at step  74000 :  3.33075682086
+Average loss at step  76000 :  3.32160005003
+Average loss at step  78000 :  3.22174546158
+Average loss at step  80000 :  3.54848217458
+Average loss at step  82000 :  3.2192870909
+Average loss at step  84000 :  3.07824888259
+Average loss at step  86000 :  3.08582122654
+Average loss at step  88000 :  3.07018206561
+Average loss at step  90000 :  3.0590430705
+Average loss at step  92000 :  3.03822299951
+Average loss at step  94000 :  2.95868939108
+Average loss at step  96000 :  3.02150826859
+Average loss at step  98000 :  3.01586976671
+Average loss at step  100000 :  3.04302172047
+final_embeddings_only_approved_skip-gram_256_4_2 saved
+
+drugbank_words_only_approved loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  232.938949585
+Average loss at step  2000 :  97.9193041329
+Average loss at step  4000 :  93.7898048801
+Average loss at step  6000 :  790.586483859
+Average loss at step  8000 :  1.27077041895e+23
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_32_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  224.686019897
+Average loss at step  2000 :  68.3104751315
+Average loss at step  4000 :  22.9979280556
+Average loss at step  6000 :  16.0305251473
+Average loss at step  8000 :  11.2555425791
+Average loss at step  10000 :  11.1542129946
+Average loss at step  12000 :  9.0716114558
+Average loss at step  14000 :  9.82064721119
+Average loss at step  16000 :  8.9919283613
+Average loss at step  18000 :  8.02880105913
+Average loss at step  20000 :  9.1661447252
+Average loss at step  22000 :  7.05414382422
+Average loss at step  24000 :  6.57836872566
+Average loss at step  26000 :  7.60218286967
+Average loss at step  28000 :  7.37804030955
+Average loss at step  30000 :  7.0936073271
+Average loss at step  32000 :  6.27055985105
+Average loss at step  34000 :  6.79113091576
+Average loss at step  36000 :  6.50605934107
+Average loss at step  38000 :  5.81590223873
+Average loss at step  40000 :  6.27469706607
+Average loss at step  42000 :  6.1258115586
+Average loss at step  44000 :  5.73808202541
+Average loss at step  46000 :  6.65171327335
+Average loss at step  48000 :  7.33782753897
+Average loss at step  50000 :  6.19354393554
+Average loss at step  52000 :  5.58733628774
+Average loss at step  54000 :  5.89057266748
+Average loss at step  56000 :  5.48829527378
+Average loss at step  58000 :  5.49078232217
+Average loss at step  60000 :  5.3325062387
+Average loss at step  62000 :  5.4614475112
+Average loss at step  64000 :  4.18940913343
+Average loss at step  66000 :  6.05652536273
+Average loss at step  68000 :  5.64002955151
+Average loss at step  70000 :  5.45889250684
+Average loss at step  72000 :  4.68164781439
+Average loss at step  74000 :  5.7674383055
+Average loss at step  76000 :  4.72232884908
+Average loss at step  78000 :  4.98322227275
+Average loss at step  80000 :  4.4745736357
+Average loss at step  82000 :  4.5862525245
+Average loss at step  84000 :  5.05193261945
+Average loss at step  86000 :  5.32131340575
+Average loss at step  88000 :  4.39294517207
+Average loss at step  90000 :  4.89507932889
+Average loss at step  92000 :  4.78153844351
+Average loss at step  94000 :  4.56174558717
+Average loss at step  96000 :  5.24379454547
+Average loss at step  98000 :  5.57187149942
+Average loss at step  100000 :  4.26941021115
+final_embeddings_only_approved_skip-gram_64_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  224.404510498
+Average loss at step  2000 :  63.6230455706
+Average loss at step  4000 :  18.0118430495
+Average loss at step  6000 :  9.86056194651
+Average loss at step  8000 :  8.50264614654
+Average loss at step  10000 :  6.54990905333
+Average loss at step  12000 :  5.21923002779
+Average loss at step  14000 :  5.31345777285
+Average loss at step  16000 :  4.97038612413
+Average loss at step  18000 :  5.12508345854
+Average loss at step  20000 :  4.88195012403
+Average loss at step  22000 :  4.80809238577
+Average loss at step  24000 :  5.77751959872
+Average loss at step  26000 :  5.06033229601
+Average loss at step  28000 :  4.65869863451
+Average loss at step  30000 :  4.50650238335
+Average loss at step  32000 :  4.34923173201
+Average loss at step  34000 :  4.91028987586
+Average loss at step  36000 :  4.4491901716
+Average loss at step  38000 :  4.5640430969
+Average loss at step  40000 :  4.25252063441
+Average loss at step  42000 :  4.38064113092
+Average loss at step  44000 :  4.52636627614
+Average loss at step  46000 :  4.34997909606
+Average loss at step  48000 :  4.34725864565
+Average loss at step  50000 :  5.02674706924
+Average loss at step  52000 :  3.99611218107
+Average loss at step  54000 :  4.25773906016
+Average loss at step  56000 :  4.13891679734
+Average loss at step  58000 :  4.51679933059
+Average loss at step  60000 :  3.9151521039
+Average loss at step  62000 :  4.19400787854
+Average loss at step  64000 :  4.21223048389
+Average loss at step  66000 :  4.10258117783
+Average loss at step  68000 :  4.1325623126
+Average loss at step  70000 :  4.15221706355
+Average loss at step  72000 :  4.26329767418
+Average loss at step  74000 :  4.01708786595
+Average loss at step  76000 :  3.97980943394
+Average loss at step  78000 :  4.48792290592
+Average loss at step  80000 :  4.12945069575
+Average loss at step  82000 :  4.14088985348
+Average loss at step  84000 :  4.02196449184
+Average loss at step  86000 :  4.16134507859
+Average loss at step  88000 :  4.12743005896
+Average loss at step  90000 :  4.02078135699
+Average loss at step  92000 :  3.94533591998
+Average loss at step  94000 :  4.17395553035
+Average loss at step  96000 :  4.10008018547
+Average loss at step  98000 :  3.96234427083
+Average loss at step  100000 :  3.95784662861
+final_embeddings_only_approved_skip-gram_128_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 256
+embedding_size = 256
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  247.962875366
+Average loss at step  2000 :  60.8047553493
+Average loss at step  4000 :  16.2780775453
+Average loss at step  6000 :  8.09031179178
+Average loss at step  8000 :  5.73457779694
+Average loss at step  10000 :  5.02525430131
+Average loss at step  12000 :  5.38819186759
+Average loss at step  14000 :  4.78334610641
+Average loss at step  16000 :  4.3128856132
+Average loss at step  18000 :  4.53481669664
+Average loss at step  20000 :  4.36649187136
+Average loss at step  22000 :  4.44401905775
+Average loss at step  24000 :  4.26244352233
+Average loss at step  26000 :  4.6267010262
+Average loss at step  28000 :  4.24479364014
+Average loss at step  30000 :  4.16834292835
+Average loss at step  32000 :  4.12190710151
+Average loss at step  34000 :  4.03682098985
+Average loss at step  36000 :  4.13472570288
+Average loss at step  38000 :  3.96645288634
+Average loss at step  40000 :  4.39025210917
+Average loss at step  42000 :  4.07745728385
+Average loss at step  44000 :  4.17033408308
+Average loss at step  46000 :  3.96464233243
+Average loss at step  48000 :  4.13901810849
+Average loss at step  50000 :  3.91127468622
+Average loss at step  52000 :  3.81078053164
+Average loss at step  54000 :  3.78800341666
+Average loss at step  56000 :  3.85261199141
+Average loss at step  58000 :  3.89710460711
+Average loss at step  60000 :  3.99448754072
+Average loss at step  62000 :  3.79674289966
+Average loss at step  64000 :  3.97214213192
+Average loss at step  66000 :  3.72799472523
+Average loss at step  68000 :  3.90574360716
+Average loss at step  70000 :  3.98777363491
+Average loss at step  72000 :  3.78431109405
+Average loss at step  74000 :  3.93179925275
+Average loss at step  76000 :  4.09062931085
+Average loss at step  78000 :  3.81658677971
+Average loss at step  80000 :  3.87871359277
+Average loss at step  82000 :  3.92909263897
+Average loss at step  84000 :  3.83512714171
+Average loss at step  86000 :  3.76702168131
+Average loss at step  88000 :  3.78879573488
+Average loss at step  90000 :  3.70701946354
+Average loss at step  92000 :  3.68147872126
+Average loss at step  94000 :  3.80011035538
+Average loss at step  96000 :  3.74262727118
+Average loss at step  98000 :  4.00046886635
+Average loss at step  100000 :  3.69487091851
+final_embeddings_only_approved_skip-gram_256_8_4 saved
+
+drugbank_words_only_approved loaded
+batch_size = 512
+embedding_size = 512
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  253.852386475
+Average loss at step  2000 :  59.9356376401
+Average loss at step  4000 :  14.1915824417
+Average loss at step  6000 :  7.82770060635
+Average loss at step  8000 :  5.52153332543
+Average loss at step  10000 :  4.87807449257
+Average loss at step  12000 :  4.65078325927
+Average loss at step  14000 :  4.7374727869
+Average loss at step  16000 :  4.35619740725
+Average loss at step  18000 :  4.28709108162
+Average loss at step  20000 :  4.37547988391
+Average loss at step  22000 :  4.26717232013
+Average loss at step  24000 :  4.21845570862
+Average loss at step  26000 :  4.00016660583
+Average loss at step  28000 :  3.97524213028
+Average loss at step  30000 :  4.0988738395
+Average loss at step  32000 :  4.04819548845
+Average loss at step  34000 :  3.94248388612
+Average loss at step  36000 :  4.02428914833
+Average loss at step  38000 :  4.20964067912
+Average loss at step  40000 :  3.9782330941
+Average loss at step  42000 :  4.03374316919
+Average loss at step  44000 :  3.88556829298
+Average loss at step  46000 :  3.79874351931
+Average loss at step  48000 :  3.88307605803
+Average loss at step  50000 :  3.98918215394
+Average loss at step  52000 :  3.93059707594
+Average loss at step  54000 :  4.02388115597
+Average loss at step  56000 :  3.98129459965
+Average loss at step  58000 :  4.08425063074
+Average loss at step  60000 :  3.96576793528
+Average loss at step  62000 :  4.02242543638
+Average loss at step  64000 :  4.06405481839
+Average loss at step  66000 :  4.06002743876
+Average loss at step  68000 :  3.92530843508
+Average loss at step  70000 :  3.72122851253
+Average loss at step  72000 :  3.94805747902
+Average loss at step  74000 :  3.89476189625
+Average loss at step  76000 :  3.91085367727
+Average loss at step  78000 :  3.83164138472
+Average loss at step  80000 :  4.08626058519
+Average loss at step  82000 :  3.79556014442
+Average loss at step  84000 :  3.67316162241
+Average loss at step  86000 :  3.63023574507
+Average loss at step  88000 :  3.64040246391
+Average loss at step  90000 :  3.62221048367
+Average loss at step  92000 :  3.58773854649
+Average loss at step  94000 :  3.53228506005
+Average loss at step  96000 :  3.59461697423
+Average loss at step  98000 :  3.60215780091
+Average loss at step  100000 :  3.6137143383
+final_embeddings_only_approved_skip-gram_512_8_4 saved
+
+drugbank_words_only_approved data and reverse dictionary loaded
+batch_size = 8
+embedding_size = 8
+num_skips = 2
+skip_window = 1
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  233.749420166
+Average loss at step  2000 :  130.519237677
+Average loss at step  4000 :  501.175577479
+Average loss at step  6000 :  5924.1793686
+Average loss at step  8000 :  459352.174433
+Average loss at step  10000 :  5117921.46828
+Average loss at step  12000 :  53586098.5004
+Average loss at step  14000 :  4562006483.52
+Average loss at step  16000 :  68003307094.7
+Average loss at step  18000 :  288565205726.0
+Average loss at step  20000 :  1.08519564147e+13
+Average loss at step  22000 :  2.53772116466e+14
+Average loss at step  24000 :  1.40085345512e+15
+Average loss at step  26000 :  1.02378161834e+16
+Average loss at step  28000 :  8.74066064235e+16
+Average loss at step  30000 :  6.26587769618e+17
+Average loss at step  32000 :  2.91528593408e+19
+Average loss at step  34000 :  3.84399580033e+20
+Average loss at step  36000 :  1.75259648611e+21
+Average loss at step  38000 :  1.3512474056e+22
+Average loss at step  40000 :  5.65782305619e+22
+Average loss at step  42000 :  6.15163522906e+23
+Average loss at step  44000 :  1.60065332331e+24
+Average loss at step  46000 :  8.62722055114e+24
+Average loss at step  48000 :  3.61911185878e+25
+Average loss at step  50000 :  3.61458432292e+26
+Average loss at step  52000 :  1.46425672026e+27
+Average loss at step  54000 :  9.10845571702e+28
+Average loss at step  56000 :  4.05045193015e+30
+Average loss at step  58000 :  2.78934575355e+31
+Average loss at step  60000 :  8.2600974231e+31
+Average loss at step  62000 :  1.01380149695e+33
+Average loss at step  64000 :  3.0074875372e+33
+Average loss at step  66000 :  1.20979064083e+34
+Average loss at step  68000 :  7.16556101492e+34
+Average loss at step  70000 :  3.41916136364e+35
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_skip-gram_8_2_1 saved
+
+drugbank_words_only_approved_100 data and reverse dictionary loaded
+batch_size = 4
+embedding_size = 4
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  218.309143066
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_100_skip-gram_4_4_2 saved
+
+drugbank_words_only_approved_100 data and reverse dictionary loaded
+batch_size = 8
+embedding_size = 8
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  203.581344604
+Average loss at step  2000 :  nan
+Average loss at step  4000 :  nan
+Average loss at step  6000 :  nan
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_100_skip-gram_8_4_2 saved
+
+drugbank_words_only_approved_100 data and reverse dictionary loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  228.705612183
+Average loss at step  2000 :  76.4387044155
+Average loss at step  4000 :  198598.949159
+Average loss at step  6000 :  26998187.5007
+Average loss at step  8000 :  111385832415.0
+Average loss at step  10000 :  7.68363121952e+17
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_only_approved_100_skip-gram_16_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  260.276428223
+Average loss at step  2000 :  103.213900962
+Average loss at step  4000 :  76.2849257324
+Average loss at step  6000 :  349.092156578
+Average loss at step  8000 :  43702.0141255
+Average loss at step  10000 :  3101650.47371
+Average loss at step  12000 :  125665096.246
+Average loss at step  14000 :  3.57371327162e+12
+Average loss at step  16000 :  1.69392160095e+13
+Average loss at step  18000 :  8.2087424757e+13
+Average loss at step  20000 :  1.31102750164e+16
+Average loss at step  22000 :  4.16144131783e+22
+Average loss at step  24000 :  4.87256232643e+23
+Average loss at step  26000 :  2.93914185893e+24
+Average loss at step  28000 :  5.45464776686e+24
+Average loss at step  30000 :  2.84145426668e+25
+Average loss at step  32000 :  2.56259013384e+27
+Average loss at step  34000 :  4.11871269265e+30
+Average loss at step  36000 :  7.02803731291e+34
+Average loss at step  38000 :  inf
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_all_skip-gram_16_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  293.259857178
+Average loss at step  2000 :  81.7948936422
+Average loss at step  4000 :  35.4264700252
+Average loss at step  6000 :  21.1648587396
+Average loss at step  8000 :  16.575798054
+Average loss at step  10000 :  13.3224361516
+Average loss at step  12000 :  11.9863381551
+Average loss at step  14000 :  9.15148642749
+Average loss at step  16000 :  9.61156623387
+Average loss at step  18000 :  11.0991310093
+Average loss at step  20000 :  12.3194020859
+Average loss at step  22000 :  15.9744594822
+Average loss at step  24000 :  12.3830080377
+Average loss at step  26000 :  8.63736171651
+Average loss at step  28000 :  7.68577296734
+Average loss at step  30000 :  7.10673462516
+Average loss at step  32000 :  5.7180711751
+Average loss at step  34000 :  7.65680453467
+Average loss at step  36000 :  6.91572760928
+Average loss at step  38000 :  6.15424247
+Average loss at step  40000 :  6.77393751341
+Average loss at step  42000 :  6.06935032189
+Average loss at step  44000 :  6.21414546704
+Average loss at step  46000 :  6.88644364965
+Average loss at step  48000 :  6.10927611631
+Average loss at step  50000 :  5.20717767835
+Average loss at step  52000 :  5.75467726839
+Average loss at step  54000 :  5.5954263643
+Average loss at step  56000 :  5.87370169455
+Average loss at step  58000 :  5.19099491417
+Average loss at step  60000 :  5.72205827951
+Average loss at step  62000 :  4.80702460957
+Average loss at step  64000 :  4.74458080572
+Average loss at step  66000 :  5.39967158544
+Average loss at step  68000 :  4.70670585883
+Average loss at step  70000 :  4.41135030329
+Average loss at step  72000 :  4.74962278217
+Average loss at step  74000 :  4.87005549324
+Average loss at step  76000 :  4.63622072273
+Average loss at step  78000 :  4.31535960162
+Average loss at step  80000 :  4.66229716945
+Average loss at step  82000 :  6.07353799611
+Average loss at step  84000 :  4.46098158008
+Average loss at step  86000 :  4.98175800693
+Average loss at step  88000 :  4.32317998564
+Average loss at step  90000 :  5.38295015711
+Average loss at step  92000 :  4.3370779562
+Average loss at step  94000 :  5.2364118908
+Average loss at step  96000 :  4.33292486268
+Average loss at step  98000 :  4.97833235532
+Average loss at step  100000 :  4.0209706229
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 16
+embedding_size = 16
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  277.083618164
+Average loss at step  2000 :  101.664160918
+Average loss at step  4000 :  64.8211039567
+Average loss at step  6000 :  431.21273523
+Average loss at step  8000 :  27495.3601508
+Average loss at step  10000 :  752492.413189
+Average loss at step  12000 :  23825123.6733
+Average loss at step  14000 :  36329481912.3
+Average loss at step  16000 :  241771538199.0
+Average loss at step  18000 :  4.85602717271e+12
+Average loss at step  20000 :  1.08890377872e+14
+Average loss at step  22000 :  1.09994788556e+17
+Average loss at step  24000 :  1.26933542549e+18
+Average loss at step  26000 :  1.08193888178e+19
+Average loss at step  28000 :  3.13713433954e+19
+Average loss at step  30000 :  3.93321133459e+20
+Average loss at step  32000 :  6.09202172783e+21
+Average loss at step  34000 :  1.49203954588e+24
+Average loss at step  36000 :  5.01924546867e+27
+Average loss at step  38000 :  1.04212333449e+29
+Average loss at step  40000 :  6.32298240278e+34
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_all_skip-gram_16_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  253.685180664
+Average loss at step  2000 :  81.8761035733
+Average loss at step  4000 :  35.4772435473
+Average loss at step  6000 :  21.5201976331
+Average loss at step  8000 :  16.6065678121
+Average loss at step  10000 :  13.419750269
+Average loss at step  12000 :  11.9926084976
+Average loss at step  14000 :  9.06483336729
+Average loss at step  16000 :  9.65678289938
+Average loss at step  18000 :  10.9233907871
+Average loss at step  20000 :  11.9694039968
+Average loss at step  22000 :  15.6854751933
+Average loss at step  24000 :  11.696278551
+Average loss at step  26000 :  8.43787303895
+Average loss at step  28000 :  7.71426678431
+Average loss at step  30000 :  7.18023904729
+Average loss at step  32000 :  5.87992147839
+Average loss at step  34000 :  7.68013500339
+Average loss at step  36000 :  7.02220820141
+Average loss at step  38000 :  6.00741864673
+Average loss at step  40000 :  6.8018285867
+Average loss at step  42000 :  5.95498118347
+Average loss at step  44000 :  6.20062006229
+Average loss at step  46000 :  7.01380849242
+Average loss at step  48000 :  6.25080215299
+Average loss at step  50000 :  5.25986276466
+Average loss at step  52000 :  5.59324002486
+Average loss at step  54000 :  5.4121913498
+Average loss at step  56000 :  5.95331282794
+Average loss at step  58000 :  5.18214693367
+Average loss at step  60000 :  5.90280087525
+Average loss at step  62000 :  4.81014581746
+Average loss at step  64000 :  4.72615939409
+Average loss at step  66000 :  5.45856587565
+Average loss at step  68000 :  4.74211355841
+Average loss at step  70000 :  4.27046013719
+Average loss at step  72000 :  4.74024409783
+Average loss at step  74000 :  4.84104436457
+Average loss at step  76000 :  4.54965373254
+Average loss at step  78000 :  4.22720987827
+Average loss at step  80000 :  4.60128021002
+Average loss at step  82000 :  6.05312997967
+Average loss at step  84000 :  4.41492327526
+Average loss at step  86000 :  5.03004443771
+Average loss at step  88000 :  4.19562599683
+Average loss at step  90000 :  5.25531204414
+Average loss at step  92000 :  4.38101258457
+Average loss at step  94000 :  5.30690193141
+Average loss at step  96000 :  4.51902794051
+Average loss at step  98000 :  5.04458267683
+Average loss at step  100000 :  4.08823941004
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  244.123779297
+Average loss at step  2000 :  78.7452158375
+Average loss at step  4000 :  28.2299762896
+Average loss at step  6000 :  15.7990347678
+Average loss at step  8000 :  9.7765840286
+Average loss at step  10000 :  9.97042322779
+Average loss at step  12000 :  10.9363825158
+Average loss at step  14000 :  5.66628318906
+Average loss at step  16000 :  4.54012607455
+Average loss at step  18000 :  5.14012414014
+Average loss at step  20000 :  4.51138314662
+Average loss at step  22000 :  4.22579047072
+Average loss at step  24000 :  4.78853744835
+Average loss at step  26000 :  3.97286538768
+Average loss at step  28000 :  4.2420906775
+Average loss at step  30000 :  4.09323779255
+Average loss at step  32000 :  3.6911877284
+Average loss at step  34000 :  3.98513457727
+Average loss at step  36000 :  3.73665879053
+Average loss at step  38000 :  3.94421033204
+Average loss at step  40000 :  3.73100867057
+Average loss at step  42000 :  4.47019748163
+Average loss at step  44000 :  3.93057322669
+Average loss at step  46000 :  4.0155742597
+Average loss at step  48000 :  4.15980400217
+Average loss at step  50000 :  3.96099637008
+Average loss at step  52000 :  3.98240062118
+Average loss at step  54000 :  3.73080958521
+Average loss at step  56000 :  3.6012670728
+Average loss at step  58000 :  3.57135295427
+Average loss at step  60000 :  3.85372632176
+Average loss at step  62000 :  3.46202265316
+Average loss at step  64000 :  3.82190193951
+Average loss at step  66000 :  3.51521388221
+Average loss at step  68000 :  3.46308910859
+Average loss at step  70000 :  3.65371838301
+Average loss at step  72000 :  3.32460702193
+Average loss at step  74000 :  3.64167325974
+Average loss at step  76000 :  3.31995443904
+Average loss at step  78000 :  3.57661223614
+Average loss at step  80000 :  3.91367966264
+Average loss at step  82000 :  3.63617181343
+Average loss at step  84000 :  3.26882676256
+Average loss at step  86000 :  3.47368880111
+Average loss at step  88000 :  3.67203232825
+Average loss at step  90000 :  3.6497184844
+Average loss at step  92000 :  3.42764727378
+Average loss at step  94000 :  3.43615494734
+Average loss at step  96000 :  3.10729231149
+Average loss at step  98000 :  3.58256143236
+Average loss at step  100000 :  3.4276379779
+final_embeddings_all_skip-gram_64_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  286.134216309
+Average loss at step  2000 :  81.8986054683
+Average loss at step  4000 :  34.6317018656
+Average loss at step  6000 :  21.8611162456
+Average loss at step  8000 :  15.8049373324
+Average loss at step  10000 :  12.8625661697
+Average loss at step  12000 :  11.9161984345
+Average loss at step  14000 :  9.15222284076
+Average loss at step  16000 :  9.84019014037
+Average loss at step  18000 :  10.7231738829
+Average loss at step  20000 :  12.0286713071
+Average loss at step  22000 :  15.6745489216
+Average loss at step  24000 :  11.8725432156
+Average loss at step  26000 :  8.2432884624
+Average loss at step  28000 :  7.42961824608
+Average loss at step  30000 :  6.86589606827
+Average loss at step  32000 :  5.68639751506
+Average loss at step  34000 :  7.41015939963
+Average loss at step  36000 :  6.70553419316
+Average loss at step  38000 :  5.95563126746
+Average loss at step  40000 :  6.71055147332
+Average loss at step  42000 :  5.88062468821
+Average loss at step  44000 :  6.10479893208
+Average loss at step  46000 :  6.64292139173
+Average loss at step  48000 :  6.17853526527
+Average loss at step  50000 :  5.15931790048
+Average loss at step  52000 :  5.58074293649
+Average loss at step  54000 :  5.54631234181
+Average loss at step  56000 :  5.77541194612
+Average loss at step  58000 :  5.12121100402
+Average loss at step  60000 :  5.62754576725
+Average loss at step  62000 :  4.73257894111
+Average loss at step  64000 :  4.70206463045
+Average loss at step  66000 :  5.27878289682
+Average loss at step  68000 :  4.49269484752
+Average loss at step  70000 :  4.20181525141
+Average loss at step  72000 :  4.64747785008
+Average loss at step  74000 :  4.74137379152
+Average loss at step  76000 :  4.46147386229
+Average loss at step  78000 :  4.29412953418
+Average loss at step  80000 :  4.52695182234
+Average loss at step  82000 :  5.89148175898
+Average loss at step  84000 :  4.36637093365
+Average loss at step  86000 :  4.93817677879
+Average loss at step  88000 :  4.22111611658
+Average loss at step  90000 :  5.35791412246
+Average loss at step  92000 :  4.32937914264
+Average loss at step  94000 :  5.14124501932
+Average loss at step  96000 :  4.39930257303
+Average loss at step  98000 :  4.98022455734
+Average loss at step  100000 :  4.00867220759
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  283.066436768
+Average loss at step  2000 :  82.1457683067
+Average loss at step  4000 :  35.1850750481
+Average loss at step  6000 :  21.4274486969
+Average loss at step  8000 :  16.0374628318
+Average loss at step  10000 :  13.2192514812
+Average loss at step  12000 :  11.999587974
+Average loss at step  14000 :  9.0727452625
+Average loss at step  16000 :  9.61756732917
+Average loss at step  18000 :  11.0744812021
+Average loss at step  20000 :  12.2239441991
+Average loss at step  22000 :  15.5326909568
+Average loss at step  24000 :  12.0074905066
+Average loss at step  26000 :  8.25850294387
+Average loss at step  28000 :  7.6940043897
+Average loss at step  30000 :  6.88671625715
+Average loss at step  32000 :  5.7332705465
+Average loss at step  34000 :  7.53124741822
+Average loss at step  36000 :  6.69861243349
+Average loss at step  38000 :  6.05809543713
+Average loss at step  40000 :  6.76842436337
+Average loss at step  42000 :  5.83694310087
+Average loss at step  44000 :  6.16714006758
+Average loss at step  46000 :  6.78416674191
+Average loss at step  48000 :  5.98405240095
+Average loss at step  50000 :  5.20631136262
+Average loss at step  52000 :  5.50586161906
+Average loss at step  54000 :  5.23926500183
+Average loss at step  56000 :  5.69805493146
+Average loss at step  58000 :  5.34137608325
+Average loss at step  60000 :  5.71356102198
+Average loss at step  62000 :  4.77349716151
+Average loss at step  64000 :  4.72037814987
+Average loss at step  66000 :  5.36732776642
+Average loss at step  68000 :  4.73606458092
+Average loss at step  70000 :  4.35782042438
+Average loss at step  72000 :  4.66596069682
+Average loss at step  74000 :  4.79787750894
+Average loss at step  76000 :  4.52509877092
+Average loss at step  78000 :  4.25844931489
+Average loss at step  80000 :  4.52649058354
+Average loss at step  82000 :  6.04299175483
+Average loss at step  84000 :  4.40677917743
+Average loss at step  86000 :  5.08583636189
+Average loss at step  88000 :  4.14455075866
+Average loss at step  90000 :  5.36352756453
+Average loss at step  92000 :  4.2628399902
+Average loss at step  94000 :  5.24075568897
+Average loss at step  96000 :  4.427154589
+Average loss at step  98000 :  4.95167418432
+Average loss at step  100000 :  4.07670819736
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  257.539855957
+Average loss at step  2000 :  81.7311616254
+Average loss at step  4000 :  35.5574775825
+Average loss at step  6000 :  20.9564428948
+Average loss at step  8000 :  16.1180408948
+Average loss at step  10000 :  12.924528639
+Average loss at step  12000 :  11.8086029986
+Average loss at step  14000 :  9.32916568834
+Average loss at step  16000 :  9.8328376525
+Average loss at step  18000 :  11.0012795658
+Average loss at step  20000 :  12.2504266739
+Average loss at step  22000 :  15.529090255
+Average loss at step  24000 :  11.8828187195
+Average loss at step  26000 :  8.30546269745
+Average loss at step  28000 :  7.66168371177
+Average loss at step  30000 :  7.03927644432
+Average loss at step  32000 :  5.75595664793
+Average loss at step  34000 :  7.83908356231
+Average loss at step  36000 :  6.90294244188
+Average loss at step  38000 :  5.99617921511
+Average loss at step  40000 :  6.60410904807
+Average loss at step  42000 :  6.03114977849
+Average loss at step  44000 :  6.12344105363
+Average loss at step  46000 :  6.91304102689
+Average loss at step  48000 :  5.95974494183
+Average loss at step  50000 :  5.09727729338
+Average loss at step  52000 :  5.66416362798
+Average loss at step  54000 :  5.53152603972
+Average loss at step  56000 :  5.66944245231
+Average loss at step  58000 :  5.18823618597
+Average loss at step  60000 :  5.70678089398
+Average loss at step  62000 :  4.68749302953
+Average loss at step  64000 :  4.69159701318
+Average loss at step  66000 :  5.30336669254
+Average loss at step  68000 :  4.73377905744
+Average loss at step  70000 :  4.24994277722
+Average loss at step  72000 :  4.6398994751
+Average loss at step  74000 :  4.82221858341
+Average loss at step  76000 :  4.5695466696
+Average loss at step  78000 :  4.2820966301
+Average loss at step  80000 :  4.59377749604
+Average loss at step  82000 :  6.00201093945
+Average loss at step  84000 :  4.35923822486
+Average loss at step  86000 :  4.93382487172
+Average loss at step  88000 :  4.21796504384
+Average loss at step  90000 :  5.25262716907
+Average loss at step  92000 :  4.21501385128
+Average loss at step  94000 :  5.21549799049
+Average loss at step  96000 :  4.43685201287
+Average loss at step  98000 :  4.98608021992
+Average loss at step  100000 :  4.08056059676
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  237.553741455
+Average loss at step  2000 :  82.8538890691
+Average loss at step  4000 :  35.4776857876
+Average loss at step  6000 :  21.3419052748
+Average loss at step  8000 :  16.1810290861
+Average loss at step  10000 :  13.0339672071
+Average loss at step  12000 :  12.1997599921
+Average loss at step  14000 :  9.35162826186
+Average loss at step  16000 :  9.73660869956
+Average loss at step  18000 :  11.1279387124
+Average loss at step  20000 :  12.1042634644
+Average loss at step  22000 :  15.4628410635
+Average loss at step  24000 :  11.7590504187
+Average loss at step  26000 :  8.54689405698
+Average loss at step  28000 :  7.58829720688
+Average loss at step  30000 :  6.94642307943
+Average loss at step  32000 :  5.69833807635
+Average loss at step  34000 :  8.12005150265
+Average loss at step  36000 :  7.06288850844
+Average loss at step  38000 :  6.06777023031
+Average loss at step  40000 :  6.97414605051
+Average loss at step  42000 :  6.26288349462
+Average loss at step  44000 :  6.25162914973
+Average loss at step  46000 :  6.80088377339
+Average loss at step  48000 :  6.2349248696
+Average loss at step  50000 :  5.26012263519
+Average loss at step  52000 :  5.65627387989
+Average loss at step  54000 :  5.56315564007
+Average loss at step  56000 :  5.62074171281
+Average loss at step  58000 :  5.20827609622
+Average loss at step  60000 :  5.68511076331
+Average loss at step  62000 :  4.7984337604
+Average loss at step  64000 :  4.6705787279
+Average loss at step  66000 :  5.38778344172
+Average loss at step  68000 :  4.75400673658
+Average loss at step  70000 :  4.2358719517
+Average loss at step  72000 :  4.60398263496
+Average loss at step  74000 :  4.85972561032
+Average loss at step  76000 :  4.52031355977
+Average loss at step  78000 :  4.3097927025
+Average loss at step  80000 :  4.65324692541
+Average loss at step  82000 :  5.99655730739
+Average loss at step  84000 :  4.38379499096
+Average loss at step  86000 :  5.00726862246
+Average loss at step  88000 :  4.20646996468
+Average loss at step  90000 :  5.22091462964
+Average loss at step  92000 :  4.32449943441
+Average loss at step  94000 :  5.14154313809
+Average loss at step  96000 :  4.42569492739
+Average loss at step  98000 :  5.12563937509
+Average loss at step  100000 :  4.06778592312
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  266.632781982
+Average loss at step  2000 :  82.7988099537
+Average loss at step  4000 :  36.0264918675
+Average loss at step  6000 :  23.2544013194
+Average loss at step  8000 :  16.0958235841
+Average loss at step  10000 :  14.3976840076
+Average loss at step  12000 :  12.4641990998
+Average loss at step  14000 :  9.86783310157
+Average loss at step  16000 :  8.58736964148
+Average loss at step  18000 :  10.4321715944
+Average loss at step  20000 :  15.1983614799
+Average loss at step  22000 :  14.9490041635
+Average loss at step  24000 :  10.8448852429
+Average loss at step  26000 :  8.17279364634
+Average loss at step  28000 :  7.06400541568
+Average loss at step  30000 :  6.4489910962
+Average loss at step  32000 :  6.33311513346
+Average loss at step  34000 :  6.80260292876
+Average loss at step  36000 :  6.34086918402
+Average loss at step  38000 :  6.95344925828
+Average loss at step  40000 :  5.96521343005
+Average loss at step  42000 :  5.82217726463
+Average loss at step  44000 :  6.58791006953
+Average loss at step  46000 :  5.93856860405
+Average loss at step  48000 :  5.84145398146
+Average loss at step  50000 :  5.59060287791
+Average loss at step  52000 :  4.9457979719
+Average loss at step  54000 :  5.72225091058
+Average loss at step  56000 :  5.37481000042
+Average loss at step  58000 :  5.43273778516
+Average loss at step  60000 :  5.04348205847
+Average loss at step  62000 :  5.05801283169
+Average loss at step  64000 :  5.26641413426
+Average loss at step  66000 :  4.31605316997
+Average loss at step  68000 :  4.32777453095
+Average loss at step  70000 :  4.55328487474
+Average loss at step  72000 :  4.5745369674
+Average loss at step  74000 :  4.5092713064
+Average loss at step  76000 :  4.52084050804
+Average loss at step  78000 :  4.69757830167
+Average loss at step  80000 :  4.84602012582
+Average loss at step  82000 :  5.02027950591
+Average loss at step  84000 :  4.9219528304
+Average loss at step  86000 :  4.46469672728
+Average loss at step  88000 :  4.74255429345
+Average loss at step  90000 :  4.56056319952
+Average loss at step  92000 :  5.2567019127
+Average loss at step  94000 :  4.50878504753
+Average loss at step  96000 :  4.7863735804
+Average loss at step  98000 :  4.28661852449
+Average loss at step  100000 :  4.05458136404
+final_embeddings_all_skip-gram_32_4_2 saved
+
+drugbank_words_only_approved data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 4
+skip_window = 2
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  268.173126221
+Average loss at step  2000 :  69.0687868109
+Average loss at step  4000 :  23.4120472401
+Average loss at step  6000 :  16.201274783
+Average loss at step  8000 :  11.944371026
+Average loss at step  10000 :  11.7843553966
+Average loss at step  12000 :  8.8069639526
+Average loss at step  14000 :  8.85402225053
+Average loss at step  16000 :  9.43997858593
+Average loss at step  18000 :  8.60676472735
+Average loss at step  20000 :  8.91151435614
+Average loss at step  22000 :  6.41840269083
+Average loss at step  24000 :  6.84766811574
+Average loss at step  26000 :  7.11674937534
+Average loss at step  28000 :  7.83462950003
+Average loss at step  30000 :  6.37954847902
+Average loss at step  32000 :  6.19492510831
+Average loss at step  34000 :  6.16208719695
+Average loss at step  36000 :  5.89216101408
+Average loss at step  38000 :  6.31760158157
+Average loss at step  40000 :  6.07958427316
+Average loss at step  42000 :  6.2387329585
+Average loss at step  44000 :  6.06804949667
+Average loss at step  46000 :  5.95415089333
+Average loss at step  48000 :  7.60495354605
+Average loss at step  50000 :  6.40963264173
+Average loss at step  52000 :  4.98667191947
+Average loss at step  54000 :  5.62714186293
+Average loss at step  56000 :  5.07808868957
+Average loss at step  58000 :  5.33349501657
+Average loss at step  60000 :  5.18188782597
+Average loss at step  62000 :  4.81462032402
+Average loss at step  64000 :  4.79991566002
+Average loss at step  66000 :  4.98829859817
+Average loss at step  68000 :  5.80286536208
+Average loss at step  70000 :  4.58230494046
+Average loss at step  72000 :  4.88002478302
+Average loss at step  74000 :  5.48931506193
+Average loss at step  76000 :  4.35283468169
+Average loss at step  78000 :  4.57901560599
+Average loss at step  80000 :  4.10941977215
+Average loss at step  82000 :  4.14128501093
+Average loss at step  84000 :  5.14654206604
+Average loss at step  86000 :  4.5673380245
+Average loss at step  88000 :  4.66980557287
+Average loss at step  90000 :  3.92230061945
+Average loss at step  92000 :  4.22740645
+Average loss at step  94000 :  4.40535397518
+Average loss at step  96000 :  5.34346261263
+Average loss at step  98000 :  4.53292729747
+Average loss at step  100000 :  3.90018977714
+final_embeddings_only_approved_skip-gram_32_4_2 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 32
+embedding_size = 32
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  242.07333374
+Average loss at step  2000 :  102.668900072
+Average loss at step  4000 :  1644.00782188
+Average loss at step  6000 :  3.86635621298e+23
+Average loss at step  8000 :  nan
+Average loss at step  10000 :  nan
+Average loss at step  12000 :  nan
+Average loss at step  14000 :  nan
+Average loss at step  16000 :  nan
+Average loss at step  18000 :  nan
+Average loss at step  20000 :  nan
+Average loss at step  22000 :  nan
+Average loss at step  24000 :  nan
+Average loss at step  26000 :  nan
+Average loss at step  28000 :  nan
+Average loss at step  30000 :  nan
+Average loss at step  32000 :  nan
+Average loss at step  34000 :  nan
+Average loss at step  36000 :  nan
+Average loss at step  38000 :  nan
+Average loss at step  40000 :  nan
+Average loss at step  42000 :  nan
+Average loss at step  44000 :  nan
+Average loss at step  46000 :  nan
+Average loss at step  48000 :  nan
+Average loss at step  50000 :  nan
+Average loss at step  52000 :  nan
+Average loss at step  54000 :  nan
+Average loss at step  56000 :  nan
+Average loss at step  58000 :  nan
+Average loss at step  60000 :  nan
+Average loss at step  62000 :  nan
+Average loss at step  64000 :  nan
+Average loss at step  66000 :  nan
+Average loss at step  68000 :  nan
+Average loss at step  70000 :  nan
+Average loss at step  72000 :  nan
+Average loss at step  74000 :  nan
+Average loss at step  76000 :  nan
+Average loss at step  78000 :  nan
+Average loss at step  80000 :  nan
+Average loss at step  82000 :  nan
+Average loss at step  84000 :  nan
+Average loss at step  86000 :  nan
+Average loss at step  88000 :  nan
+Average loss at step  90000 :  nan
+Average loss at step  92000 :  nan
+Average loss at step  94000 :  nan
+Average loss at step  96000 :  nan
+Average loss at step  98000 :  nan
+Average loss at step  100000 :  nan
+final_embeddings_all_skip-gram_32_8_4 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 64
+embedding_size = 64
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  267.958251953
+Average loss at step  2000 :  82.7110457343
+Average loss at step  4000 :  35.3832307487
+Average loss at step  6000 :  23.2157012993
+Average loss at step  8000 :  15.7574749627
+Average loss at step  10000 :  13.5511720068
+Average loss at step  12000 :  11.9833702766
+Average loss at step  14000 :  9.65263176984
+Average loss at step  16000 :  8.94762450373
+Average loss at step  18000 :  10.1410761669
+Average loss at step  20000 :  14.7245490896
+Average loss at step  22000 :  14.0346915612
+Average loss at step  24000 :  10.949316591
+Average loss at step  26000 :  8.14129349399
+Average loss at step  28000 :  7.6488586638
+Average loss at step  30000 :  6.69972494853
+Average loss at step  32000 :  6.46322669786
+Average loss at step  34000 :  7.10684222722
+Average loss at step  36000 :  6.92395331156
+Average loss at step  38000 :  7.03225295639
+Average loss at step  40000 :  6.47961408007
+Average loss at step  42000 :  6.2381344614
+Average loss at step  44000 :  6.85711214113
+Average loss at step  46000 :  6.41631585777
+Average loss at step  48000 :  6.02638353419
+Average loss at step  50000 :  5.83562843513
+Average loss at step  52000 :  5.46509428298
+Average loss at step  54000 :  6.06712375653
+Average loss at step  56000 :  5.70985136306
+Average loss at step  58000 :  5.57150071287
+Average loss at step  60000 :  5.63162343097
+Average loss at step  62000 :  5.43177237713
+Average loss at step  64000 :  5.71624056613
+Average loss at step  66000 :  4.87342678642
+Average loss at step  68000 :  4.81976629651
+Average loss at step  70000 :  4.90301824164
+Average loss at step  72000 :  5.11488407195
+Average loss at step  74000 :  4.97052358866
+Average loss at step  76000 :  4.9338207202
+Average loss at step  78000 :  5.0433234396
+Average loss at step  80000 :  5.35197778928
+Average loss at step  82000 :  5.52483901936
+Average loss at step  84000 :  5.37693447608
+Average loss at step  86000 :  4.95468424052
+Average loss at step  88000 :  5.34519351065
+Average loss at step  90000 :  4.93103917682
+Average loss at step  92000 :  5.72334577364
+Average loss at step  94000 :  5.01013869703
+Average loss at step  96000 :  5.2260516063
+Average loss at step  98000 :  4.59290941656
+Average loss at step  100000 :  4.55187993598
+final_embeddings_all_skip-gram_64_8_4 saved
+
+drugbank_words_all data and reverse dictionary loaded
+batch_size = 128
+embedding_size = 128
+num_skips = 8
+skip_window = 4
+architecture = skip-gram
+num_steps = 100001
+Initialized
+Average loss at step  0 :  264.648193359
+Average loss at step  2000 :  80.3129592556
+Average loss at step  4000 :  29.3689047935
+Average loss at step  6000 :  16.7859729242
+Average loss at step  8000 :  10.4845744848
+Average loss at step  10000 :  11.4495617658
+Average loss at step  12000 :  10.4893134267
+Average loss at step  14000 :  6.387057127
+Average loss at step  16000 :  5.20477960873
+Average loss at step  18000 :  5.5157623353
+Average loss at step  20000 :  5.12181484121
+Average loss at step  22000 :  5.15068873429
+Average loss at step  24000 :  5.07650876683
+Average loss at step  26000 :  4.65978544962
+Average loss at step  28000 :  4.77615574789
+Average loss at step  30000 :  4.66854801178
+Average loss at step  32000 :  4.75219207335
+Average loss at step  34000 :  4.21829661191
+Average loss at step  36000 :  4.47603263211
+Average loss at step  38000 :  4.4426523807
+Average loss at step  40000 :  4.59937551773
+Average loss at step  42000 :  4.96632306027
+Average loss at step  44000 :  4.65727274024
+Average loss at step  46000 :  4.71801668704
+Average loss at step  48000 :  4.60182605577
+Average loss at step  50000 :  4.21676107264
+Average loss at step  52000 :  4.41157344675
+Average loss at step  54000 :  4.38360893333
+Average loss at step  56000 :  4.42295916319
+Average loss at step  58000 :  3.82397412884
+Average loss at step  60000 :  4.55835840046
+Average loss at step  62000 :  4.03686861694
+Average loss at step  64000 :  4.18120583761
+Average loss at step  66000 :  4.09835974979
+Average loss at step  68000 :  4.00541879785
+Average loss at step  70000 :  4.14722935951
+Average loss at step  72000 :  4.02269584394
+Average loss at step  74000 :  4.07453071904
+Average loss at step  76000 :  3.90693435705
+Average loss at step  78000 :  4.46778009772
+Average loss at step  80000 :  4.31481528938
+Average loss at step  82000 :  4.00685432708
+Average loss at step  84000 :  3.88990786737
+Average loss at step  86000 :  4.15570195228
+Average loss at step  88000 :  4.28338990408
+Average loss at step  90000 :  3.84074694204
+Average loss at step  92000 :  4.05441908813
+Average loss at step  94000 :  3.87222924006
+Average loss at step  96000 :  3.87803977036
+Average loss at step  98000 :  4.06456192064
+Average loss at step  100000 :  3.82824965429
+final_embeddings_all_skip-gram_128_8_4 saved

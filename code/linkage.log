@@ -1,0 +1,335 @@
+
+final_embeddings_approved_64_1_2 loaded
+embeddings size 33982
+linkage ward time 81.76
+linkage saved
+
+final_embeddings_approved_128_1_2 loaded
+embeddings size 33982
+linkage ward time 112.75
+linkage saved
+
+final_embeddings_approved_256_1_2 loaded
+embeddings size 33982
+linkage ward time 167.67
+linkage saved
+
+final_embeddings_approved_256_2_4 loaded
+embeddings size 33982
+linkage ward time 226.24
+linkage saved
+
+final_embeddings_approved_512_2_4 loaded
+embeddings size 33982
+linkage ward time 429.84
+linkage saved
+
+final_embeddings_approved_256_3_4 loaded
+embeddings size 33982
+linkage ward time 204.94
+linkage saved
+
+final_embeddings_approved_512_1_2 loaded
+embeddings size 33982
+linkage ward time 349.03
+linkage saved
+
+final_embeddings_approved_512_3_4 loaded
+embeddings size 33982
+linkage ward time 362.28
+linkage saved
+
+final_embeddings_approved_256_4_8 loaded
+embeddings size 33982
+linkage ward time 207.08
+linkage saved
+
+final_embeddings_approved_512_4_8 loaded
+embeddings size 33982
+linkage ward time 408.17
+linkage saved
+
+final_embeddings_approved_128_3_4 loaded
+embeddings size 33982
+linkage ward time 118.95
+linkage saved
+
+final_embeddings_approved_128_2_4 loaded
+embeddings size 33982
+linkage ward time 114.98
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_1_2 loaded
+embeddings size 13520
+linkage ward time 6.35
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_2_4 loaded
+embeddings size 13520
+linkage ward time 7.63
+linkage saved
+
+final_embeddings_only_approved_skip-gram_16_2_1 loaded
+embeddings size 13520
+linkage ward time 6.75
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_2_1 loaded
+embeddings size 13520
+linkage ward time 8.85
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_2_1 loaded
+embeddings size 13520
+linkage ward time 9.81
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_2_1 loaded
+embeddings size 13520
+linkage ward time 13.60
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_4_2 loaded
+embeddings size 13520
+linkage ward time 9.10
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_4_2 loaded
+embeddings size 13520
+linkage ward time 11.01
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_4_2 loaded
+embeddings size 13520
+linkage ward time 16.11
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_4_2 loaded
+embeddings size 13520
+linkage ward time 27.51
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_8_4 loaded
+embeddings size 13520
+linkage ward time 11.06
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_8_4 loaded
+embeddings size 13520
+linkage ward time 14.63
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_8_4 loaded
+embeddings size 13520
+linkage ward time 27.16
+linkage saved
+
+final_embeddings_only_approved_cbow_16_2_1 loaded
+embeddings size 13520
+linkage ward time 10.12
+linkage saved
+
+final_embeddings_only_approved_cbow_32_2_1 loaded
+embeddings size 13520
+linkage ward time 9.05
+linkage saved
+
+final_embeddings_only_approved_cbow_64_2_1 loaded
+embeddings size 13520
+linkage ward time 10.17
+linkage saved
+
+final_embeddings_only_approved_cbow_128_2_1 loaded
+embeddings size 13520
+linkage ward time 14.64
+linkage saved
+
+final_embeddings_only_approved_cbow_24_2_1 loaded
+embeddings size 13520
+linkage ward time 9.23
+linkage saved
+
+final_embeddings_only_approved_skip-gram_16_2_1 loaded
+embeddings size 18115
+linkage ward time 21.99
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_2_1 loaded
+embeddings size 18115
+linkage ward time 15.90
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_2_1 loaded
+embeddings size 18115
+linkage ward time 18.49
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_2_1 loaded
+embeddings size 18115
+linkage ward time 21.71
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_4_2 loaded
+embeddings size 18115
+linkage ward time 18.30
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_4_2 loaded
+embeddings size 18115
+linkage ward time 18.61
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_4_2 loaded
+embeddings size 18115
+linkage ward time 23.37
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_4_2 loaded
+embeddings size 18115
+linkage ward time 41.23
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_8_4 loaded
+embeddings size 18115
+linkage ward time 21.69
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_8_4 loaded
+embeddings size 18115
+linkage ward time 26.86
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_8_4 loaded
+embeddings size 18115
+linkage ward time 46.70
+linkage saved
+
+final_embeddings_only_approved_skip-gram_512_8_4 loaded
+embeddings size 18115
+linkage ward time 75.80
+linkage saved
+
+final_embeddings_only_approved_skip-gram_16_2_1 loaded
+embeddings size 18115
+linkage ward time 14.61
+linkage saved
+
+final_embeddings_only_approved_skip-gram_16_2_1_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.10
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_2_1_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.15
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_2_1_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.21
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.15
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.20
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.34
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_4_2_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.64
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_2_1_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.33
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_8_4_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.21
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_8_4_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.37
+linkage saved
+
+final_embeddings_only_approved_skip-gram_256_8_4_filter_drugs loaded
+embeddings size 2000
+linkage ward time 0.64
+linkage saved
+
+final_embeddings_only_approved_skip-gram_512_8_4_filter_drugs loaded
+embeddings size 2000
+linkage ward time 1.21
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_drug_names_only_approved_100 loaded
+embeddings size 74
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_only_approved_skip-gram_64_4_2_filter_drug_names_only_approved_100 loaded
+embeddings size 74
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_only_approved_skip-gram_128_4_2_filter_drug_names_only_approved_100 loaded
+embeddings size 74
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100 loaded
+embeddings size 56
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_all_skip-gram_64_4_2_filter_concatenated_drug_names_all_100 loaded
+embeddings size 56
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_only_approved_skip-gram_512_8_4_filter_drugs loaded
+embeddings size 2000
+linkage ward time 1.29
+linkage saved
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_100 loaded
+embeddings size 95
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_only_approved_skip-gram_32_4_2_filter_concatenated_drug_names_only_approved_100 loaded
+embeddings size 96
+linkage ward time 0.00
+linkage saved
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_1000 loaded
+embeddings size 975
+linkage ward time 0.03
+linkage saved
+
+final_embeddings_all_skip-gram_32_4_2_filter_concatenated_drug_names_all_500 loaded
+embeddings size 479
+linkage ward time 0.01
+linkage saved
+
+final_embeddings_all_skip-gram_64_8_4_filter_concatenated_drug_names_all_500 loaded
+embeddings size 479
+linkage ward time 0.01
+linkage saved
+
+final_embeddings_all_skip-gram_128_8_4_filter_concatenated_drug_names_all_500 loaded
+embeddings size 479
+linkage ward time 0.02
+linkage saved

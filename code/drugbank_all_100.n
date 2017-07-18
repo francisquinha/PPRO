@@ -1,0 +1,2682 @@
+
+drug_interaction('Abarelix', 'Somatropin recombinant').
+drug_interaction('Follitropin beta', 'Tenecteplase').
+drug_interaction('Collagenase clostridium histolyticum', 'Omalizumab').
+drug_interaction('Interferon alfacon-1', 'Pegvisomant').
+drug_interaction('Denileukin diftitox', 'Gramicidin D').
+drug_interaction('Sermorelin', 'Vasopressin').
+drug_interaction('Dornase alfa', 'Muromonab').
+drug_interaction('Aldesleukin', 'Dornase alfa').
+drug_interaction('Botulinum Toxin Type B', 'Trastuzumab').
+drug_interaction('Alemtuzumab', 'Hyaluronidase').
+drug_interaction('Agalsidase beta', 'Serum albumin iodonated').
+drug_interaction('Basiliximab', 'Satumomab Pendetide').
+drug_interaction('Adalimumab', 'Oprelvekin').
+drug_interaction('Menotropins', 'Secretin').
+drug_interaction('Abarelix', 'Insulin Lispro').
+drug_interaction('Follitropin beta', 'Insulin Glargine').
+drug_interaction('Pegvisomant', 'Vasopressin').
+drug_interaction('Anakinra', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Interferon gamma-1b', 'Rasburicase').
+drug_interaction('Basiliximab', 'Collagenase clostridium histolyticum').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Insulin Lispro').
+drug_interaction('Alefacept', 'Interferon gamma-1b').
+drug_interaction('Imiglucerase', 'Lepirudin').
+drug_interaction('Etanercept', 'Insulin Glargine').
+drug_interaction('Hyaluronidase', 'Pegvisomant').
+drug_interaction('Desmopressin', 'Dornase alfa').
+drug_interaction('Imiglucerase', 'Urofollitropin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Serum albumin iodonated').
+drug_interaction('Felypressin', 'Pegfilgrastim').
+drug_interaction('Collagenase clostridium histolyticum', 'Salmon Calcitonin').
+drug_interaction('Basiliximab', 'Hyaluronidase').
+drug_interaction('Laronidase', 'Peginterferon alfa-2a').
+drug_interaction('Pegaspargase', 'Rituximab').
+drug_interaction('Alemtuzumab', 'Anakinra').
+drug_interaction('Bivalirudin', 'Insulin Lispro').
+drug_interaction('Interferon alfa-n3', 'Pegfilgrastim').
+drug_interaction('Lepirudin', 'Thyrotropin Alfa').
+drug_interaction('Basiliximab', 'Insulin Lispro').
+drug_interaction('Imiglucerase', 'Rasburicase').
+drug_interaction('Imiglucerase', 'Trastuzumab').
+drug_interaction('Dornase alfa', 'Palifermin').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Interferon alfa-n1').
+drug_interaction('Etanercept', 'Pegfilgrastim').
+drug_interaction('Menotropins', 'Sargramostim').
+drug_interaction('Daptomycin', 'Oprelvekin').
+drug_interaction('Pegfilgrastim', 'Serum albumin').
+drug_interaction('Imiglucerase', 'Vasopressin').
+drug_interaction('Human Serum Albumin', 'OspA lipoprotein').
+drug_interaction('Asparaginase', 'Tositumomab').
+drug_interaction('Botulinum Toxin Type B', 'Peginterferon alfa-2b').
+drug_interaction('Capromab', 'Efalizumab').
+drug_interaction('Felypressin', 'Immune Globulin Human').
+drug_interaction('Human Serum Albumin', 'Lutropin alfa').
+drug_interaction('Interferon beta-1b', 'Vasopressin').
+drug_interaction('Bivalirudin', 'Gemtuzumab ozogamicin').
+drug_interaction('Imiglucerase', 'Immune Globulin Human').
+drug_interaction('Becaplermin', 'Goserelin').
+drug_interaction('Abciximab', 'Immune Globulin Human').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Tositumomab').
+drug_interaction('Abarelix', 'Efalizumab').
+drug_interaction('Collagenase clostridium histolyticum', 'Interferon beta-1b').
+drug_interaction('Pegfilgrastim', 'Thyrotropin Alfa').
+drug_interaction('Alemtuzumab', 'Peginterferon alfa-2a').
+drug_interaction('Capromab', 'Insulin Pork').
+drug_interaction('Insulin Glargine', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Etanercept', 'Pegaspargase').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Oprelvekin').
+drug_interaction('Lutropin alfa', 'Sargramostim').
+drug_interaction('Interferon alfa-n3', 'Lutropin alfa').
+drug_interaction('Insulin Glargine', 'Reteplase').
+drug_interaction('Botulinum Toxin Type A', 'Desmopressin').
+drug_interaction('Bivalirudin', 'Desmopressin').
+drug_interaction('Basiliximab', 'Erythropoietin').
+drug_interaction('Pegaspargase', 'Tenecteplase').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Streptokinase').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Laronidase').
+drug_interaction('Alemtuzumab', 'Alteplase').
+drug_interaction('Interferon alfacon-1', 'Serum albumin').
+drug_interaction('Aldesleukin', 'Bivalirudin').
+drug_interaction('Asparaginase', 'Serum albumin iodonated').
+drug_interaction('Felypressin', 'Insulin Glargine').
+drug_interaction('Gramicidin D', 'Hyaluronidase').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Oprelvekin').
+drug_interaction('Alefacept', 'Daptomycin').
+drug_interaction('Gemtuzumab ozogamicin', 'Urofollitropin').
+drug_interaction('Ibritumomab tiuxetan', 'Peginterferon alfa-2a').
+drug_interaction('Rasburicase', 'Sargramostim').
+drug_interaction('Asparaginase', 'Efalizumab').
+drug_interaction('Dornase alfa', 'Follitropin beta').
+drug_interaction('Imiglucerase', 'Somatropin recombinant').
+drug_interaction('Felypressin', 'Goserelin').
+drug_interaction('Abarelix', 'Streptokinase').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Interferon beta-1b').
+drug_interaction('Cetrorelix', 'Insulin Glargine').
+drug_interaction('Cetrorelix', 'Oprelvekin').
+drug_interaction('Drotrecogin alfa', 'Lutropin alfa').
+drug_interaction('Cyclosporine', 'Insulin Lispro').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Octreotide').
+drug_interaction('Gemtuzumab ozogamicin', 'Pegaspargase').
+drug_interaction('Oprelvekin', 'Salmon Calcitonin').
+drug_interaction('Alglucerase', 'Insulin Glargine').
+drug_interaction('Aldesleukin', 'Eptifibatide').
+drug_interaction('Anakinra', 'Serum albumin').
+drug_interaction('Menotropins', 'Rasburicase').
+drug_interaction('Interferon beta-1b', 'Thyrotropin Alfa').
+drug_interaction('Alefacept', 'Interferon beta-1a').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Interferon alfa-n1').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Omalizumab').
+drug_interaction('Filgrastim', 'Gemtuzumab ozogamicin').
+drug_interaction('Goserelin', 'Secretin').
+drug_interaction('Somatropin recombinant', 'Tenecteplase').
+drug_interaction('Anistreplase', 'Denileukin diftitox').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Etanercept').
+drug_interaction('Desmopressin', 'Immune Globulin Human').
+drug_interaction('Cetrorelix', 'Eptifibatide').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Botulinum Toxin Type A').
+drug_interaction('Alteplase', 'Insulin Lispro').
+drug_interaction('Interferon beta-1a', 'Interferon beta-1b').
+drug_interaction('Denileukin diftitox', 'Somatropin recombinant').
+drug_interaction('Anistreplase', 'Menotropins').
+drug_interaction('Peginterferon alfa-2a', 'Serum albumin').
+drug_interaction('Alglucerase', 'Rasburicase').
+drug_interaction('Collagenase clostridium histolyticum', 'Rasburicase').
+drug_interaction('Filgrastim', 'Pegvisomant').
+drug_interaction('Dornase alfa', 'Pegademase bovine').
+drug_interaction('Infliximab', 'Interferon beta-1b').
+drug_interaction('Aldesleukin', 'Felypressin').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Palifermin', 'Pegvisomant').
+drug_interaction('Pegademase bovine', 'Thyrotropin Alfa').
+drug_interaction('Alglucerase', 'Collagenase clostridium histolyticum').
+drug_interaction('Octreotide', 'Pegfilgrastim').
+drug_interaction('Insulin Lispro', 'Reteplase').
+drug_interaction('Imiglucerase', 'Streptokinase').
+drug_interaction('Adalimumab', 'Pegademase bovine').
+drug_interaction('Abarelix', 'Urofollitropin').
+drug_interaction('Cetrorelix', 'Leuprolide').
+drug_interaction('Aldesleukin', 'Pegademase bovine').
+drug_interaction('Interferon gamma-1b', 'Pegaspargase').
+drug_interaction('Gemtuzumab ozogamicin', 'Palifermin').
+drug_interaction('Octreotide', 'Thyrotropin Alfa').
+drug_interaction('Anistreplase', 'Immune Globulin Human').
+drug_interaction('Asparaginase', 'Interferon alfa-n1').
+drug_interaction('Etanercept', 'Interferon beta-1b').
+drug_interaction('Filgrastim', 'Hyaluronidase').
+drug_interaction('Follitropin beta', 'Palifermin').
+drug_interaction('Gramicidin D', 'Insulin Human').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'OspA lipoprotein').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Pegademase bovine').
+drug_interaction('Hyaluronidase', 'Rituximab').
+drug_interaction('Darbepoetin alfa', 'Immune Globulin Human').
+drug_interaction('Aldesleukin', 'Hyaluronidase').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Etanercept').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Gemtuzumab ozogamicin').
+drug_interaction('Human Serum Albumin', 'Immune Globulin Human').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Pegaspargase').
+drug_interaction('Interferon gamma-1b', 'Oprelvekin').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Interferon beta-1b').
+drug_interaction('Aldesleukin', 'Oprelvekin').
+drug_interaction('Collagenase clostridium histolyticum', 'Reteplase').
+drug_interaction('Gramicidin D', 'Laronidase').
+drug_interaction('Agalsidase beta', 'Eptifibatide').
+drug_interaction('Alefacept', 'Interferon alfa-n1').
+drug_interaction('Dornase alfa', 'Rituximab').
+drug_interaction('Eptifibatide', 'Serum albumin').
+drug_interaction('Alglucerase', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Peginterferon alfa-2a', 'Peginterferon alfa-2b').
+drug_interaction('Bivalirudin', 'Follitropin beta').
+drug_interaction('Botulinum Toxin Type B', 'Interferon beta-1a').
+drug_interaction('Bivalirudin', 'Infliximab').
+drug_interaction('Felypressin', 'Somatropin recombinant').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Interferon gamma-1b').
+drug_interaction('Becaplermin', 'Interferon alfa-n1').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Rituximab').
+drug_interaction('Goserelin', 'Interferon beta-1b').
+drug_interaction('Aldesleukin', 'Pegfilgrastim').
+drug_interaction('Alefacept', 'Menotropins').
+drug_interaction('Basiliximab', 'Octreotide').
+drug_interaction('Etanercept', 'Rasburicase').
+drug_interaction('Anistreplase', 'Peginterferon alfa-2b').
+drug_interaction('Cetuximab', 'Pancrelipase').
+drug_interaction('Adalimumab', 'Interferon alfa-n1').
+drug_interaction('Alteplase', 'Efalizumab').
+drug_interaction('Human Serum Albumin', 'Hyaluronidase').
+drug_interaction('Peginterferon alfa-2a', 'Sermorelin').
+drug_interaction('Anakinra', 'Palifermin').
+drug_interaction('Collagenase clostridium histolyticum', 'Streptokinase').
+drug_interaction('Asparaginase', 'Peginterferon alfa-2b').
+drug_interaction('Cetuximab', 'Urofollitropin').
+drug_interaction('Interferon beta-1a', 'Pegademase bovine').
+drug_interaction('Eptifibatide', 'Imiglucerase').
+drug_interaction('Basiliximab', 'Imiglucerase').
+drug_interaction('Etanercept', 'Lutropin alfa').
+drug_interaction('Anistreplase', 'Infliximab').
+drug_interaction('Bivalirudin', 'Vasopressin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Interferon alfa-n3').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Serum albumin iodonated').
+drug_interaction('Sermorelin', 'Urokinase').
+drug_interaction('Drotrecogin alfa', 'Ibritumomab tiuxetan').
+drug_interaction('Filgrastim', 'Sargramostim').
+drug_interaction('Insulin Lispro', 'Serum albumin').
+drug_interaction('Abciximab', 'OspA lipoprotein').
+drug_interaction('Alefacept', 'Alemtuzumab').
+drug_interaction('Interferon alfacon-1', 'Serum albumin iodonated').
+drug_interaction('Agalsidase beta', 'Alefacept').
+drug_interaction('Alteplase', 'Imiglucerase').
+drug_interaction('Glucagon recombinant', 'Vasopressin').
+drug_interaction('Interferon alfacon-1', 'Pancrelipase').
+drug_interaction('Interferon alfa-n3', 'Peginterferon alfa-2a').
+drug_interaction('Alemtuzumab', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Ibritumomab tiuxetan', 'Pegfilgrastim').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Sermorelin').
+drug_interaction('Alemtuzumab', 'Interferon gamma-1b').
+drug_interaction('Asparaginase', 'Tenecteplase').
+drug_interaction('Alteplase', 'Oprelvekin').
+drug_interaction('Goserelin', 'Palifermin').
+drug_interaction('Lepirudin', 'Satumomab Pendetide').
+drug_interaction('Botulinum Toxin Type B', 'Desmopressin').
+drug_interaction('Aldesleukin', 'Etanercept').
+drug_interaction('Lepirudin', 'Somatropin recombinant').
+drug_interaction('Asparaginase', 'Sargramostim').
+drug_interaction('Cetuximab', 'Hyaluronidase').
+drug_interaction('Alglucerase', 'Muromonab').
+drug_interaction('Filgrastim', 'Muromonab').
+drug_interaction('Eptifibatide', 'Rasburicase').
+drug_interaction('Infliximab', 'Tenecteplase').
+drug_interaction('Anakinra', 'Pegfilgrastim').
+drug_interaction('Pancrelipase', 'Peginterferon alfa-2b').
+drug_interaction('Felypressin', 'Interferon gamma-1b').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Eptifibatide').
+drug_interaction('Dornase alfa', 'Rasburicase').
+drug_interaction('Interferon beta-1a', 'Lutropin alfa').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Urokinase').
+drug_interaction('Pegaspargase', 'Serum albumin iodonated').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Pegaspargase').
+drug_interaction('Rasburicase', 'Rituximab').
+drug_interaction('Dornase alfa', 'Tositumomab').
+drug_interaction('Cetuximab', 'Etanercept').
+drug_interaction('Denileukin diftitox', 'Secretin').
+drug_interaction('Immune Globulin Human', 'Insulin Glargine').
+drug_interaction('Glucagon recombinant', 'Lepirudin').
+drug_interaction('Cetuximab', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Etanercept', 'Oprelvekin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Etanercept', 'Secretin').
+drug_interaction('Alglucerase', 'Asparaginase').
+drug_interaction('Ibritumomab tiuxetan', 'Pegvisomant').
+drug_interaction('Botulinum Toxin Type B', 'Filgrastim').
+drug_interaction('Abarelix', 'Felypressin').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Lutropin alfa').
+drug_interaction('Glucagon recombinant', 'Rituximab').
+drug_interaction('Somatropin recombinant', 'Urokinase').
+drug_interaction('Pegaspargase', 'Sermorelin').
+drug_interaction('Octreotide', 'Somatropin recombinant').
+drug_interaction('Alefacept', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Drotrecogin alfa', 'Thyrotropin Alfa').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Desmopressin').
+drug_interaction('Daptomycin', 'Pegaspargase').
+drug_interaction('Anistreplase', 'Laronidase').
+drug_interaction('Collagenase clostridium histolyticum', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Alteplase', 'Glucagon recombinant').
+drug_interaction('Pancrelipase', 'Urofollitropin').
+drug_interaction('Lutropin alfa', 'Rasburicase').
+drug_interaction('Somatropin recombinant', 'Tositumomab').
+drug_interaction('Alglucerase', 'Interferon alfacon-1').
+drug_interaction('Drotrecogin alfa', 'Insulin Glargine').
+drug_interaction('Human Serum Albumin', 'Sermorelin').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Pancrelipase').
+drug_interaction('Interferon beta-1a', 'Palifermin').
+drug_interaction('Palifermin', 'Serum albumin iodonated').
+drug_interaction('Omalizumab', 'Thyrotropin Alfa').
+drug_interaction('Streptokinase', 'Tenecteplase').
+drug_interaction('Alefacept', 'Pegaspargase').
+drug_interaction('Desmopressin', 'Insulin Glargine').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Tenecteplase').
+drug_interaction('Daptomycin', 'Pegvisomant').
+drug_interaction('Alefacept', 'Drotrecogin alfa').
+drug_interaction('Botulinum Toxin Type A', 'Interferon beta-1a').
+drug_interaction('Gemtuzumab ozogamicin', 'Interferon alfa-n3').
+drug_interaction('Glucagon recombinant', 'Salmon Calcitonin').
+drug_interaction('Gemtuzumab ozogamicin', 'Interferon beta-1b').
+drug_interaction('Goserelin', 'Interferon alfa-n1').
+drug_interaction('Cetrorelix', 'Urokinase').
+drug_interaction('Human Serum Albumin', 'Pegvisomant').
+drug_interaction('Adalimumab', 'Tenecteplase').
+drug_interaction('Aldesleukin', 'Follitropin beta').
+drug_interaction('Filgrastim', 'Interferon gamma-1b').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Rasburicase').
+drug_interaction('Insulin Pork', 'Pegvisomant').
+drug_interaction('Hyaluronidase', 'Satumomab Pendetide').
+drug_interaction('Alemtuzumab', 'Interferon alfacon-1').
+drug_interaction('Laronidase', 'Reteplase').
+drug_interaction('Botulinum Toxin Type B', 'Somatropin recombinant').
+drug_interaction('Muromonab', 'Vasopressin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Erythropoietin').
+drug_interaction('Immune Globulin Human', 'Rituximab').
+drug_interaction('Anistreplase', 'Hyaluronidase').
+drug_interaction('Alefacept', 'Dornase alfa').
+drug_interaction('Eptifibatide', 'Insulin Pork').
+drug_interaction('Agalsidase beta', 'Menotropins').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Goserelin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Tositumomab').
+drug_interaction('Glucagon recombinant', 'Infliximab').
+drug_interaction('Bivalirudin', 'Dornase alfa').
+drug_interaction('Alemtuzumab', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Anakinra', 'Thyrotropin Alfa').
+drug_interaction('Cetuximab', 'Tositumomab').
+drug_interaction('Denileukin diftitox', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Abarelix', 'Basiliximab').
+drug_interaction('Abarelix', 'Denileukin diftitox').
+drug_interaction('Filgrastim', 'Interferon alfa-n3').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Vasopressin').
+drug_interaction('Interferon beta-1b', 'Secretin').
+drug_interaction('Asparaginase', 'Basiliximab').
+drug_interaction('Laronidase', 'Serum albumin iodonated').
+drug_interaction('Cyclosporine', 'Vasopressin').
+drug_interaction('Glucagon recombinant', 'Tositumomab').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Pegademase bovine').
+drug_interaction('Adalimumab', 'Imiglucerase').
+drug_interaction('Anistreplase', 'Trastuzumab').
+drug_interaction('Felypressin', 'Menotropins').
+drug_interaction('Botulinum Toxin Type A', 'Oprelvekin').
+drug_interaction('Gramicidin D', 'Omalizumab').
+drug_interaction('Botulinum Toxin Type A', 'Felypressin').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Thyrotropin Alfa').
+drug_interaction('Aldesleukin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Immune Globulin Human', 'Peginterferon alfa-2b').
+drug_interaction('Follitropin beta', 'Serum albumin').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Urofollitropin').
+drug_interaction('Capromab', 'Muromonab').
+drug_interaction('Cyclosporine', 'Goserelin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Muromonab').
+drug_interaction('Insulin Pork', 'Lutropin alfa').
+drug_interaction('Aldesleukin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Infliximab', 'Serum albumin').
+drug_interaction('Insulin Pork', 'Muromonab').
+drug_interaction('Felypressin', 'Ibritumomab tiuxetan').
+drug_interaction('Felypressin', 'Laronidase').
+drug_interaction('Hyaluronidase', 'Lutropin alfa').
+drug_interaction('Bivalirudin', 'Peginterferon alfa-2a').
+drug_interaction('Dornase alfa', 'Erythropoietin').
+drug_interaction('Follitropin beta', 'Interferon beta-1a').
+drug_interaction('Peginterferon alfa-2b', 'Serum albumin iodonated').
+drug_interaction('Interferon alfa-n3', 'Rasburicase').
+drug_interaction('Alemtuzumab', 'Infliximab').
+drug_interaction('Alteplase', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Efalizumab').
+drug_interaction('Goserelin', 'Rituximab').
+drug_interaction('Alteplase', 'Erythropoietin').
+drug_interaction('Bivalirudin', 'Omalizumab').
+drug_interaction('Botulinum Toxin Type B', 'Serum albumin').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Dornase alfa', 'Satumomab Pendetide').
+drug_interaction('Becaplermin', 'Pancrelipase').
+drug_interaction('Capromab', 'Insulin Lispro').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Pegvisomant').
+drug_interaction('Infliximab', 'Leuprolide').
+drug_interaction('Follitropin beta', 'Sermorelin').
+drug_interaction('Hyaluronidase', 'Omalizumab').
+drug_interaction('Ibritumomab tiuxetan', 'Interferon alfacon-1').
+drug_interaction('Alglucerase', 'Botulinum Toxin Type B').
+drug_interaction('Alglucerase', 'Interferon gamma-1b').
+drug_interaction('Abarelix', 'Peginterferon alfa-2a').
+drug_interaction('Anakinra', 'OspA lipoprotein').
+drug_interaction('Asparaginase', 'Menotropins').
+drug_interaction('Abciximab', 'Denileukin diftitox').
+drug_interaction('Cetuximab', 'Filgrastim').
+drug_interaction('Becaplermin', 'Human Serum Albumin').
+drug_interaction('Hyaluronidase', 'Leuprolide').
+drug_interaction('Alglucerase', 'Omalizumab').
+drug_interaction('Botulinum Toxin Type B', 'Etanercept').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Interferon gamma-1b').
+drug_interaction('Becaplermin', 'Sargramostim').
+drug_interaction('Etanercept', 'Peginterferon alfa-2b').
+drug_interaction('Asparaginase', 'Cyclosporine').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Vasopressin').
+drug_interaction('Follitropin beta', 'Menotropins').
+drug_interaction('Pegademase bovine', 'Salmon Calcitonin').
+drug_interaction('Cyclosporine', 'Infliximab').
+drug_interaction('Insulin Human', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Drotrecogin alfa', 'Rasburicase').
+drug_interaction('Becaplermin', 'Insulin Glargine').
+drug_interaction('Aldesleukin', 'Collagenase clostridium histolyticum').
+drug_interaction('Leuprolide', 'Serum albumin iodonated').
+drug_interaction('Botulinum Toxin Type A', 'Insulin Human').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Pancrelipase').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Omalizumab').
+drug_interaction('Insulin Lispro', 'Trastuzumab').
+drug_interaction('Insulin Lispro', 'Muromonab').
+drug_interaction('Human Serum Albumin', 'Laronidase').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Menotropins').
+drug_interaction('Goserelin', 'Tenecteplase').
+drug_interaction('Aldesleukin', 'Rituximab').
+drug_interaction('Becaplermin', 'Botulinum Toxin Type B').
+drug_interaction('Interferon beta-1b', 'Lepirudin').
+drug_interaction('Laronidase', 'Tenecteplase').
+drug_interaction('Dornase alfa', 'Insulin Glargine').
+drug_interaction('Adalimumab', 'Interferon gamma-1b').
+drug_interaction('Insulin Glargine', 'Rituximab').
+drug_interaction('Alemtuzumab', 'Omalizumab').
+drug_interaction('Interferon beta-1a', 'Secretin').
+drug_interaction('Insulin Glargine', 'Interferon beta-1a').
+drug_interaction('Ibritumomab tiuxetan', 'Insulin Human').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Thyrotropin Alfa').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Pegaspargase').
+drug_interaction('Gramicidin D', 'Interferon alfacon-1').
+drug_interaction('Rasburicase', 'Salmon Calcitonin').
+drug_interaction('OspA lipoprotein', 'Peginterferon alfa-2b').
+drug_interaction('Abarelix', 'Darbepoetin alfa').
+drug_interaction('Leuprolide', 'Vasopressin').
+drug_interaction('Anakinra', 'Peginterferon alfa-2a').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Insulin Glargine').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Lepirudin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Interferon gamma-1b').
+drug_interaction('Follitropin beta', 'Insulin Human').
+drug_interaction('Cetrorelix', 'Interferon alfacon-1').
+drug_interaction('Darbepoetin alfa', 'Rituximab').
+drug_interaction('Follitropin beta', 'Muromonab').
+drug_interaction('Muromonab', 'Secretin').
+drug_interaction('Daptomycin', 'Etanercept').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Pancrelipase').
+drug_interaction('Alglucerase', 'Pancrelipase').
+drug_interaction('Lutropin alfa', 'Vasopressin').
+drug_interaction('Erythropoietin', 'Gemtuzumab ozogamicin').
+drug_interaction('Abarelix', 'Glucagon recombinant').
+drug_interaction('Ibritumomab tiuxetan', 'Secretin').
+drug_interaction('Dornase alfa', 'Interferon alfa-n1').
+drug_interaction('Darbepoetin alfa', 'Dornase alfa').
+drug_interaction('Insulin Pork', 'Pegfilgrastim').
+drug_interaction('Human Serum Albumin', 'Pegademase bovine').
+drug_interaction('Interferon alfa-n1', 'Peginterferon alfa-2a').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Interferon beta-1a').
+drug_interaction('Denileukin diftitox', 'Ibritumomab tiuxetan').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Reteplase').
+drug_interaction('Insulin Human', 'Laronidase').
+drug_interaction('Dornase alfa', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Interferon alfa-n3', 'Satumomab Pendetide').
+drug_interaction('Agalsidase beta', 'Botulinum Toxin Type A').
+drug_interaction('Pancrelipase', 'Streptokinase').
+drug_interaction('Filgrastim', 'Streptokinase').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Menotropins').
+drug_interaction('Alteplase', 'Asparaginase').
+drug_interaction('Alefacept', 'Human Serum Albumin').
+drug_interaction('Immune Globulin Human', 'Tenecteplase').
+drug_interaction('Pegvisomant', 'Sargramostim').
+drug_interaction('Abciximab', 'Laronidase').
+drug_interaction('Gemtuzumab ozogamicin', 'Imiglucerase').
+drug_interaction('OspA lipoprotein', 'Sermorelin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'OspA lipoprotein').
+drug_interaction('Omalizumab', 'Sargramostim').
+drug_interaction('Interferon alfa-n3', 'Pegvisomant').
+drug_interaction('Immune Globulin Human', 'Muromonab').
+drug_interaction('Etanercept', 'Glucagon recombinant').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Interferon alfa-n3').
+drug_interaction('Anistreplase', 'Gramicidin D').
+drug_interaction('Alteplase', 'OspA lipoprotein').
+drug_interaction('Gramicidin D', 'Salmon Calcitonin').
+drug_interaction('Cetuximab', 'Oprelvekin').
+drug_interaction('Alefacept', 'Urofollitropin').
+drug_interaction('Infliximab', 'Pegademase bovine').
+drug_interaction('Cetuximab', 'Sermorelin').
+drug_interaction('Insulin Human', 'Salmon Calcitonin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'OspA lipoprotein').
+drug_interaction('Basiliximab', 'Lutropin alfa').
+drug_interaction('Interferon beta-1a', 'Pegfilgrastim').
+drug_interaction('Botulinum Toxin Type A', 'Streptokinase').
+drug_interaction('Capromab', 'Insulin Glargine').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Lepirudin').
+drug_interaction('Basiliximab', 'Tositumomab').
+drug_interaction('Muromonab', 'Tenecteplase').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Streptokinase').
+drug_interaction('Agalsidase beta', 'Ibritumomab tiuxetan').
+drug_interaction('Dornase alfa', 'Laronidase').
+drug_interaction('Glucagon recombinant', 'Palifermin').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Thyrotropin Alfa').
+drug_interaction('Alteplase', 'Serum albumin iodonated').
+drug_interaction('Aldesleukin', 'Thyrotropin Alfa').
+drug_interaction('Agalsidase beta', 'Etanercept').
+drug_interaction('Eptifibatide', 'Pegfilgrastim').
+drug_interaction('Cetrorelix', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Tositumomab', 'Vasopressin').
+drug_interaction('Alefacept', 'Interferon alfa-n3').
+drug_interaction('Daptomycin', 'Peginterferon alfa-2b').
+drug_interaction('Botulinum Toxin Type B', 'Insulin Pork').
+drug_interaction('Agalsidase beta', 'Pegvisomant').
+drug_interaction('Human Serum Albumin', 'Secretin').
+drug_interaction('Agalsidase beta', 'Pegaspargase').
+drug_interaction('Alglucerase', 'Lutropin alfa').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Interferon alfacon-1').
+drug_interaction('Reteplase', 'Serum albumin iodonated').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Daptomycin').
+drug_interaction('Glucagon recombinant', 'Thyrotropin Alfa').
+drug_interaction('Erythropoietin', 'Muromonab').
+drug_interaction('Efalizumab', 'Follitropin beta').
+drug_interaction('Sargramostim', 'Vasopressin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Gemtuzumab ozogamicin').
+drug_interaction('Drotrecogin alfa', 'Felypressin').
+drug_interaction('Darbepoetin alfa', 'Pancrelipase').
+drug_interaction('Infliximab', 'Thyrotropin Alfa').
+drug_interaction('Infliximab', 'Somatropin recombinant').
+drug_interaction('Cetrorelix', 'Pancrelipase').
+drug_interaction('Anakinra', 'Peginterferon alfa-2b').
+drug_interaction('Abciximab', 'Secretin').
+drug_interaction('Peginterferon alfa-2b', 'Tositumomab').
+drug_interaction('Becaplermin', 'Palifermin').
+drug_interaction('Adalimumab', 'Basiliximab').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Laronidase').
+drug_interaction('Cetuximab', 'Darbepoetin alfa').
+drug_interaction('Abarelix', 'Lepirudin').
+drug_interaction('Cetrorelix', 'Omalizumab').
+drug_interaction('Agalsidase beta', 'Lepirudin').
+drug_interaction('Gramicidin D', 'Pegfilgrastim').
+drug_interaction('Insulin Glargine', 'Streptokinase').
+drug_interaction('Capromab', 'Interferon alfa-n3').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Interferon beta-1a').
+drug_interaction('Insulin Lispro', 'Palifermin').
+drug_interaction('Drotrecogin alfa', 'Satumomab Pendetide').
+drug_interaction('Infliximab', 'Octreotide').
+drug_interaction('Lepirudin', 'Sargramostim').
+drug_interaction('Insulin Lispro', 'Satumomab Pendetide').
+drug_interaction('Adalimumab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Abciximab', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Insulin Pork', 'Vasopressin').
+drug_interaction('Pegfilgrastim', 'Urofollitropin').
+drug_interaction('Dornase alfa', 'Secretin').
+drug_interaction('Adalimumab', 'OspA lipoprotein').
+drug_interaction('Anistreplase', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Becaplermin', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Alemtuzumab', 'Pegvisomant').
+drug_interaction('Desmopressin', 'Felypressin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Serum albumin iodonated').
+drug_interaction('Cetrorelix', 'Vasopressin').
+drug_interaction('Imiglucerase', 'Insulin Pork').
+drug_interaction('Immune Globulin Human', 'Lepirudin').
+drug_interaction('Pancrelipase', 'Reteplase').
+drug_interaction('Alteplase', 'Pegaspargase').
+drug_interaction('Eptifibatide', 'Interferon beta-1b').
+drug_interaction('Ibritumomab tiuxetan', 'Pegademase bovine').
+drug_interaction('Alemtuzumab', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Omalizumab', 'Pegaspargase').
+drug_interaction('Alemtuzumab', 'Lutropin alfa').
+drug_interaction('Desmopressin', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Human Serum Albumin', 'Thyrotropin Alfa').
+drug_interaction('Aldesleukin', 'Urofollitropin').
+drug_interaction('Collagenase clostridium histolyticum', 'Drotrecogin alfa').
+drug_interaction('Cetrorelix', 'Salmon Calcitonin').
+drug_interaction('Capromab', 'Sargramostim').
+drug_interaction('Glucagon recombinant', 'OspA lipoprotein').
+drug_interaction('Asparaginase', 'Palifermin').
+drug_interaction('Ibritumomab tiuxetan', 'Interferon alfa-n1').
+drug_interaction('Asparaginase', 'Urokinase').
+drug_interaction('Lepirudin', 'Vasopressin').
+drug_interaction('Abarelix', 'Insulin Human').
+drug_interaction('Desmopressin', 'Tositumomab').
+drug_interaction('Infliximab', 'Muromonab').
+drug_interaction('Abarelix', 'Imiglucerase').
+drug_interaction('Collagenase clostridium histolyticum', 'Darbepoetin alfa').
+drug_interaction('Drotrecogin alfa', 'Interferon alfa-n1').
+drug_interaction('Basiliximab', 'Pegaspargase').
+drug_interaction('Insulin Pork', 'Omalizumab').
+drug_interaction('Lepirudin', 'Rituximab').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Insulin Glargine').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Collagenase clostridium histolyticum').
+drug_interaction('Imiglucerase', 'Palifermin').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Rasburicase').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Peginterferon alfa-2a').
+drug_interaction('Alglucerase', 'Reteplase').
+drug_interaction('Aldesleukin', 'Erythropoietin').
+drug_interaction('Adalimumab', 'Thyrotropin Alfa').
+drug_interaction('Desmopressin', 'Filgrastim').
+drug_interaction('Pegfilgrastim', 'Streptokinase').
+drug_interaction('Glucagon recombinant', 'Interferon beta-1b').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Peginterferon alfa-2b').
+drug_interaction('Alglucerase', 'Gemtuzumab ozogamicin').
+drug_interaction('Interferon alfa-n1', 'Sermorelin').
+drug_interaction('Efalizumab', 'Ibritumomab tiuxetan').
+drug_interaction('Alteplase', 'Anistreplase').
+drug_interaction('Adalimumab', 'Peginterferon alfa-2a').
+drug_interaction('Cyclosporine', 'Menotropins').
+drug_interaction('Human Serum Albumin', 'Urofollitropin').
+drug_interaction('Drotrecogin alfa', 'Trastuzumab').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Goserelin').
+drug_interaction('Goserelin', 'Somatropin recombinant').
+drug_interaction('Efalizumab', 'Serum albumin iodonated').
+drug_interaction('Darbepoetin alfa', 'Lepirudin').
+drug_interaction('Ibritumomab tiuxetan', 'Peginterferon alfa-2b').
+drug_interaction('Cetuximab', 'Insulin Human').
+drug_interaction('Insulin Glargine', 'Urokinase').
+drug_interaction('Felypressin', 'Interferon alfacon-1').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Interferon alfacon-1').
+drug_interaction('Darbepoetin alfa', 'Salmon Calcitonin').
+drug_interaction('Collagenase clostridium histolyticum', 'Efalizumab').
+drug_interaction('Aldesleukin', 'Insulin Glargine').
+drug_interaction('Alteplase', 'Basiliximab').
+drug_interaction('Daptomycin', 'Serum albumin iodonated').
+drug_interaction('Hyaluronidase', 'Lepirudin').
+drug_interaction('Basiliximab', 'OspA lipoprotein').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Interferon gamma-1b').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Thyrotropin Alfa').
+drug_interaction('Alemtuzumab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Anistreplase', 'Insulin Glargine').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Interferon alfa-n3').
+drug_interaction('Interferon alfa-n3', 'Urokinase').
+drug_interaction('Basiliximab', 'Immune Globulin Human').
+drug_interaction('Denileukin diftitox', 'Peginterferon alfa-2a').
+drug_interaction('Rasburicase', 'Reteplase').
+drug_interaction('Imiglucerase', 'Omalizumab').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Efalizumab').
+drug_interaction('Sargramostim', 'Satumomab Pendetide').
+drug_interaction('Agalsidase beta', 'Cetrorelix').
+drug_interaction('Reteplase', 'Salmon Calcitonin').
+drug_interaction('Pancrelipase', 'Peginterferon alfa-2a').
+drug_interaction('Cetuximab', 'Desmopressin').
+drug_interaction('Collagenase clostridium histolyticum', 'Human Serum Albumin').
+drug_interaction('Abciximab', 'Gemtuzumab ozogamicin').
+drug_interaction('Ibritumomab tiuxetan', 'Interferon gamma-1b').
+drug_interaction('Cetuximab', 'Cyclosporine').
+drug_interaction('Alemtuzumab', 'Pegfilgrastim').
+drug_interaction('Alglucerase', 'Bivalirudin').
+drug_interaction('Efalizumab', 'Interferon alfacon-1').
+drug_interaction('Muromonab', 'Reteplase').
+drug_interaction('Insulin Lispro', 'Sermorelin').
+drug_interaction('Erythropoietin', 'Hyaluronidase').
+drug_interaction('Interferon beta-1a', 'Pegaspargase').
+drug_interaction('Bivalirudin', 'Collagenase clostridium histolyticum').
+drug_interaction('Reteplase', 'Sermorelin').
+drug_interaction('Alteplase', 'Menotropins').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Pegaspargase').
+drug_interaction('Collagenase clostridium histolyticum', 'Tenecteplase').
+drug_interaction('Lutropin alfa', 'Tositumomab').
+drug_interaction('Abarelix', 'Immune Globulin Human').
+drug_interaction('Menotropins', 'OspA lipoprotein').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Glucagon recombinant').
+drug_interaction('Desmopressin', 'Octreotide').
+drug_interaction('Insulin Human', 'Peginterferon alfa-2a').
+drug_interaction('Lepirudin', 'Muromonab').
+drug_interaction('Cetrorelix', 'Interferon beta-1a').
+drug_interaction('Hyaluronidase', 'Palifermin').
+drug_interaction('Desmopressin', 'Interferon beta-1a').
+drug_interaction('Anistreplase', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Vasopressin').
+drug_interaction('Cetrorelix', 'Filgrastim').
+drug_interaction('Daptomycin', 'Thyrotropin Alfa').
+drug_interaction('Desmopressin', 'OspA lipoprotein').
+drug_interaction('Erythropoietin', 'Rituximab').
+drug_interaction('Botulinum Toxin Type B', 'Pancrelipase').
+drug_interaction('Capromab', 'Vasopressin').
+drug_interaction('Darbepoetin alfa', 'Interferon beta-1b').
+drug_interaction('Agalsidase beta', 'Efalizumab').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Insulin Pork').
+drug_interaction('Insulin Human', 'Vasopressin').
+drug_interaction('Adalimumab', 'Efalizumab').
+drug_interaction('Botulinum Toxin Type B', 'Thyrotropin Alfa').
+drug_interaction('Erythropoietin', 'Urokinase').
+drug_interaction('Interferon beta-1b', 'Satumomab Pendetide').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Reteplase').
+drug_interaction('Oprelvekin', 'OspA lipoprotein').
+drug_interaction('Alglucerase', 'Filgrastim').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Ibritumomab tiuxetan').
+drug_interaction('Laronidase', 'Oprelvekin').
+drug_interaction('Efalizumab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Muromonab', 'Tositumomab').
+drug_interaction('Collagenase clostridium histolyticum', 'Daptomycin').
+drug_interaction('Sermorelin', 'Thyrotropin Alfa').
+drug_interaction('Cetuximab', 'Pegfilgrastim').
+drug_interaction('Follitropin beta', 'Secretin').
+drug_interaction('Interferon alfacon-1', 'Pegfilgrastim').
+drug_interaction('Abarelix', 'Gemtuzumab ozogamicin').
+drug_interaction('Daptomycin', 'Pegademase bovine').
+drug_interaction('Laronidase', 'Octreotide').
+drug_interaction('Glucagon recombinant', 'Interferon gamma-1b').
+drug_interaction('Abciximab', 'Octreotide').
+drug_interaction('Felypressin', 'Pegaspargase').
+drug_interaction('Ibritumomab tiuxetan', 'Rituximab').
+drug_interaction('Alteplase', 'Etanercept').
+drug_interaction('Collagenase clostridium histolyticum', 'Serum albumin').
+drug_interaction('Adalimumab', 'Insulin Lispro').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Efalizumab').
+drug_interaction('Interferon alfa-n3', 'Palifermin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Bivalirudin').
+drug_interaction('Interferon beta-1b', 'Rasburicase').
+drug_interaction('Botulinum Toxin Type B', 'Pegademase bovine').
+drug_interaction('Gramicidin D', 'Human Serum Albumin').
+drug_interaction('Interferon alfa-n3', 'Urofollitropin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Desmopressin').
+drug_interaction('Cetuximab', 'Eptifibatide').
+drug_interaction('Ibritumomab tiuxetan', 'Sermorelin').
+drug_interaction('Desmopressin', 'Interferon alfa-n3').
+drug_interaction('Pegfilgrastim', 'Tositumomab').
+drug_interaction('Lepirudin', 'Pegademase bovine').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Tenecteplase').
+drug_interaction('Agalsidase beta', 'Urofollitropin').
+drug_interaction('Asparaginase', 'Sermorelin').
+drug_interaction('Omalizumab', 'Peginterferon alfa-2a').
+drug_interaction('Omalizumab', 'Peginterferon alfa-2b').
+drug_interaction('Cetrorelix', 'Streptokinase').
+drug_interaction('Abciximab', 'Insulin Human').
+drug_interaction('Adalimumab', 'Insulin Pork').
+drug_interaction('Adalimumab', 'Agalsidase beta').
+drug_interaction('Immune Globulin Human', 'Serum albumin').
+drug_interaction('Botulinum Toxin Type A', 'Octreotide').
+drug_interaction('Abciximab', 'Lutropin alfa').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Gemtuzumab ozogamicin').
+drug_interaction('Abarelix', 'Muromonab').
+drug_interaction('Bivalirudin', 'Rasburicase').
+drug_interaction('Alemtuzumab', 'Lepirudin').
+drug_interaction('Laronidase', 'Leuprolide').
+drug_interaction('Follitropin beta', 'Pancrelipase').
+drug_interaction('Cetuximab', 'Follitropin beta').
+drug_interaction('Insulin Pork', 'Reteplase').
+drug_interaction('Denileukin diftitox', 'Interferon beta-1b').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Urokinase').
+drug_interaction('Interferon alfacon-1', 'Lepirudin').
+drug_interaction('Interferon gamma-1b', 'Peginterferon alfa-2a').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Pegfilgrastim').
+drug_interaction('Interferon alfacon-1', 'Rasburicase').
+drug_interaction('Filgrastim', 'Rituximab').
+drug_interaction('Alemtuzumab', 'Botulinum Toxin Type B').
+drug_interaction('Human Serum Albumin', 'Infliximab').
+drug_interaction('Interferon alfacon-1', 'Interferon beta-1b').
+drug_interaction('Capromab', 'Leuprolide').
+drug_interaction('Interferon beta-1a', 'Somatropin recombinant').
+drug_interaction('Anakinra', 'Pancrelipase').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Interferon gamma-1b').
+drug_interaction('Becaplermin', 'Serum albumin').
+drug_interaction('Immune Globulin Human', 'Rasburicase').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Serum albumin').
+drug_interaction('Efalizumab', 'Felypressin').
+drug_interaction('Darbepoetin alfa', 'Goserelin').
+drug_interaction('Insulin Glargine', 'Omalizumab').
+drug_interaction('Botulinum Toxin Type B', 'OspA lipoprotein').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Adalimumab', 'Omalizumab').
+drug_interaction('Abarelix', 'Eptifibatide').
+drug_interaction('Insulin Human', 'Palifermin').
+drug_interaction('Human Serum Albumin', 'Peginterferon alfa-2a').
+drug_interaction('Anakinra', 'Gramicidin D').
+drug_interaction('Becaplermin', 'Somatropin recombinant').
+drug_interaction('Capromab', 'Somatropin recombinant').
+drug_interaction('OspA lipoprotein', 'Serum albumin').
+drug_interaction('Menotropins', 'Somatropin recombinant').
+drug_interaction('Insulin Human', 'Lutropin alfa').
+drug_interaction('Botulinum Toxin Type A', 'Lutropin alfa').
+drug_interaction('Imiglucerase', 'Leuprolide').
+drug_interaction('Aldesleukin', 'Botulinum Toxin Type B').
+drug_interaction('Abarelix', 'Thyrotropin Alfa').
+drug_interaction('Botulinum Toxin Type B', 'Cetuximab').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Pegademase bovine').
+drug_interaction('Capromab', 'Felypressin').
+drug_interaction('Salmon Calcitonin', 'Trastuzumab').
+drug_interaction('Alefacept', 'Darbepoetin alfa').
+drug_interaction('Pegvisomant', 'Trastuzumab').
+drug_interaction('Insulin Lispro', 'Oprelvekin').
+drug_interaction('Anistreplase', 'Botulinum Toxin Type A').
+drug_interaction('Efalizumab', 'Peginterferon alfa-2b').
+drug_interaction('Gemtuzumab ozogamicin', 'Infliximab').
+drug_interaction('Peginterferon alfa-2b', 'Pegvisomant').
+drug_interaction('Darbepoetin alfa', 'Felypressin').
+drug_interaction('Streptokinase', 'Vasopressin').
+drug_interaction('Botulinum Toxin Type A', 'Cetuximab').
+drug_interaction('Botulinum Toxin Type A', 'Goserelin').
+drug_interaction('Cetrorelix', 'Muromonab').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Secretin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Hyaluronidase').
+drug_interaction('Anakinra', 'Streptokinase').
+drug_interaction('Gemtuzumab ozogamicin', 'Somatropin recombinant').
+drug_interaction('OspA lipoprotein', 'Rasburicase').
+drug_interaction('Basiliximab', 'Ibritumomab tiuxetan').
+drug_interaction('Interferon gamma-1b', 'Vasopressin').
+drug_interaction('Ibritumomab tiuxetan', 'Urofollitropin').
+drug_interaction('Anakinra', 'Menotropins').
+drug_interaction('Alteplase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Collagenase clostridium histolyticum', 'Gemtuzumab ozogamicin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Muromonab').
+drug_interaction('Darbepoetin alfa', 'Drotrecogin alfa').
+drug_interaction('Gemtuzumab ozogamicin', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Erythropoietin', 'Infliximab').
+drug_interaction('Immune Globulin Human', 'Urokinase').
+drug_interaction('Becaplermin', 'Peginterferon alfa-2b').
+drug_interaction('Palifermin', 'Streptokinase').
+drug_interaction('Gemtuzumab ozogamicin', 'Goserelin').
+drug_interaction('Denileukin diftitox', 'Laronidase').
+drug_interaction('Anakinra', 'Glucagon recombinant').
+drug_interaction('Menotropins', 'Salmon Calcitonin').
+drug_interaction('Botulinum Toxin Type B', 'Denileukin diftitox').
+drug_interaction('Asparaginase', 'Filgrastim').
+drug_interaction('Gramicidin D', 'Imiglucerase').
+drug_interaction('Serum albumin iodonated', 'Vasopressin').
+drug_interaction('Capromab', 'Pancrelipase').
+drug_interaction('Lepirudin', 'Octreotide').
+drug_interaction('Filgrastim', 'Somatropin recombinant').
+drug_interaction('Adalimumab', 'Lutropin alfa').
+drug_interaction('Pegaspargase', 'Peginterferon alfa-2a').
+drug_interaction('Muromonab', 'Palifermin').
+drug_interaction('Gemtuzumab ozogamicin', 'Urokinase').
+drug_interaction('Bivalirudin', 'Pegvisomant').
+drug_interaction('Leuprolide', 'Thyrotropin Alfa').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Lepirudin').
+drug_interaction('Eptifibatide', 'Menotropins').
+drug_interaction('Interferon alfa-n1', 'Sargramostim').
+drug_interaction('Infliximab', 'Interferon alfacon-1').
+drug_interaction('Alteplase', 'Tenecteplase').
+drug_interaction('Pegaspargase', 'Satumomab Pendetide').
+drug_interaction('Daptomycin', 'Palifermin').
+drug_interaction('Alteplase', 'Palifermin').
+drug_interaction('Basiliximab', 'Tenecteplase').
+drug_interaction('Interferon alfa-n1', 'Palifermin').
+drug_interaction('Cetuximab', 'Gramicidin D').
+drug_interaction('Eptifibatide', 'Interferon alfa-n1').
+drug_interaction('Dornase alfa', 'Tenecteplase').
+drug_interaction('Dornase alfa', 'Ibritumomab tiuxetan').
+drug_interaction('Dornase alfa', 'Interferon alfa-n3').
+drug_interaction('Dornase alfa', 'Leuprolide').
+drug_interaction('Alglucerase', 'Satumomab Pendetide').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Peginterferon alfa-2a').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Darbepoetin alfa').
+drug_interaction('Erythropoietin', 'Sargramostim').
+drug_interaction('Laronidase', 'Satumomab Pendetide').
+drug_interaction('Glucagon recombinant', 'Goserelin').
+drug_interaction('Muromonab', 'Peginterferon alfa-2b').
+drug_interaction('Bivalirudin', 'Cetuximab').
+drug_interaction('Octreotide', 'Rasburicase').
+drug_interaction('Anistreplase', 'Reteplase').
+drug_interaction('Abciximab', 'Omalizumab').
+drug_interaction('Insulin Lispro', 'Interferon gamma-1b').
+drug_interaction('Botulinum Toxin Type B', 'Muromonab').
+drug_interaction('Salmon Calcitonin', 'Urokinase').
+drug_interaction('Human Serum Albumin', 'Interferon beta-1b').
+drug_interaction('Salmon Calcitonin', 'Secretin').
+drug_interaction('Immune Globulin Human', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Octreotide', 'Pegaspargase').
+drug_interaction('Goserelin', 'Streptokinase').
+drug_interaction('Anakinra', 'Cyclosporine').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Somatropin recombinant').
+drug_interaction('Daptomycin', 'Gemtuzumab ozogamicin').
+drug_interaction('Desmopressin', 'Palifermin').
+drug_interaction('Interferon beta-1b', 'Streptokinase').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Dornase alfa').
+drug_interaction('Desmopressin', 'Erythropoietin').
+drug_interaction('Botulinum Toxin Type B', 'Ibritumomab tiuxetan').
+drug_interaction('Insulin Lispro', 'Salmon Calcitonin').
+drug_interaction('Insulin Glargine', 'Peginterferon alfa-2b').
+drug_interaction('Serum albumin iodonated', 'Streptokinase').
+drug_interaction('Secretin', 'Trastuzumab').
+drug_interaction('Cyclosporine', 'Thyrotropin Alfa').
+drug_interaction('Adalimumab', 'Drotrecogin alfa').
+drug_interaction('Dornase alfa', 'Trastuzumab').
+drug_interaction('Darbepoetin alfa', 'Gemtuzumab ozogamicin').
+drug_interaction('Aldesleukin', 'Satumomab Pendetide').
+drug_interaction('Dornase alfa', 'Vasopressin').
+drug_interaction('Abciximab', 'Dornase alfa').
+drug_interaction('Agalsidase beta', 'Interferon alfa-n1').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Menotropins').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Omalizumab').
+drug_interaction('Anakinra', 'Omalizumab').
+drug_interaction('Becaplermin', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Alteplase', 'Drotrecogin alfa').
+drug_interaction('Dornase alfa', 'Streptokinase').
+drug_interaction('Abciximab', 'Infliximab').
+drug_interaction('Gemtuzumab ozogamicin', 'Muromonab').
+drug_interaction('Insulin Pork', 'Palifermin').
+drug_interaction('Cyclosporine', 'Sermorelin').
+drug_interaction('Botulinum Toxin Type B', 'Reteplase').
+drug_interaction('Insulin Pork', 'Urokinase').
+drug_interaction('Erythropoietin', 'Somatropin recombinant').
+drug_interaction('Felypressin', 'OspA lipoprotein').
+drug_interaction('Eptifibatide', 'Erythropoietin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Insulin Lispro', 'Omalizumab').
+drug_interaction('Botulinum Toxin Type A', 'Pegademase bovine').
+drug_interaction('Laronidase', 'Salmon Calcitonin').
+drug_interaction('Alemtuzumab', 'OspA lipoprotein').
+drug_interaction('Lepirudin', 'Secretin').
+drug_interaction('Erythropoietin', 'Serum albumin').
+drug_interaction('Immune Globulin Human', 'Tositumomab').
+drug_interaction('Bivalirudin', 'Urofollitropin').
+drug_interaction('Gramicidin D', 'Pegademase bovine').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Insulin Pork').
+drug_interaction('Alemtuzumab', 'Immune Globulin Human').
+drug_interaction('Interferon beta-1a', 'Serum albumin iodonated').
+drug_interaction('Anakinra', 'Insulin Glargine').
+drug_interaction('Streptokinase', 'Urofollitropin').
+drug_interaction('Darbepoetin alfa', 'Pegfilgrastim').
+drug_interaction('Etanercept', 'Pegademase bovine').
+drug_interaction('Anakinra', 'Tenecteplase').
+drug_interaction('Asparaginase', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Imiglucerase', 'Interferon gamma-1b').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Lutropin alfa').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Trastuzumab').
+drug_interaction('Alteplase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Agalsidase beta', 'Anistreplase').
+drug_interaction('Basiliximab', 'Efalizumab').
+drug_interaction('Botulinum Toxin Type B', 'Imiglucerase').
+drug_interaction('Alefacept', 'Basiliximab').
+drug_interaction('Etanercept', 'Pancrelipase').
+drug_interaction('Pegfilgrastim', 'Reteplase').
+drug_interaction('Imiglucerase', 'Peginterferon alfa-2b').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Interferon alfacon-1').
+drug_interaction('Drotrecogin alfa', 'Insulin Human').
+drug_interaction('Alefacept', 'Cetrorelix').
+drug_interaction('Abciximab', 'Collagenase clostridium histolyticum').
+drug_interaction('Eptifibatide', 'Pegvisomant').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Tenecteplase', 'Tositumomab').
+drug_interaction('OspA lipoprotein', 'Pegfilgrastim').
+drug_interaction('Insulin Lispro', 'Tenecteplase').
+drug_interaction('Collagenase clostridium histolyticum', 'Erythropoietin').
+drug_interaction('Pancrelipase', 'Pegfilgrastim').
+drug_interaction('Interferon beta-1b', 'Serum albumin iodonated').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Tositumomab').
+drug_interaction('Cetuximab', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Interferon gamma-1b', 'Tositumomab').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Lutropin alfa').
+drug_interaction('Adalimumab', 'Vasopressin').
+drug_interaction('Lepirudin', 'Pegvisomant').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Menotropins').
+drug_interaction('Alefacept', 'Salmon Calcitonin').
+drug_interaction('Efalizumab', 'Glucagon recombinant').
+drug_interaction('Bivalirudin', 'Glucagon recombinant').
+drug_interaction('Agalsidase beta', 'Palifermin').
+drug_interaction('Basiliximab', 'Pancrelipase').
+drug_interaction('Interferon gamma-1b', 'Peginterferon alfa-2b').
+drug_interaction('Palifermin', 'Satumomab Pendetide').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Immune Globulin Human').
+drug_interaction('Daptomycin', 'Satumomab Pendetide').
+drug_interaction('Drotrecogin alfa', 'Oprelvekin').
+drug_interaction('Denileukin diftitox', 'Peginterferon alfa-2b').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Infliximab').
+drug_interaction('Dornase alfa', 'Pegaspargase').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Interferon alfacon-1').
+drug_interaction('Botulinum Toxin Type A', 'Collagenase clostridium histolyticum').
+drug_interaction('Abciximab', 'Cyclosporine').
+drug_interaction('Asparaginase', 'Pancrelipase').
+drug_interaction('Abciximab', 'Serum albumin iodonated').
+drug_interaction('Interferon beta-1b', 'Peginterferon alfa-2b').
+drug_interaction('Becaplermin', 'Gemtuzumab ozogamicin').
+drug_interaction('Darbepoetin alfa', 'Peginterferon alfa-2a').
+drug_interaction('Glucagon recombinant', 'Pancrelipase').
+drug_interaction('Glucagon recombinant', 'Serum albumin').
+drug_interaction('Anakinra', 'Pegaspargase').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Interferon alfa-n1').
+drug_interaction('Adalimumab', 'Palifermin').
+drug_interaction('Lutropin alfa', 'Omalizumab').
+drug_interaction('Etanercept', 'Octreotide').
+drug_interaction('Anakinra', 'Drotrecogin alfa').
+drug_interaction('Dornase alfa', 'Interferon gamma-1b').
+drug_interaction('Reteplase', 'Urokinase').
+drug_interaction('Insulin Glargine', 'Tenecteplase').
+drug_interaction('Alglucerase', 'Palifermin').
+drug_interaction('Alefacept', 'Peginterferon alfa-2a').
+drug_interaction('Alefacept', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Alefacept', 'Anakinra').
+drug_interaction('Sargramostim', 'Serum albumin iodonated').
+drug_interaction('Interferon alfa-n1', 'Pegfilgrastim').
+drug_interaction('Gramicidin D', 'Palifermin').
+drug_interaction('Becaplermin', 'Interferon alfa-n3').
+drug_interaction('Dornase alfa', 'Pegvisomant').
+drug_interaction('Gemtuzumab ozogamicin', 'Peginterferon alfa-2a').
+drug_interaction('Glucagon recombinant', 'Sermorelin').
+drug_interaction('Peginterferon alfa-2a', 'Serum albumin iodonated').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Peginterferon alfa-2b').
+drug_interaction('Basiliximab', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Lutropin alfa', 'Pegaspargase').
+drug_interaction('Alteplase', 'Interferon alfa-n1').
+drug_interaction('Pegvisomant', 'Urofollitropin').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Streptokinase').
+drug_interaction('Gemtuzumab ozogamicin', 'Serum albumin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Reteplase').
+drug_interaction('Felypressin', 'Serum albumin').
+drug_interaction('Infliximab', 'Insulin Pork').
+drug_interaction('Satumomab Pendetide', 'Streptokinase').
+drug_interaction('Eptifibatide', 'Serum albumin iodonated').
+drug_interaction('Satumomab Pendetide', 'Somatropin recombinant').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Trastuzumab').
+drug_interaction('Oprelvekin', 'Satumomab Pendetide').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Insulin Lispro').
+drug_interaction('Efalizumab', 'Tositumomab').
+drug_interaction('Pegfilgrastim', 'Rasburicase').
+drug_interaction('Eptifibatide', 'Gemtuzumab ozogamicin').
+drug_interaction('Asparaginase', 'Interferon alfa-n3').
+drug_interaction('Salmon Calcitonin', 'Serum albumin').
+drug_interaction('Oprelvekin', 'Rasburicase').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Pegfilgrastim').
+drug_interaction('Dornase alfa', 'Serum albumin iodonated').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Thyrotropin Alfa').
+drug_interaction('Imiglucerase', 'Muromonab').
+drug_interaction('Abciximab', 'Asparaginase').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Filgrastim', 'Reteplase').
+drug_interaction('Alglucerase', 'Insulin Lispro').
+drug_interaction('Tositumomab', 'Urokinase').
+drug_interaction('Imiglucerase', 'Lutropin alfa').
+drug_interaction('Filgrastim', 'Interferon alfa-n1').
+drug_interaction('Collagenase clostridium histolyticum', 'Secretin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Pegvisomant').
+drug_interaction('Human Serum Albumin', 'Rasburicase').
+drug_interaction('Alteplase', 'Reteplase').
+drug_interaction('Insulin Lispro', 'Pegademase bovine').
+drug_interaction('Interferon alfacon-1', 'Pegaspargase').
+drug_interaction('Cetuximab', 'Muromonab').
+drug_interaction('Adalimumab', 'Octreotide').
+drug_interaction('Insulin Lispro', 'Streptokinase').
+drug_interaction('Anistreplase', 'Darbepoetin alfa').
+drug_interaction('Becaplermin', 'Interferon beta-1b').
+drug_interaction('Serum albumin iodonated', 'Tenecteplase').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Interferon beta-1a').
+drug_interaction('Lepirudin', 'Peginterferon alfa-2b').
+drug_interaction('Interferon alfa-n3', 'Sermorelin').
+drug_interaction('Desmopressin', 'Leuprolide').
+drug_interaction('Capromab', 'Pegfilgrastim').
+drug_interaction('Abarelix', 'Pegfilgrastim').
+drug_interaction('Serum albumin', 'Vasopressin').
+drug_interaction('Bivalirudin', 'Lutropin alfa').
+drug_interaction('Alefacept', 'Interferon beta-1b').
+drug_interaction('Abarelix', 'Serum albumin').
+drug_interaction('Pegaspargase', 'Pegfilgrastim').
+drug_interaction('Basiliximab', 'Interferon beta-1b').
+drug_interaction('Darbepoetin alfa', 'Secretin').
+drug_interaction('Bivalirudin', 'Botulinum Toxin Type B').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Tenecteplase').
+drug_interaction('Glucagon recombinant', 'Insulin Pork').
+drug_interaction('Follitropin beta', 'Interferon beta-1b').
+drug_interaction('Abarelix', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Eptifibatide', 'Follitropin beta').
+drug_interaction('Alemtuzumab', 'Erythropoietin').
+drug_interaction('Anakinra', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Omalizumab', 'Tositumomab').
+drug_interaction('Insulin Pork', 'Tositumomab').
+drug_interaction('Daptomycin', 'Denileukin diftitox').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Interferon gamma-1b').
+drug_interaction('Abciximab', 'Imiglucerase').
+drug_interaction('Interferon beta-1a', 'Oprelvekin').
+drug_interaction('Adalimumab', 'Dornase alfa').
+drug_interaction('Erythropoietin', 'Immune Globulin Human').
+drug_interaction('Imiglucerase', 'Sargramostim').
+drug_interaction('Denileukin diftitox', 'Thyrotropin Alfa').
+drug_interaction('Gemtuzumab ozogamicin', 'Peginterferon alfa-2b').
+drug_interaction('Basiliximab', 'Lepirudin').
+drug_interaction('Bivalirudin', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Capromab', 'Filgrastim').
+drug_interaction('Aldesleukin', 'Anakinra').
+drug_interaction('Alglucerase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Human Serum Albumin').
+drug_interaction('Daptomycin', 'Interferon alfa-n1').
+drug_interaction('Cetuximab', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Desmopressin', 'Insulin Lispro').
+drug_interaction('Satumomab Pendetide', 'Vasopressin').
+drug_interaction('Alteplase', 'Secretin').
+drug_interaction('Hyaluronidase', 'Interferon gamma-1b').
+drug_interaction('Alglucerase', 'Interferon alfa-n3').
+drug_interaction('Lepirudin', 'Peginterferon alfa-2a').
+drug_interaction('Interferon alfa-n1', 'Menotropins').
+drug_interaction('Salmon Calcitonin', 'Satumomab Pendetide').
+drug_interaction('Abarelix', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Lutropin alfa', 'Octreotide').
+drug_interaction('Infliximab', 'Serum albumin iodonated').
+drug_interaction('Laronidase', 'Omalizumab').
+drug_interaction('Gramicidin D', 'Oprelvekin').
+drug_interaction('Drotrecogin alfa', 'Interferon alfa-n3').
+drug_interaction('Aldesleukin', 'Insulin Lispro').
+drug_interaction('Aldesleukin', 'OspA lipoprotein').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Urofollitropin').
+drug_interaction('Human Serum Albumin', 'Menotropins').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Leuprolide').
+drug_interaction('Basiliximab', 'Rasburicase').
+drug_interaction('Daptomycin', 'Peginterferon alfa-2a').
+drug_interaction('Becaplermin', 'Peginterferon alfa-2a').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Lepirudin').
+drug_interaction('Alefacept', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Pegfilgrastim', 'Tenecteplase').
+drug_interaction('Daptomycin', 'Interferon gamma-1b').
+drug_interaction('Alglucerase', 'Cetrorelix').
+drug_interaction('Alteplase', 'Capromab').
+drug_interaction('Laronidase', 'Rasburicase').
+drug_interaction('Aldesleukin', 'Salmon Calcitonin').
+drug_interaction('Ibritumomab tiuxetan', 'Pancrelipase').
+drug_interaction('Infliximab', 'Sermorelin').
+drug_interaction('Daptomycin', 'Dornase alfa').
+drug_interaction('Alglucerase', 'Eptifibatide').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'OspA lipoprotein').
+drug_interaction('Alteplase', 'Octreotide').
+drug_interaction('Botulinum Toxin Type A', 'Insulin Glargine').
+drug_interaction('Capromab', 'Lutropin alfa').
+drug_interaction('Glucagon recombinant', 'Insulin Lispro').
+drug_interaction('Botulinum Toxin Type B', 'Infliximab').
+drug_interaction('Alemtuzumab', 'Cetrorelix').
+drug_interaction('Gemtuzumab ozogamicin', 'Secretin').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Drotrecogin alfa').
+drug_interaction('Etanercept', 'Insulin Human').
+drug_interaction('Octreotide', 'Pegademase bovine').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Urofollitropin').
+drug_interaction('Darbepoetin alfa', 'Interferon beta-1a').
+drug_interaction('Erythropoietin', 'Interferon alfacon-1').
+drug_interaction('Muromonab', 'Satumomab Pendetide').
+drug_interaction('Daptomycin', 'Somatropin recombinant').
+drug_interaction('Leuprolide', 'Lutropin alfa').
+drug_interaction('Botulinum Toxin Type A', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Abarelix', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Daptomycin', 'Secretin').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Dornase alfa').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Sargramostim').
+drug_interaction('Interferon alfa-n1', 'Streptokinase').
+drug_interaction('Muromonab', 'Sermorelin').
+drug_interaction('Alemtuzumab', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Glucagon recombinant', 'Laronidase').
+drug_interaction('Gemtuzumab ozogamicin', 'Hyaluronidase').
+drug_interaction('Follitropin beta', 'Hyaluronidase').
+drug_interaction('Agalsidase beta', 'Cyclosporine').
+drug_interaction('Capromab', 'Drotrecogin alfa').
+drug_interaction('Leuprolide', 'Somatropin recombinant').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Rituximab').
+drug_interaction('Dornase alfa', 'Etanercept').
+drug_interaction('Adalimumab', 'Streptokinase').
+drug_interaction('Capromab', 'Interferon gamma-1b').
+drug_interaction('OspA lipoprotein', 'Rituximab').
+drug_interaction('Pegaspargase', 'Urofollitropin').
+drug_interaction('Cetrorelix', 'Pegvisomant').
+drug_interaction('Interferon alfacon-1', 'Interferon beta-1a').
+drug_interaction('Human Serum Albumin', 'Interferon alfacon-1').
+drug_interaction('Desmopressin', 'Goserelin').
+drug_interaction('Interferon beta-1b', 'Tositumomab').
+drug_interaction('Becaplermin', 'Hyaluronidase').
+drug_interaction('Laronidase', 'Peginterferon alfa-2b').
+drug_interaction('Agalsidase beta', 'Interferon gamma-1b').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Pegfilgrastim').
+drug_interaction('Insulin Human', 'Thyrotropin Alfa').
+drug_interaction('Laronidase', 'OspA lipoprotein').
+drug_interaction('Palifermin', 'Urofollitropin').
+drug_interaction('Asparaginase', 'Insulin Human').
+drug_interaction('Alemtuzumab', 'Follitropin beta').
+drug_interaction('Palifermin', 'Peginterferon alfa-2b').
+drug_interaction('Anakinra', 'Tositumomab').
+drug_interaction('Pancrelipase', 'Tenecteplase').
+drug_interaction('Basiliximab', 'Pegvisomant').
+drug_interaction('Cetrorelix', 'Trastuzumab').
+drug_interaction('Alteplase', 'Insulin Human').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Filgrastim').
+drug_interaction('Eptifibatide', 'OspA lipoprotein').
+drug_interaction('Hyaluronidase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Interferon alfa-n1', 'Interferon beta-1a').
+drug_interaction('Alteplase', 'Ibritumomab tiuxetan').
+drug_interaction('Pegfilgrastim', 'Peginterferon alfa-2a').
+drug_interaction('Cetuximab', 'Omalizumab').
+drug_interaction('Filgrastim', 'Interferon beta-1b').
+drug_interaction('Denileukin diftitox', 'Sermorelin').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Gemtuzumab ozogamicin').
+drug_interaction('Alglucerase', 'Tenecteplase').
+drug_interaction('Basiliximab', 'Insulin Human').
+drug_interaction('Alteplase', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Goserelin', 'Hyaluronidase').
+drug_interaction('Insulin Glargine', 'Salmon Calcitonin').
+drug_interaction('Anakinra', 'Pegvisomant').
+drug_interaction('Adalimumab', 'Laronidase').
+drug_interaction('Eptifibatide', 'Pegademase bovine').
+drug_interaction('Interferon alfa-n3', 'Peginterferon alfa-2b').
+drug_interaction('Insulin Pork', 'Interferon gamma-1b').
+drug_interaction('Agalsidase beta', 'Leuprolide').
+drug_interaction('Adalimumab', 'Serum albumin').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Ibritumomab tiuxetan').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Serum albumin').
+drug_interaction('Interferon alfacon-1', 'OspA lipoprotein').
+drug_interaction('Cetrorelix', 'Insulin Pork').
+drug_interaction('Darbepoetin alfa', 'Hyaluronidase').
+drug_interaction('Bivalirudin', 'Interferon beta-1b').
+drug_interaction('Botulinum Toxin Type B', 'Glucagon recombinant').
+drug_interaction('Alglucerase', 'Hyaluronidase').
+drug_interaction('Glucagon recombinant', 'Pegaspargase').
+drug_interaction('Interferon beta-1b', 'Pegvisomant').
+drug_interaction('Pegfilgrastim', 'Peginterferon alfa-2b').
+drug_interaction('Gemtuzumab ozogamicin', 'Interferon alfa-n1').
+drug_interaction('Capromab', 'Insulin Human').
+drug_interaction('Drotrecogin alfa', 'Muromonab').
+drug_interaction('Adalimumab', 'Eptifibatide').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Interferon alfacon-1').
+drug_interaction('Capromab', 'Pegvisomant').
+drug_interaction('Efalizumab', 'Filgrastim').
+drug_interaction('Abarelix', 'Hyaluronidase').
+drug_interaction('Follitropin beta', 'Satumomab Pendetide').
+drug_interaction('Hyaluronidase', 'Insulin Lispro').
+drug_interaction('Felypressin', 'Vasopressin').
+drug_interaction('Pegaspargase', 'Sargramostim').
+drug_interaction('Basiliximab', 'Sermorelin').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Pegvisomant').
+drug_interaction('Cyclosporine', 'Interferon beta-1a').
+drug_interaction('Insulin Glargine', 'Lepirudin').
+drug_interaction('Insulin Pork', 'Interferon alfa-n3').
+drug_interaction('Drotrecogin alfa', 'Peginterferon alfa-2a').
+drug_interaction('Alteplase', 'Muromonab').
+drug_interaction('Human Serum Albumin', 'Imiglucerase').
+drug_interaction('Alemtuzumab', 'Interferon alfa-n1').
+drug_interaction('Anakinra', 'Botulinum Toxin Type A').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Urofollitropin').
+drug_interaction('Efalizumab', 'Rituximab').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Pegvisomant').
+drug_interaction('Basiliximab', 'Pegademase bovine').
+drug_interaction('Abciximab', 'Alemtuzumab').
+drug_interaction('Abciximab', 'Thyrotropin Alfa').
+drug_interaction('Adalimumab', 'Pegfilgrastim').
+drug_interaction('Dornase alfa', 'Sermorelin').
+drug_interaction('Alteplase', 'Pegfilgrastim').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Pegaspargase').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Immune Globulin Human', 'Pegvisomant').
+drug_interaction('Muromonab', 'Pegaspargase').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Serum albumin iodonated').
+drug_interaction('Muromonab', 'Pegfilgrastim').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Follitropin beta').
+drug_interaction('Capromab', 'Goserelin').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Becaplermin').
+drug_interaction('Becaplermin', 'Cetrorelix').
+drug_interaction('Aldesleukin', 'Darbepoetin alfa').
+drug_interaction('Capromab', 'Immune Globulin Human').
+drug_interaction('Filgrastim', 'Vasopressin').
+drug_interaction('Serum albumin iodonated', 'Thyrotropin Alfa').
+drug_interaction('Goserelin', 'Interferon alfacon-1').
+drug_interaction('Cyclosporine', 'Erythropoietin').
+drug_interaction('Bivalirudin', 'Trastuzumab').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Serum albumin iodonated').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Rituximab').
+drug_interaction('Interferon beta-1a', 'Interferon gamma-1b').
+drug_interaction('Lepirudin', 'Omalizumab').
+drug_interaction('Rituximab', 'Somatropin recombinant').
+drug_interaction('Eptifibatide', 'Thyrotropin Alfa').
+drug_interaction('Omalizumab', 'Tenecteplase').
+drug_interaction('Alemtuzumab', 'Collagenase clostridium histolyticum').
+drug_interaction('Goserelin', 'Interferon alfa-n3').
+drug_interaction('Lutropin alfa', 'Satumomab Pendetide').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Pegvisomant').
+drug_interaction('Oprelvekin', 'Tenecteplase').
+drug_interaction('Anakinra', 'Pegademase bovine').
+drug_interaction('Cyclosporine', 'Rasburicase').
+drug_interaction('Menotropins', 'Octreotide').
+drug_interaction('Gemtuzumab ozogamicin', 'Vasopressin').
+drug_interaction('Cetrorelix', 'Urofollitropin').
+drug_interaction('Asparaginase', 'Omalizumab').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Vasopressin').
+drug_interaction('Glucagon recombinant', 'Interferon alfa-n3').
+drug_interaction('Anakinra', 'Oprelvekin').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Lepirudin').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Asparaginase').
+drug_interaction('Insulin Human', 'Trastuzumab').
+drug_interaction('Human Serum Albumin', 'Urokinase').
+drug_interaction('Anakinra', 'Bivalirudin').
+drug_interaction('Anistreplase', 'Filgrastim').
+drug_interaction('Glucagon recombinant', 'Human Serum Albumin').
+drug_interaction('Follitropin beta', 'Lepirudin').
+drug_interaction('Adalimumab', 'Alemtuzumab').
+drug_interaction('Botulinum Toxin Type B', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Alteplase', 'Human Serum Albumin').
+drug_interaction('Interferon alfa-n3', 'Lepirudin').
+drug_interaction('Anakinra', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Anistreplase', 'Tenecteplase').
+drug_interaction('Octreotide', 'Salmon Calcitonin').
+drug_interaction('Interferon gamma-1b', 'Trastuzumab').
+drug_interaction('Adalimumab', 'Sargramostim').
+drug_interaction('Abarelix', 'Alemtuzumab').
+drug_interaction('Anistreplase', 'Interferon beta-1a').
+drug_interaction('Abarelix', 'Rituximab').
+drug_interaction('Alglucerase', 'Glucagon recombinant').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Urofollitropin').
+drug_interaction('Aldesleukin', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Darbepoetin alfa', 'Insulin Human').
+drug_interaction('Collagenase clostridium histolyticum', 'Pegademase bovine').
+drug_interaction('Peginterferon alfa-2b', 'Streptokinase').
+drug_interaction('Filgrastim', 'Follitropin beta').
+drug_interaction('Laronidase', 'Lutropin alfa').
+drug_interaction('Peginterferon alfa-2a', 'Tenecteplase').
+drug_interaction('Agalsidase beta', 'Hyaluronidase').
+drug_interaction('Cetuximab', 'Thyrotropin Alfa').
+drug_interaction('Menotropins', 'Thyrotropin Alfa').
+drug_interaction('Alemtuzumab', 'Muromonab').
+drug_interaction('Alemtuzumab', 'Somatropin recombinant').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Interferon alfacon-1').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Laronidase').
+drug_interaction('Erythropoietin', 'Gramicidin D').
+drug_interaction('Rasburicase', 'Thyrotropin Alfa').
+drug_interaction('Gramicidin D', 'Insulin Glargine').
+drug_interaction('Goserelin', 'Pegaspargase').
+drug_interaction('Human Serum Albumin', 'Insulin Glargine').
+drug_interaction('Ibritumomab tiuxetan', 'Omalizumab').
+drug_interaction('Denileukin diftitox', 'Human Serum Albumin').
+drug_interaction('Abciximab', 'Sargramostim').
+drug_interaction('Omalizumab', 'Vasopressin').
+drug_interaction('Anistreplase', 'Sermorelin').
+drug_interaction('Sermorelin', 'Tositumomab').
+drug_interaction('Botulinum Toxin Type B', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Capromab', 'Tositumomab').
+drug_interaction('Becaplermin', 'Pegaspargase').
+drug_interaction('Anakinra', 'Gemtuzumab ozogamicin').
+drug_interaction('Anakinra', 'Muromonab').
+drug_interaction('Hyaluronidase', 'Insulin Glargine').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Salmon Calcitonin').
+drug_interaction('Gramicidin D', 'Lutropin alfa').
+drug_interaction('Ibritumomab tiuxetan', 'Tositumomab').
+drug_interaction('Serum albumin', 'Streptokinase').
+drug_interaction('Basiliximab', 'Cetrorelix').
+drug_interaction('Abciximab', 'Menotropins').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Interferon beta-1b').
+drug_interaction('Cyclosporine', 'Somatropin recombinant').
+drug_interaction('Botulinum Toxin Type A', 'Leuprolide').
+drug_interaction('Alteplase', 'Rasburicase').
+drug_interaction('Becaplermin', 'Octreotide').
+drug_interaction('Botulinum Toxin Type B', 'Erythropoietin').
+drug_interaction('Satumomab Pendetide', 'Urokinase').
+drug_interaction('Immune Globulin Human', 'Trastuzumab').
+drug_interaction('Etanercept', 'Interferon alfacon-1').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Salmon Calcitonin').
+drug_interaction('Leuprolide', 'Pegvisomant').
+drug_interaction('Peginterferon alfa-2b', 'Tenecteplase').
+drug_interaction('Abarelix', 'Abciximab').
+drug_interaction('Asparaginase', 'Etanercept').
+drug_interaction('Botulinum Toxin Type B', 'Urokinase').
+drug_interaction('Cetrorelix', 'Secretin').
+drug_interaction('Interferon beta-1a', 'Pancrelipase').
+drug_interaction('Lutropin alfa', 'Secretin').
+drug_interaction('Oprelvekin', 'Peginterferon alfa-2b').
+drug_interaction('Abciximab', 'Salmon Calcitonin').
+drug_interaction('Filgrastim', 'Gramicidin D').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Etanercept').
+drug_interaction('Insulin Glargine', 'Urofollitropin').
+drug_interaction('Glucagon recombinant', 'Peginterferon alfa-2b').
+drug_interaction('Human Serum Albumin', 'Leuprolide').
+drug_interaction('Follitropin beta', 'Gramicidin D').
+drug_interaction('Insulin Human', 'Pancrelipase').
+drug_interaction('Alglucerase', 'Felypressin').
+drug_interaction('Felypressin', 'Peginterferon alfa-2b').
+drug_interaction('Agalsidase beta', 'Salmon Calcitonin').
+drug_interaction('Abciximab', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Abciximab', 'Basiliximab').
+drug_interaction('Felypressin', 'Secretin').
+drug_interaction('Alteplase', 'Botulinum Toxin Type B').
+drug_interaction('Capromab', 'Omalizumab').
+drug_interaction('Darbepoetin alfa', 'Tenecteplase').
+drug_interaction('Dornase alfa', 'Filgrastim').
+drug_interaction('Cyclosporine', 'Immune Globulin Human').
+drug_interaction('Insulin Lispro', 'Lepirudin').
+drug_interaction('Somatropin recombinant', 'Abarelix').
+drug_interaction('Tenecteplase', 'Follitropin beta').
+drug_interaction('Omalizumab', 'Collagenase clostridium histolyticum').
+drug_interaction('Pegvisomant', 'Interferon alfacon-1').
+drug_interaction('Gramicidin D', 'Denileukin diftitox').
+drug_interaction('Vasopressin', 'Sermorelin').
+drug_interaction('Muromonab', 'Dornase alfa').
+drug_interaction('Dornase alfa', 'Aldesleukin').
+drug_interaction('Trastuzumab', 'Botulinum Toxin Type B').
+drug_interaction('Hyaluronidase', 'Alemtuzumab').
+drug_interaction('Serum albumin iodonated', 'Agalsidase beta').
+drug_interaction('Satumomab Pendetide', 'Basiliximab').
+drug_interaction('Oprelvekin', 'Adalimumab').
+drug_interaction('Secretin', 'Menotropins').
+drug_interaction('Insulin Lispro', 'Abarelix').
+drug_interaction('Insulin Glargine', 'Follitropin beta').
+drug_interaction('Vasopressin', 'Pegvisomant').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Anakinra').
+drug_interaction('Rasburicase', 'Interferon gamma-1b').
+drug_interaction('Collagenase clostridium histolyticum', 'Basiliximab').
+drug_interaction('Insulin Lispro', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Interferon gamma-1b', 'Alefacept').
+drug_interaction('Lepirudin', 'Imiglucerase').
+drug_interaction('Insulin Glargine', 'Etanercept').
+drug_interaction('Pegvisomant', 'Hyaluronidase').
+drug_interaction('Dornase alfa', 'Desmopressin').
+drug_interaction('Urofollitropin', 'Imiglucerase').
+drug_interaction('Serum albumin iodonated', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegfilgrastim', 'Felypressin').
+drug_interaction('Salmon Calcitonin', 'Collagenase clostridium histolyticum').
+drug_interaction('Hyaluronidase', 'Basiliximab').
+drug_interaction('Peginterferon alfa-2a', 'Laronidase').
+drug_interaction('Rituximab', 'Pegaspargase').
+drug_interaction('Anakinra', 'Alemtuzumab').
+drug_interaction('Insulin Lispro', 'Bivalirudin').
+drug_interaction('Pegfilgrastim', 'Interferon alfa-n3').
+drug_interaction('Thyrotropin Alfa', 'Lepirudin').
+drug_interaction('Insulin Lispro', 'Basiliximab').
+drug_interaction('Rasburicase', 'Imiglucerase').
+drug_interaction('Trastuzumab', 'Imiglucerase').
+drug_interaction('Palifermin', 'Dornase alfa').
+drug_interaction('Interferon alfa-n1', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Pegfilgrastim', 'Etanercept').
+drug_interaction('Sargramostim', 'Menotropins').
+drug_interaction('Oprelvekin', 'Daptomycin').
+drug_interaction('Serum albumin', 'Pegfilgrastim').
+drug_interaction('Vasopressin', 'Imiglucerase').
+drug_interaction('OspA lipoprotein', 'Human Serum Albumin').
+drug_interaction('Tositumomab', 'Asparaginase').
+drug_interaction('Peginterferon alfa-2b', 'Botulinum Toxin Type B').
+drug_interaction('Efalizumab', 'Capromab').
+drug_interaction('Immune Globulin Human', 'Felypressin').
+drug_interaction('Lutropin alfa', 'Human Serum Albumin').
+drug_interaction('Vasopressin', 'Interferon beta-1b').
+drug_interaction('Gemtuzumab ozogamicin', 'Bivalirudin').
+drug_interaction('Immune Globulin Human', 'Imiglucerase').
+drug_interaction('Goserelin', 'Becaplermin').
+drug_interaction('Immune Globulin Human', 'Abciximab').
+drug_interaction('Tositumomab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Efalizumab', 'Abarelix').
+drug_interaction('Interferon beta-1b', 'Collagenase clostridium histolyticum').
+drug_interaction('Thyrotropin Alfa', 'Pegfilgrastim').
+drug_interaction('Peginterferon alfa-2a', 'Alemtuzumab').
+drug_interaction('Insulin Pork', 'Capromab').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Insulin Glargine').
+drug_interaction('Pegaspargase', 'Etanercept').
+drug_interaction('Oprelvekin', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Sargramostim', 'Lutropin alfa').
+drug_interaction('Lutropin alfa', 'Interferon alfa-n3').
+drug_interaction('Reteplase', 'Insulin Glargine').
+drug_interaction('Desmopressin', 'Botulinum Toxin Type A').
+drug_interaction('Desmopressin', 'Bivalirudin').
+drug_interaction('Erythropoietin', 'Basiliximab').
+drug_interaction('Tenecteplase', 'Pegaspargase').
+drug_interaction('Streptokinase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Laronidase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Alteplase', 'Alemtuzumab').
+drug_interaction('Serum albumin', 'Interferon alfacon-1').
+drug_interaction('Bivalirudin', 'Aldesleukin').
+drug_interaction('Serum albumin iodonated', 'Asparaginase').
+drug_interaction('Insulin Glargine', 'Felypressin').
+drug_interaction('Hyaluronidase', 'Gramicidin D').
+drug_interaction('Oprelvekin', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Daptomycin', 'Alefacept').
+drug_interaction('Urofollitropin', 'Gemtuzumab ozogamicin').
+drug_interaction('Peginterferon alfa-2a', 'Ibritumomab tiuxetan').
+drug_interaction('Sargramostim', 'Rasburicase').
+drug_interaction('Efalizumab', 'Asparaginase').
+drug_interaction('Follitropin beta', 'Dornase alfa').
+drug_interaction('Somatropin recombinant', 'Imiglucerase').
+drug_interaction('Goserelin', 'Felypressin').
+drug_interaction('Streptokinase', 'Abarelix').
+drug_interaction('Interferon beta-1b', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Insulin Glargine', 'Cetrorelix').
+drug_interaction('Oprelvekin', 'Cetrorelix').
+drug_interaction('Lutropin alfa', 'Drotrecogin alfa').
+drug_interaction('Insulin Lispro', 'Cyclosporine').
+drug_interaction('Octreotide', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegaspargase', 'Gemtuzumab ozogamicin').
+drug_interaction('Salmon Calcitonin', 'Oprelvekin').
+drug_interaction('Insulin Glargine', 'Alglucerase').
+drug_interaction('Eptifibatide', 'Aldesleukin').
+drug_interaction('Serum albumin', 'Anakinra').
+drug_interaction('Rasburicase', 'Menotropins').
+drug_interaction('Thyrotropin Alfa', 'Interferon beta-1b').
+drug_interaction('Interferon beta-1a', 'Alefacept').
+drug_interaction('Interferon alfa-n1', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Omalizumab', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Gemtuzumab ozogamicin', 'Filgrastim').
+drug_interaction('Secretin', 'Goserelin').
+drug_interaction('Tenecteplase', 'Somatropin recombinant').
+drug_interaction('Denileukin diftitox', 'Anistreplase').
+drug_interaction('Etanercept', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Immune Globulin Human', 'Desmopressin').
+drug_interaction('Eptifibatide', 'Cetrorelix').
+drug_interaction('Botulinum Toxin Type A', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Insulin Lispro', 'Alteplase').
+drug_interaction('Interferon beta-1b', 'Interferon beta-1a').
+drug_interaction('Somatropin recombinant', 'Denileukin diftitox').
+drug_interaction('Menotropins', 'Anistreplase').
+drug_interaction('Serum albumin', 'Peginterferon alfa-2a').
+drug_interaction('Rasburicase', 'Alglucerase').
+drug_interaction('Rasburicase', 'Collagenase clostridium histolyticum').
+drug_interaction('Pegvisomant', 'Filgrastim').
+drug_interaction('Pegademase bovine', 'Dornase alfa').
+drug_interaction('Interferon beta-1b', 'Infliximab').
+drug_interaction('Felypressin', 'Aldesleukin').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Pegvisomant', 'Palifermin').
+drug_interaction('Thyrotropin Alfa', 'Pegademase bovine').
+drug_interaction('Collagenase clostridium histolyticum', 'Alglucerase').
+drug_interaction('Pegfilgrastim', 'Octreotide').
+drug_interaction('Reteplase', 'Insulin Lispro').
+drug_interaction('Streptokinase', 'Imiglucerase').
+drug_interaction('Pegademase bovine', 'Adalimumab').
+drug_interaction('Urofollitropin', 'Abarelix').
+drug_interaction('Leuprolide', 'Cetrorelix').
+drug_interaction('Pegademase bovine', 'Aldesleukin').
+drug_interaction('Pegaspargase', 'Interferon gamma-1b').
+drug_interaction('Palifermin', 'Gemtuzumab ozogamicin').
+drug_interaction('Thyrotropin Alfa', 'Octreotide').
+drug_interaction('Immune Globulin Human', 'Anistreplase').
+drug_interaction('Interferon alfa-n1', 'Asparaginase').
+drug_interaction('Interferon beta-1b', 'Etanercept').
+drug_interaction('Hyaluronidase', 'Filgrastim').
+drug_interaction('Palifermin', 'Follitropin beta').
+drug_interaction('Insulin Human', 'Gramicidin D').
+drug_interaction('OspA lipoprotein', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Pegademase bovine', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Rituximab', 'Hyaluronidase').
+drug_interaction('Immune Globulin Human', 'Darbepoetin alfa').
+drug_interaction('Hyaluronidase', 'Aldesleukin').
+drug_interaction('Etanercept', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Gemtuzumab ozogamicin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Immune Globulin Human', 'Human Serum Albumin').
+drug_interaction('Pegaspargase', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Oprelvekin', 'Interferon gamma-1b').
+drug_interaction('Interferon beta-1b', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Oprelvekin', 'Aldesleukin').
+drug_interaction('Reteplase', 'Collagenase clostridium histolyticum').
+drug_interaction('Laronidase', 'Gramicidin D').
+drug_interaction('Eptifibatide', 'Agalsidase beta').
+drug_interaction('Interferon alfa-n1', 'Alefacept').
+drug_interaction('Rituximab', 'Dornase alfa').
+drug_interaction('Serum albumin', 'Eptifibatide').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2b', 'Peginterferon alfa-2a').
+drug_interaction('Follitropin beta', 'Bivalirudin').
+drug_interaction('Interferon beta-1a', 'Botulinum Toxin Type B').
+drug_interaction('Infliximab', 'Bivalirudin').
+drug_interaction('Somatropin recombinant', 'Felypressin').
+drug_interaction('Interferon gamma-1b', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Interferon alfa-n1', 'Becaplermin').
+drug_interaction('Rituximab', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Interferon beta-1b', 'Goserelin').
+drug_interaction('Pegfilgrastim', 'Aldesleukin').
+drug_interaction('Menotropins', 'Alefacept').
+drug_interaction('Octreotide', 'Basiliximab').
+drug_interaction('Rasburicase', 'Etanercept').
+drug_interaction('Peginterferon alfa-2b', 'Anistreplase').
+drug_interaction('Pancrelipase', 'Cetuximab').
+drug_interaction('Interferon alfa-n1', 'Adalimumab').
+drug_interaction('Efalizumab', 'Alteplase').
+drug_interaction('Hyaluronidase', 'Human Serum Albumin').
+drug_interaction('Sermorelin', 'Peginterferon alfa-2a').
+drug_interaction('Palifermin', 'Anakinra').
+drug_interaction('Streptokinase', 'Collagenase clostridium histolyticum').
+drug_interaction('Peginterferon alfa-2b', 'Asparaginase').
+drug_interaction('Urofollitropin', 'Cetuximab').
+drug_interaction('Pegademase bovine', 'Interferon beta-1a').
+drug_interaction('Imiglucerase', 'Eptifibatide').
+drug_interaction('Imiglucerase', 'Basiliximab').
+drug_interaction('Lutropin alfa', 'Etanercept').
+drug_interaction('Infliximab', 'Anistreplase').
+drug_interaction('Vasopressin', 'Bivalirudin').
+drug_interaction('Interferon alfa-n3', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Serum albumin iodonated', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Urokinase', 'Sermorelin').
+drug_interaction('Ibritumomab tiuxetan', 'Drotrecogin alfa').
+drug_interaction('Sargramostim', 'Filgrastim').
+drug_interaction('Serum albumin', 'Insulin Lispro').
+drug_interaction('OspA lipoprotein', 'Abciximab').
+drug_interaction('Alemtuzumab', 'Alefacept').
+drug_interaction('Serum albumin iodonated', 'Interferon alfacon-1').
+drug_interaction('Alefacept', 'Agalsidase beta').
+drug_interaction('Imiglucerase', 'Alteplase').
+drug_interaction('Vasopressin', 'Glucagon recombinant').
+drug_interaction('Pancrelipase', 'Interferon alfacon-1').
+drug_interaction('Peginterferon alfa-2a', 'Interferon alfa-n3').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Alemtuzumab').
+drug_interaction('Pegfilgrastim', 'Ibritumomab tiuxetan').
+drug_interaction('Sermorelin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Interferon gamma-1b', 'Alemtuzumab').
+drug_interaction('Tenecteplase', 'Asparaginase').
+drug_interaction('Oprelvekin', 'Alteplase').
+drug_interaction('Palifermin', 'Goserelin').
+drug_interaction('Satumomab Pendetide', 'Lepirudin').
+drug_interaction('Desmopressin', 'Botulinum Toxin Type B').
+drug_interaction('Etanercept', 'Aldesleukin').
+drug_interaction('Somatropin recombinant', 'Lepirudin').
+drug_interaction('Sargramostim', 'Asparaginase').
+drug_interaction('Hyaluronidase', 'Cetuximab').
+drug_interaction('Muromonab', 'Alglucerase').
+drug_interaction('Muromonab', 'Filgrastim').
+drug_interaction('Rasburicase', 'Eptifibatide').
+drug_interaction('Tenecteplase', 'Infliximab').
+drug_interaction('Pegfilgrastim', 'Anakinra').
+drug_interaction('Peginterferon alfa-2b', 'Pancrelipase').
+drug_interaction('Interferon gamma-1b', 'Felypressin').
+drug_interaction('Eptifibatide', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Rasburicase', 'Dornase alfa').
+drug_interaction('Lutropin alfa', 'Interferon beta-1a').
+drug_interaction('Urokinase', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Serum albumin iodonated', 'Pegaspargase').
+drug_interaction('Pegaspargase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Rituximab', 'Rasburicase').
+drug_interaction('Tositumomab', 'Dornase alfa').
+drug_interaction('Etanercept', 'Cetuximab').
+drug_interaction('Secretin', 'Denileukin diftitox').
+drug_interaction('Insulin Glargine', 'Immune Globulin Human').
+drug_interaction('Lepirudin', 'Glucagon recombinant').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Cetuximab').
+drug_interaction('Oprelvekin', 'Etanercept').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Secretin', 'Etanercept').
+drug_interaction('Asparaginase', 'Alglucerase').
+drug_interaction('Pegvisomant', 'Ibritumomab tiuxetan').
+drug_interaction('Filgrastim', 'Botulinum Toxin Type B').
+drug_interaction('Felypressin', 'Abarelix').
+drug_interaction('Lutropin alfa', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Rituximab', 'Glucagon recombinant').
+drug_interaction('Urokinase', 'Somatropin recombinant').
+drug_interaction('Sermorelin', 'Pegaspargase').
+drug_interaction('Somatropin recombinant', 'Octreotide').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Alefacept').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Thyrotropin Alfa', 'Drotrecogin alfa').
+drug_interaction('Desmopressin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Pegaspargase', 'Daptomycin').
+drug_interaction('Laronidase', 'Anistreplase').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Collagenase clostridium histolyticum').
+drug_interaction('Glucagon recombinant', 'Alteplase').
+drug_interaction('Urofollitropin', 'Pancrelipase').
+drug_interaction('Rasburicase', 'Lutropin alfa').
+drug_interaction('Tositumomab', 'Somatropin recombinant').
+drug_interaction('Interferon alfacon-1', 'Alglucerase').
+drug_interaction('Insulin Glargine', 'Drotrecogin alfa').
+drug_interaction('Sermorelin', 'Human Serum Albumin').
+drug_interaction('Pancrelipase', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Palifermin', 'Interferon beta-1a').
+drug_interaction('Serum albumin iodonated', 'Palifermin').
+drug_interaction('Thyrotropin Alfa', 'Omalizumab').
+drug_interaction('Tenecteplase', 'Streptokinase').
+drug_interaction('Pegaspargase', 'Alefacept').
+drug_interaction('Insulin Glargine', 'Desmopressin').
+drug_interaction('Tenecteplase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Pegvisomant', 'Daptomycin').
+drug_interaction('Drotrecogin alfa', 'Alefacept').
+drug_interaction('Interferon beta-1a', 'Botulinum Toxin Type A').
+drug_interaction('Interferon alfa-n3', 'Gemtuzumab ozogamicin').
+drug_interaction('Salmon Calcitonin', 'Glucagon recombinant').
+drug_interaction('Interferon beta-1b', 'Gemtuzumab ozogamicin').
+drug_interaction('Interferon alfa-n1', 'Goserelin').
+drug_interaction('Urokinase', 'Cetrorelix').
+drug_interaction('Pegvisomant', 'Human Serum Albumin').
+drug_interaction('Tenecteplase', 'Adalimumab').
+drug_interaction('Follitropin beta', 'Aldesleukin').
+drug_interaction('Interferon gamma-1b', 'Filgrastim').
+drug_interaction('Rasburicase', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Pegvisomant', 'Insulin Pork').
+drug_interaction('Satumomab Pendetide', 'Hyaluronidase').
+drug_interaction('Interferon alfacon-1', 'Alemtuzumab').
+drug_interaction('Reteplase', 'Laronidase').
+drug_interaction('Somatropin recombinant', 'Botulinum Toxin Type B').
+drug_interaction('Vasopressin', 'Muromonab').
+drug_interaction('Erythropoietin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Rituximab', 'Immune Globulin Human').
+drug_interaction('Hyaluronidase', 'Anistreplase').
+drug_interaction('Dornase alfa', 'Alefacept').
+drug_interaction('Insulin Pork', 'Eptifibatide').
+drug_interaction('Menotropins', 'Agalsidase beta').
+drug_interaction('Goserelin', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Tositumomab', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Infliximab', 'Glucagon recombinant').
+drug_interaction('Dornase alfa', 'Bivalirudin').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Alemtuzumab').
+drug_interaction('Thyrotropin Alfa', 'Anakinra').
+drug_interaction('Tositumomab', 'Cetuximab').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Denileukin diftitox').
+drug_interaction('Basiliximab', 'Abarelix').
+drug_interaction('Denileukin diftitox', 'Abarelix').
+drug_interaction('Interferon alfa-n3', 'Filgrastim').
+drug_interaction('Vasopressin', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Secretin', 'Interferon beta-1b').
+drug_interaction('Basiliximab', 'Asparaginase').
+drug_interaction('Serum albumin iodonated', 'Laronidase').
+drug_interaction('Vasopressin', 'Cyclosporine').
+drug_interaction('Tositumomab', 'Glucagon recombinant').
+drug_interaction('Pegademase bovine', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Imiglucerase', 'Adalimumab').
+drug_interaction('Trastuzumab', 'Anistreplase').
+drug_interaction('Menotropins', 'Felypressin').
+drug_interaction('Oprelvekin', 'Botulinum Toxin Type A').
+drug_interaction('Omalizumab', 'Gramicidin D').
+drug_interaction('Felypressin', 'Botulinum Toxin Type A').
+drug_interaction('Thyrotropin Alfa', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Aldesleukin').
+drug_interaction('Peginterferon alfa-2b', 'Immune Globulin Human').
+drug_interaction('Serum albumin', 'Follitropin beta').
+drug_interaction('Urofollitropin', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Muromonab', 'Capromab').
+drug_interaction('Goserelin', 'Cyclosporine').
+drug_interaction('Muromonab', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Lutropin alfa', 'Insulin Pork').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Aldesleukin').
+drug_interaction('Serum albumin', 'Infliximab').
+drug_interaction('Muromonab', 'Insulin Pork').
+drug_interaction('Ibritumomab tiuxetan', 'Felypressin').
+drug_interaction('Laronidase', 'Felypressin').
+drug_interaction('Lutropin alfa', 'Hyaluronidase').
+drug_interaction('Peginterferon alfa-2a', 'Bivalirudin').
+drug_interaction('Erythropoietin', 'Dornase alfa').
+drug_interaction('Interferon beta-1a', 'Follitropin beta').
+drug_interaction('Serum albumin iodonated', 'Peginterferon alfa-2b').
+drug_interaction('Rasburicase', 'Interferon alfa-n3').
+drug_interaction('Infliximab', 'Alemtuzumab').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Alteplase').
+drug_interaction('Efalizumab', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Rituximab', 'Goserelin').
+drug_interaction('Erythropoietin', 'Alteplase').
+drug_interaction('Omalizumab', 'Bivalirudin').
+drug_interaction('Serum albumin', 'Botulinum Toxin Type B').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Satumomab Pendetide', 'Dornase alfa').
+drug_interaction('Pancrelipase', 'Becaplermin').
+drug_interaction('Insulin Lispro', 'Capromab').
+drug_interaction('Pegvisomant', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Leuprolide', 'Infliximab').
+drug_interaction('Sermorelin', 'Follitropin beta').
+drug_interaction('Omalizumab', 'Hyaluronidase').
+drug_interaction('Interferon alfacon-1', 'Ibritumomab tiuxetan').
+drug_interaction('Botulinum Toxin Type B', 'Alglucerase').
+drug_interaction('Interferon gamma-1b', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2a', 'Abarelix').
+drug_interaction('OspA lipoprotein', 'Anakinra').
+drug_interaction('Menotropins', 'Asparaginase').
+drug_interaction('Denileukin diftitox', 'Abciximab').
+drug_interaction('Filgrastim', 'Cetuximab').
+drug_interaction('Human Serum Albumin', 'Becaplermin').
+drug_interaction('Leuprolide', 'Hyaluronidase').
+drug_interaction('Omalizumab', 'Alglucerase').
+drug_interaction('Etanercept', 'Botulinum Toxin Type B').
+drug_interaction('Interferon gamma-1b', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Sargramostim', 'Becaplermin').
+drug_interaction('Peginterferon alfa-2b', 'Etanercept').
+drug_interaction('Cyclosporine', 'Asparaginase').
+drug_interaction('Vasopressin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Menotropins', 'Follitropin beta').
+drug_interaction('Salmon Calcitonin', 'Pegademase bovine').
+drug_interaction('Infliximab', 'Cyclosporine').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Insulin Human').
+drug_interaction('Rasburicase', 'Drotrecogin alfa').
+drug_interaction('Insulin Glargine', 'Becaplermin').
+drug_interaction('Collagenase clostridium histolyticum', 'Aldesleukin').
+drug_interaction('Serum albumin iodonated', 'Leuprolide').
+drug_interaction('Insulin Human', 'Botulinum Toxin Type A').
+drug_interaction('Pancrelipase', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Omalizumab', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Trastuzumab', 'Insulin Lispro').
+drug_interaction('Muromonab', 'Insulin Lispro').
+drug_interaction('Laronidase', 'Human Serum Albumin').
+drug_interaction('Menotropins', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Tenecteplase', 'Goserelin').
+drug_interaction('Rituximab', 'Aldesleukin').
+drug_interaction('Botulinum Toxin Type B', 'Becaplermin').
+drug_interaction('Lepirudin', 'Interferon beta-1b').
+drug_interaction('Tenecteplase', 'Laronidase').
+drug_interaction('Insulin Glargine', 'Dornase alfa').
+drug_interaction('Interferon gamma-1b', 'Adalimumab').
+drug_interaction('Rituximab', 'Insulin Glargine').
+drug_interaction('Omalizumab', 'Alemtuzumab').
+drug_interaction('Secretin', 'Interferon beta-1a').
+drug_interaction('Interferon beta-1a', 'Insulin Glargine').
+drug_interaction('Insulin Human', 'Ibritumomab tiuxetan').
+drug_interaction('Thyrotropin Alfa', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Pegaspargase', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Interferon alfacon-1', 'Gramicidin D').
+drug_interaction('Salmon Calcitonin', 'Rasburicase').
+drug_interaction('Peginterferon alfa-2b', 'OspA lipoprotein').
+drug_interaction('Darbepoetin alfa', 'Abarelix').
+drug_interaction('Vasopressin', 'Leuprolide').
+drug_interaction('Peginterferon alfa-2a', 'Anakinra').
+drug_interaction('Insulin Glargine', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Lepirudin', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Interferon gamma-1b', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Insulin Human', 'Follitropin beta').
+drug_interaction('Interferon alfacon-1', 'Cetrorelix').
+drug_interaction('Rituximab', 'Darbepoetin alfa').
+drug_interaction('Muromonab', 'Follitropin beta').
+drug_interaction('Secretin', 'Muromonab').
+drug_interaction('Etanercept', 'Daptomycin').
+drug_interaction('Pancrelipase', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Pancrelipase', 'Alglucerase').
+drug_interaction('Vasopressin', 'Lutropin alfa').
+drug_interaction('Gemtuzumab ozogamicin', 'Erythropoietin').
+drug_interaction('Glucagon recombinant', 'Abarelix').
+drug_interaction('Secretin', 'Ibritumomab tiuxetan').
+drug_interaction('Interferon alfa-n1', 'Dornase alfa').
+drug_interaction('Dornase alfa', 'Darbepoetin alfa').
+drug_interaction('Pegfilgrastim', 'Insulin Pork').
+drug_interaction('Pegademase bovine', 'Human Serum Albumin').
+drug_interaction('Peginterferon alfa-2a', 'Interferon alfa-n1').
+drug_interaction('Interferon beta-1a', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Ibritumomab tiuxetan', 'Denileukin diftitox').
+drug_interaction('Reteplase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Laronidase', 'Insulin Human').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Dornase alfa').
+drug_interaction('Satumomab Pendetide', 'Interferon alfa-n3').
+drug_interaction('Botulinum Toxin Type A', 'Agalsidase beta').
+drug_interaction('Streptokinase', 'Pancrelipase').
+drug_interaction('Streptokinase', 'Filgrastim').
+drug_interaction('Menotropins', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Asparaginase', 'Alteplase').
+drug_interaction('Human Serum Albumin', 'Alefacept').
+drug_interaction('Tenecteplase', 'Immune Globulin Human').
+drug_interaction('Sargramostim', 'Pegvisomant').
+drug_interaction('Laronidase', 'Abciximab').
+drug_interaction('Imiglucerase', 'Gemtuzumab ozogamicin').
+drug_interaction('Sermorelin', 'OspA lipoprotein').
+drug_interaction('OspA lipoprotein', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Sargramostim', 'Omalizumab').
+drug_interaction('Pegvisomant', 'Interferon alfa-n3').
+drug_interaction('Muromonab', 'Immune Globulin Human').
+drug_interaction('Glucagon recombinant', 'Etanercept').
+drug_interaction('Interferon alfa-n3', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Gramicidin D', 'Anistreplase').
+drug_interaction('OspA lipoprotein', 'Alteplase').
+drug_interaction('Salmon Calcitonin', 'Gramicidin D').
+drug_interaction('Oprelvekin', 'Cetuximab').
+drug_interaction('Urofollitropin', 'Alefacept').
+drug_interaction('Pegademase bovine', 'Infliximab').
+drug_interaction('Sermorelin', 'Cetuximab').
+drug_interaction('Salmon Calcitonin', 'Insulin Human').
+drug_interaction('OspA lipoprotein', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Lutropin alfa', 'Basiliximab').
+drug_interaction('Pegfilgrastim', 'Interferon beta-1a').
+drug_interaction('Streptokinase', 'Botulinum Toxin Type A').
+drug_interaction('Insulin Glargine', 'Capromab').
+drug_interaction('Lepirudin', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Tositumomab', 'Basiliximab').
+drug_interaction('Tenecteplase', 'Muromonab').
+drug_interaction('Streptokinase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Ibritumomab tiuxetan', 'Agalsidase beta').
+drug_interaction('Laronidase', 'Dornase alfa').
+drug_interaction('Palifermin', 'Glucagon recombinant').
+drug_interaction('Thyrotropin Alfa', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Serum albumin iodonated', 'Alteplase').
+drug_interaction('Thyrotropin Alfa', 'Aldesleukin').
+drug_interaction('Etanercept', 'Agalsidase beta').
+drug_interaction('Pegfilgrastim', 'Eptifibatide').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Cetrorelix').
+drug_interaction('Vasopressin', 'Tositumomab').
+drug_interaction('Interferon alfa-n3', 'Alefacept').
+drug_interaction('Peginterferon alfa-2b', 'Daptomycin').
+drug_interaction('Insulin Pork', 'Botulinum Toxin Type B').
+drug_interaction('Pegvisomant', 'Agalsidase beta').
+drug_interaction('Secretin', 'Human Serum Albumin').
+drug_interaction('Pegaspargase', 'Agalsidase beta').
+drug_interaction('Lutropin alfa', 'Alglucerase').
+drug_interaction('Interferon alfacon-1', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Serum albumin iodonated', 'Reteplase').
+drug_interaction('Daptomycin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Thyrotropin Alfa', 'Glucagon recombinant').
+drug_interaction('Muromonab', 'Erythropoietin').
+drug_interaction('Follitropin beta', 'Efalizumab').
+drug_interaction('Vasopressin', 'Sargramostim').
+drug_interaction('Gemtuzumab ozogamicin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Felypressin', 'Drotrecogin alfa').
+drug_interaction('Pancrelipase', 'Darbepoetin alfa').
+drug_interaction('Thyrotropin Alfa', 'Infliximab').
+drug_interaction('Somatropin recombinant', 'Infliximab').
+drug_interaction('Pancrelipase', 'Cetrorelix').
+drug_interaction('Peginterferon alfa-2b', 'Anakinra').
+drug_interaction('Secretin', 'Abciximab').
+drug_interaction('Tositumomab', 'Peginterferon alfa-2b').
+drug_interaction('Palifermin', 'Becaplermin').
+drug_interaction('Basiliximab', 'Adalimumab').
+drug_interaction('Laronidase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Darbepoetin alfa', 'Cetuximab').
+drug_interaction('Lepirudin', 'Abarelix').
+drug_interaction('Omalizumab', 'Cetrorelix').
+drug_interaction('Lepirudin', 'Agalsidase beta').
+drug_interaction('Pegfilgrastim', 'Gramicidin D').
+drug_interaction('Streptokinase', 'Insulin Glargine').
+drug_interaction('Interferon alfa-n3', 'Capromab').
+drug_interaction('Interferon beta-1a', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Palifermin', 'Insulin Lispro').
+drug_interaction('Satumomab Pendetide', 'Drotrecogin alfa').
+drug_interaction('Octreotide', 'Infliximab').
+drug_interaction('Sargramostim', 'Lepirudin').
+drug_interaction('Satumomab Pendetide', 'Insulin Lispro').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Adalimumab').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Abciximab').
+drug_interaction('Vasopressin', 'Insulin Pork').
+drug_interaction('Urofollitropin', 'Pegfilgrastim').
+drug_interaction('Secretin', 'Dornase alfa').
+drug_interaction('OspA lipoprotein', 'Adalimumab').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Anistreplase').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Becaplermin').
+drug_interaction('Pegvisomant', 'Alemtuzumab').
+drug_interaction('Felypressin', 'Desmopressin').
+drug_interaction('Serum albumin iodonated', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Vasopressin', 'Cetrorelix').
+drug_interaction('Insulin Pork', 'Imiglucerase').
+drug_interaction('Lepirudin', 'Immune Globulin Human').
+drug_interaction('Reteplase', 'Pancrelipase').
+drug_interaction('Pegaspargase', 'Alteplase').
+drug_interaction('Interferon beta-1b', 'Eptifibatide').
+drug_interaction('Pegademase bovine', 'Ibritumomab tiuxetan').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Alemtuzumab').
+drug_interaction('Pegaspargase', 'Omalizumab').
+drug_interaction('Lutropin alfa', 'Alemtuzumab').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Desmopressin').
+drug_interaction('Thyrotropin Alfa', 'Human Serum Albumin').
+drug_interaction('Urofollitropin', 'Aldesleukin').
+drug_interaction('Drotrecogin alfa', 'Collagenase clostridium histolyticum').
+drug_interaction('Salmon Calcitonin', 'Cetrorelix').
+drug_interaction('Sargramostim', 'Capromab').
+drug_interaction('OspA lipoprotein', 'Glucagon recombinant').
+drug_interaction('Palifermin', 'Asparaginase').
+drug_interaction('Interferon alfa-n1', 'Ibritumomab tiuxetan').
+drug_interaction('Urokinase', 'Asparaginase').
+drug_interaction('Vasopressin', 'Lepirudin').
+drug_interaction('Insulin Human', 'Abarelix').
+drug_interaction('Tositumomab', 'Desmopressin').
+drug_interaction('Muromonab', 'Infliximab').
+drug_interaction('Imiglucerase', 'Abarelix').
+drug_interaction('Darbepoetin alfa', 'Collagenase clostridium histolyticum').
+drug_interaction('Interferon alfa-n1', 'Drotrecogin alfa').
+drug_interaction('Pegaspargase', 'Basiliximab').
+drug_interaction('Omalizumab', 'Insulin Pork').
+drug_interaction('Rituximab', 'Lepirudin').
+drug_interaction('Insulin Glargine', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Collagenase clostridium histolyticum', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Palifermin', 'Imiglucerase').
+drug_interaction('Rasburicase', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Peginterferon alfa-2a', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Reteplase', 'Alglucerase').
+drug_interaction('Erythropoietin', 'Aldesleukin').
+drug_interaction('Thyrotropin Alfa', 'Adalimumab').
+drug_interaction('Filgrastim', 'Desmopressin').
+drug_interaction('Streptokinase', 'Pegfilgrastim').
+drug_interaction('Interferon beta-1b', 'Glucagon recombinant').
+drug_interaction('Peginterferon alfa-2b', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Gemtuzumab ozogamicin', 'Alglucerase').
+drug_interaction('Sermorelin', 'Interferon alfa-n1').
+drug_interaction('Ibritumomab tiuxetan', 'Efalizumab').
+drug_interaction('Anistreplase', 'Alteplase').
+drug_interaction('Peginterferon alfa-2a', 'Adalimumab').
+drug_interaction('Menotropins', 'Cyclosporine').
+drug_interaction('Urofollitropin', 'Human Serum Albumin').
+drug_interaction('Trastuzumab', 'Drotrecogin alfa').
+drug_interaction('Goserelin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Somatropin recombinant', 'Goserelin').
+drug_interaction('Serum albumin iodonated', 'Efalizumab').
+drug_interaction('Lepirudin', 'Darbepoetin alfa').
+drug_interaction('Peginterferon alfa-2b', 'Ibritumomab tiuxetan').
+drug_interaction('Insulin Human', 'Cetuximab').
+drug_interaction('Urokinase', 'Insulin Glargine').
+drug_interaction('Interferon alfacon-1', 'Felypressin').
+drug_interaction('Interferon alfacon-1', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Salmon Calcitonin', 'Darbepoetin alfa').
+drug_interaction('Efalizumab', 'Collagenase clostridium histolyticum').
+drug_interaction('Insulin Glargine', 'Aldesleukin').
+drug_interaction('Basiliximab', 'Alteplase').
+drug_interaction('Serum albumin iodonated', 'Daptomycin').
+drug_interaction('Lepirudin', 'Hyaluronidase').
+drug_interaction('OspA lipoprotein', 'Basiliximab').
+drug_interaction('Interferon gamma-1b', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Thyrotropin Alfa', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Alemtuzumab').
+drug_interaction('Insulin Glargine', 'Anistreplase').
+drug_interaction('Interferon alfa-n3', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Urokinase', 'Interferon alfa-n3').
+drug_interaction('Immune Globulin Human', 'Basiliximab').
+drug_interaction('Peginterferon alfa-2a', 'Denileukin diftitox').
+drug_interaction('Reteplase', 'Rasburicase').
+drug_interaction('Omalizumab', 'Imiglucerase').
+drug_interaction('Efalizumab', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Satumomab Pendetide', 'Sargramostim').
+drug_interaction('Cetrorelix', 'Agalsidase beta').
+drug_interaction('Salmon Calcitonin', 'Reteplase').
+drug_interaction('Peginterferon alfa-2a', 'Pancrelipase').
+drug_interaction('Desmopressin', 'Cetuximab').
+drug_interaction('Human Serum Albumin', 'Collagenase clostridium histolyticum').
+drug_interaction('Gemtuzumab ozogamicin', 'Abciximab').
+drug_interaction('Interferon gamma-1b', 'Ibritumomab tiuxetan').
+drug_interaction('Cyclosporine', 'Cetuximab').
+drug_interaction('Pegfilgrastim', 'Alemtuzumab').
+drug_interaction('Bivalirudin', 'Alglucerase').
+drug_interaction('Interferon alfacon-1', 'Efalizumab').
+drug_interaction('Reteplase', 'Muromonab').
+drug_interaction('Sermorelin', 'Insulin Lispro').
+drug_interaction('Hyaluronidase', 'Erythropoietin').
+drug_interaction('Pegaspargase', 'Interferon beta-1a').
+drug_interaction('Collagenase clostridium histolyticum', 'Bivalirudin').
+drug_interaction('Sermorelin', 'Reteplase').
+drug_interaction('Menotropins', 'Alteplase').
+drug_interaction('Pegaspargase', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Tenecteplase', 'Collagenase clostridium histolyticum').
+drug_interaction('Tositumomab', 'Lutropin alfa').
+drug_interaction('Immune Globulin Human', 'Abarelix').
+drug_interaction('OspA lipoprotein', 'Menotropins').
+drug_interaction('Glucagon recombinant', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Octreotide', 'Desmopressin').
+drug_interaction('Peginterferon alfa-2a', 'Insulin Human').
+drug_interaction('Muromonab', 'Lepirudin').
+drug_interaction('Interferon beta-1a', 'Cetrorelix').
+drug_interaction('Palifermin', 'Hyaluronidase').
+drug_interaction('Interferon beta-1a', 'Desmopressin').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Anistreplase').
+drug_interaction('Vasopressin', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Filgrastim', 'Cetrorelix').
+drug_interaction('Thyrotropin Alfa', 'Daptomycin').
+drug_interaction('OspA lipoprotein', 'Desmopressin').
+drug_interaction('Rituximab', 'Erythropoietin').
+drug_interaction('Pancrelipase', 'Botulinum Toxin Type B').
+drug_interaction('Vasopressin', 'Capromab').
+drug_interaction('Interferon beta-1b', 'Darbepoetin alfa').
+drug_interaction('Efalizumab', 'Agalsidase beta').
+drug_interaction('Insulin Pork', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Vasopressin', 'Insulin Human').
+drug_interaction('Efalizumab', 'Adalimumab').
+drug_interaction('Thyrotropin Alfa', 'Botulinum Toxin Type B').
+drug_interaction('Urokinase', 'Erythropoietin').
+drug_interaction('Satumomab Pendetide', 'Interferon beta-1b').
+drug_interaction('Reteplase', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('OspA lipoprotein', 'Oprelvekin').
+drug_interaction('Filgrastim', 'Alglucerase').
+drug_interaction('Ibritumomab tiuxetan', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Oprelvekin', 'Laronidase').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Efalizumab').
+drug_interaction('Tositumomab', 'Muromonab').
+drug_interaction('Daptomycin', 'Collagenase clostridium histolyticum').
+drug_interaction('Thyrotropin Alfa', 'Sermorelin').
+drug_interaction('Pegfilgrastim', 'Cetuximab').
+drug_interaction('Secretin', 'Follitropin beta').
+drug_interaction('Pegfilgrastim', 'Interferon alfacon-1').
+drug_interaction('Gemtuzumab ozogamicin', 'Abarelix').
+drug_interaction('Pegademase bovine', 'Daptomycin').
+drug_interaction('Octreotide', 'Laronidase').
+drug_interaction('Interferon gamma-1b', 'Glucagon recombinant').
+drug_interaction('Octreotide', 'Abciximab').
+drug_interaction('Pegaspargase', 'Felypressin').
+drug_interaction('Rituximab', 'Ibritumomab tiuxetan').
+drug_interaction('Etanercept', 'Alteplase').
+drug_interaction('Serum albumin', 'Collagenase clostridium histolyticum').
+drug_interaction('Insulin Lispro', 'Adalimumab').
+drug_interaction('Efalizumab', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Palifermin', 'Interferon alfa-n3').
+drug_interaction('Bivalirudin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Rasburicase', 'Interferon beta-1b').
+drug_interaction('Pegademase bovine', 'Botulinum Toxin Type B').
+drug_interaction('Human Serum Albumin', 'Gramicidin D').
+drug_interaction('Urofollitropin', 'Interferon alfa-n3').
+drug_interaction('Desmopressin', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Eptifibatide', 'Cetuximab').
+drug_interaction('Sermorelin', 'Ibritumomab tiuxetan').
+drug_interaction('Interferon alfa-n3', 'Desmopressin').
+drug_interaction('Tositumomab', 'Pegfilgrastim').
+drug_interaction('Pegademase bovine', 'Lepirudin').
+drug_interaction('Tenecteplase', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Urofollitropin', 'Agalsidase beta').
+drug_interaction('Sermorelin', 'Asparaginase').
+drug_interaction('Peginterferon alfa-2a', 'Omalizumab').
+drug_interaction('Peginterferon alfa-2b', 'Omalizumab').
+drug_interaction('Streptokinase', 'Cetrorelix').
+drug_interaction('Insulin Human', 'Abciximab').
+drug_interaction('Insulin Pork', 'Adalimumab').
+drug_interaction('Agalsidase beta', 'Adalimumab').
+drug_interaction('Serum albumin', 'Immune Globulin Human').
+drug_interaction('Octreotide', 'Botulinum Toxin Type A').
+drug_interaction('Lutropin alfa', 'Abciximab').
+drug_interaction('Gemtuzumab ozogamicin', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Muromonab', 'Abarelix').
+drug_interaction('Rasburicase', 'Bivalirudin').
+drug_interaction('Lepirudin', 'Alemtuzumab').
+drug_interaction('Leuprolide', 'Laronidase').
+drug_interaction('Pancrelipase', 'Follitropin beta').
+drug_interaction('Follitropin beta', 'Cetuximab').
+drug_interaction('Reteplase', 'Insulin Pork').
+drug_interaction('Interferon beta-1b', 'Denileukin diftitox').
+drug_interaction('Urokinase', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Lepirudin', 'Interferon alfacon-1').
+drug_interaction('Peginterferon alfa-2a', 'Interferon gamma-1b').
+drug_interaction('Pegfilgrastim', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Rasburicase', 'Interferon alfacon-1').
+drug_interaction('Rituximab', 'Filgrastim').
+drug_interaction('Botulinum Toxin Type B', 'Alemtuzumab').
+drug_interaction('Infliximab', 'Human Serum Albumin').
+drug_interaction('Interferon beta-1b', 'Interferon alfacon-1').
+drug_interaction('Leuprolide', 'Capromab').
+drug_interaction('Somatropin recombinant', 'Interferon beta-1a').
+drug_interaction('Pancrelipase', 'Anakinra').
+drug_interaction('Interferon gamma-1b', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Serum albumin', 'Becaplermin').
+drug_interaction('Rasburicase', 'Immune Globulin Human').
+drug_interaction('Serum albumin', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Felypressin', 'Efalizumab').
+drug_interaction('Goserelin', 'Darbepoetin alfa').
+drug_interaction('Omalizumab', 'Insulin Glargine').
+drug_interaction('OspA lipoprotein', 'Botulinum Toxin Type B').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Omalizumab', 'Adalimumab').
+drug_interaction('Eptifibatide', 'Abarelix').
+drug_interaction('Palifermin', 'Insulin Human').
+drug_interaction('Peginterferon alfa-2a', 'Human Serum Albumin').
+drug_interaction('Gramicidin D', 'Anakinra').
+drug_interaction('Somatropin recombinant', 'Becaplermin').
+drug_interaction('Somatropin recombinant', 'Capromab').
+drug_interaction('Serum albumin', 'OspA lipoprotein').
+drug_interaction('Somatropin recombinant', 'Menotropins').
+drug_interaction('Lutropin alfa', 'Insulin Human').
+drug_interaction('Lutropin alfa', 'Botulinum Toxin Type A').
+drug_interaction('Leuprolide', 'Imiglucerase').
+drug_interaction('Botulinum Toxin Type B', 'Aldesleukin').
+drug_interaction('Thyrotropin Alfa', 'Abarelix').
+drug_interaction('Cetuximab', 'Botulinum Toxin Type B').
+drug_interaction('Pegademase bovine', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Felypressin', 'Capromab').
+drug_interaction('Trastuzumab', 'Salmon Calcitonin').
+drug_interaction('Darbepoetin alfa', 'Alefacept').
+drug_interaction('Trastuzumab', 'Pegvisomant').
+drug_interaction('Oprelvekin', 'Insulin Lispro').
+drug_interaction('Botulinum Toxin Type A', 'Anistreplase').
+drug_interaction('Peginterferon alfa-2b', 'Efalizumab').
+drug_interaction('Infliximab', 'Gemtuzumab ozogamicin').
+drug_interaction('Pegvisomant', 'Peginterferon alfa-2b').
+drug_interaction('Felypressin', 'Darbepoetin alfa').
+drug_interaction('Vasopressin', 'Streptokinase').
+drug_interaction('Cetuximab', 'Botulinum Toxin Type A').
+drug_interaction('Goserelin', 'Botulinum Toxin Type A').
+drug_interaction('Muromonab', 'Cetrorelix').
+drug_interaction('Secretin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Hyaluronidase', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Streptokinase', 'Anakinra').
+drug_interaction('Somatropin recombinant', 'Gemtuzumab ozogamicin').
+drug_interaction('Rasburicase', 'OspA lipoprotein').
+drug_interaction('Ibritumomab tiuxetan', 'Basiliximab').
+drug_interaction('Vasopressin', 'Interferon gamma-1b').
+drug_interaction('Urofollitropin', 'Ibritumomab tiuxetan').
+drug_interaction('Menotropins', 'Anakinra').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Alteplase').
+drug_interaction('Gemtuzumab ozogamicin', 'Collagenase clostridium histolyticum').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Muromonab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Drotrecogin alfa', 'Darbepoetin alfa').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Gemtuzumab ozogamicin').
+drug_interaction('Infliximab', 'Erythropoietin').
+drug_interaction('Urokinase', 'Immune Globulin Human').
+drug_interaction('Peginterferon alfa-2b', 'Becaplermin').
+drug_interaction('Streptokinase', 'Palifermin').
+drug_interaction('Goserelin', 'Gemtuzumab ozogamicin').
+drug_interaction('Laronidase', 'Denileukin diftitox').
+drug_interaction('Glucagon recombinant', 'Anakinra').
+drug_interaction('Salmon Calcitonin', 'Menotropins').
+drug_interaction('Denileukin diftitox', 'Botulinum Toxin Type B').
+drug_interaction('Filgrastim', 'Asparaginase').
+drug_interaction('Imiglucerase', 'Gramicidin D').
+drug_interaction('Vasopressin', 'Serum albumin iodonated').
+drug_interaction('Pancrelipase', 'Capromab').
+drug_interaction('Octreotide', 'Lepirudin').
+drug_interaction('Somatropin recombinant', 'Filgrastim').
+drug_interaction('Lutropin alfa', 'Adalimumab').
+drug_interaction('Peginterferon alfa-2a', 'Pegaspargase').
+drug_interaction('Palifermin', 'Muromonab').
+drug_interaction('Urokinase', 'Gemtuzumab ozogamicin').
+drug_interaction('Pegvisomant', 'Bivalirudin').
+drug_interaction('Thyrotropin Alfa', 'Leuprolide').
+drug_interaction('Lepirudin', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Menotropins', 'Eptifibatide').
+drug_interaction('Sargramostim', 'Interferon alfa-n1').
+drug_interaction('Interferon alfacon-1', 'Infliximab').
+drug_interaction('Tenecteplase', 'Alteplase').
+drug_interaction('Satumomab Pendetide', 'Pegaspargase').
+drug_interaction('Palifermin', 'Daptomycin').
+drug_interaction('Palifermin', 'Alteplase').
+drug_interaction('Tenecteplase', 'Basiliximab').
+drug_interaction('Palifermin', 'Interferon alfa-n1').
+drug_interaction('Gramicidin D', 'Cetuximab').
+drug_interaction('Interferon alfa-n1', 'Eptifibatide').
+drug_interaction('Tenecteplase', 'Dornase alfa').
+drug_interaction('Ibritumomab tiuxetan', 'Dornase alfa').
+drug_interaction('Interferon alfa-n3', 'Dornase alfa').
+drug_interaction('Leuprolide', 'Dornase alfa').
+drug_interaction('Satumomab Pendetide', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2a', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Darbepoetin alfa', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Sargramostim', 'Erythropoietin').
+drug_interaction('Satumomab Pendetide', 'Laronidase').
+drug_interaction('Goserelin', 'Glucagon recombinant').
+drug_interaction('Peginterferon alfa-2b', 'Muromonab').
+drug_interaction('Cetuximab', 'Bivalirudin').
+drug_interaction('Rasburicase', 'Octreotide').
+drug_interaction('Reteplase', 'Anistreplase').
+drug_interaction('Omalizumab', 'Abciximab').
+drug_interaction('Interferon gamma-1b', 'Insulin Lispro').
+drug_interaction('Muromonab', 'Botulinum Toxin Type B').
+drug_interaction('Urokinase', 'Salmon Calcitonin').
+drug_interaction('Interferon beta-1b', 'Human Serum Albumin').
+drug_interaction('Secretin', 'Salmon Calcitonin').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Immune Globulin Human').
+drug_interaction('Pegaspargase', 'Octreotide').
+drug_interaction('Streptokinase', 'Goserelin').
+drug_interaction('Cyclosporine', 'Anakinra').
+drug_interaction('Somatropin recombinant', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Gemtuzumab ozogamicin', 'Daptomycin').
+drug_interaction('Palifermin', 'Desmopressin').
+drug_interaction('Streptokinase', 'Interferon beta-1b').
+drug_interaction('Dornase alfa', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Erythropoietin', 'Desmopressin').
+drug_interaction('Ibritumomab tiuxetan', 'Botulinum Toxin Type B').
+drug_interaction('Salmon Calcitonin', 'Insulin Lispro').
+drug_interaction('Peginterferon alfa-2b', 'Insulin Glargine').
+drug_interaction('Streptokinase', 'Serum albumin iodonated').
+drug_interaction('Trastuzumab', 'Secretin').
+drug_interaction('Thyrotropin Alfa', 'Cyclosporine').
+drug_interaction('Drotrecogin alfa', 'Adalimumab').
+drug_interaction('Trastuzumab', 'Dornase alfa').
+drug_interaction('Gemtuzumab ozogamicin', 'Darbepoetin alfa').
+drug_interaction('Satumomab Pendetide', 'Aldesleukin').
+drug_interaction('Vasopressin', 'Dornase alfa').
+drug_interaction('Dornase alfa', 'Abciximab').
+drug_interaction('Interferon alfa-n1', 'Agalsidase beta').
+drug_interaction('Menotropins', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Omalizumab', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Omalizumab', 'Anakinra').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Becaplermin').
+drug_interaction('Drotrecogin alfa', 'Alteplase').
+drug_interaction('Streptokinase', 'Dornase alfa').
+drug_interaction('Infliximab', 'Abciximab').
+drug_interaction('Muromonab', 'Gemtuzumab ozogamicin').
+drug_interaction('Palifermin', 'Insulin Pork').
+drug_interaction('Sermorelin', 'Cyclosporine').
+drug_interaction('Reteplase', 'Botulinum Toxin Type B').
+drug_interaction('Urokinase', 'Insulin Pork').
+drug_interaction('Somatropin recombinant', 'Erythropoietin').
+drug_interaction('OspA lipoprotein', 'Felypressin').
+drug_interaction('Erythropoietin', 'Eptifibatide').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Omalizumab', 'Insulin Lispro').
+drug_interaction('Pegademase bovine', 'Botulinum Toxin Type A').
+drug_interaction('Salmon Calcitonin', 'Laronidase').
+drug_interaction('OspA lipoprotein', 'Alemtuzumab').
+drug_interaction('Secretin', 'Lepirudin').
+drug_interaction('Serum albumin', 'Erythropoietin').
+drug_interaction('Tositumomab', 'Immune Globulin Human').
+drug_interaction('Urofollitropin', 'Bivalirudin').
+drug_interaction('Pegademase bovine', 'Gramicidin D').
+drug_interaction('Insulin Pork', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Immune Globulin Human', 'Alemtuzumab').
+drug_interaction('Serum albumin iodonated', 'Interferon beta-1a').
+drug_interaction('Insulin Glargine', 'Anakinra').
+drug_interaction('Urofollitropin', 'Streptokinase').
+drug_interaction('Pegfilgrastim', 'Darbepoetin alfa').
+drug_interaction('Pegademase bovine', 'Etanercept').
+drug_interaction('Tenecteplase', 'Anakinra').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Asparaginase').
+drug_interaction('Interferon gamma-1b', 'Imiglucerase').
+drug_interaction('Lutropin alfa', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Trastuzumab', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Alteplase').
+drug_interaction('Anistreplase', 'Agalsidase beta').
+drug_interaction('Efalizumab', 'Basiliximab').
+drug_interaction('Imiglucerase', 'Botulinum Toxin Type B').
+drug_interaction('Basiliximab', 'Alefacept').
+drug_interaction('Pancrelipase', 'Etanercept').
+drug_interaction('Reteplase', 'Pegfilgrastim').
+drug_interaction('Peginterferon alfa-2b', 'Imiglucerase').
+drug_interaction('Interferon alfacon-1', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Insulin Human', 'Drotrecogin alfa').
+drug_interaction('Cetrorelix', 'Alefacept').
+drug_interaction('Collagenase clostridium histolyticum', 'Abciximab').
+drug_interaction('Pegvisomant', 'Eptifibatide').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Tositumomab', 'Tenecteplase').
+drug_interaction('Pegfilgrastim', 'OspA lipoprotein').
+drug_interaction('Tenecteplase', 'Insulin Lispro').
+drug_interaction('Erythropoietin', 'Collagenase clostridium histolyticum').
+drug_interaction('Pegfilgrastim', 'Pancrelipase').
+drug_interaction('Serum albumin iodonated', 'Interferon beta-1b').
+drug_interaction('Tositumomab', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Cetuximab').
+drug_interaction('Tositumomab', 'Interferon gamma-1b').
+drug_interaction('Lutropin alfa', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Vasopressin', 'Adalimumab').
+drug_interaction('Pegvisomant', 'Lepirudin').
+drug_interaction('Menotropins', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Salmon Calcitonin', 'Alefacept').
+drug_interaction('Glucagon recombinant', 'Efalizumab').
+drug_interaction('Glucagon recombinant', 'Bivalirudin').
+drug_interaction('Palifermin', 'Agalsidase beta').
+drug_interaction('Pancrelipase', 'Basiliximab').
+drug_interaction('Peginterferon alfa-2b', 'Interferon gamma-1b').
+drug_interaction('Satumomab Pendetide', 'Palifermin').
+drug_interaction('Immune Globulin Human', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Satumomab Pendetide', 'Daptomycin').
+drug_interaction('Oprelvekin', 'Drotrecogin alfa').
+drug_interaction('Peginterferon alfa-2b', 'Denileukin diftitox').
+drug_interaction('Infliximab', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegaspargase', 'Dornase alfa').
+drug_interaction('Interferon alfacon-1', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Collagenase clostridium histolyticum', 'Botulinum Toxin Type A').
+drug_interaction('Cyclosporine', 'Abciximab').
+drug_interaction('Pancrelipase', 'Asparaginase').
+drug_interaction('Serum albumin iodonated', 'Abciximab').
+drug_interaction('Peginterferon alfa-2b', 'Interferon beta-1b').
+drug_interaction('Gemtuzumab ozogamicin', 'Becaplermin').
+drug_interaction('Peginterferon alfa-2a', 'Darbepoetin alfa').
+drug_interaction('Pancrelipase', 'Glucagon recombinant').
+drug_interaction('Serum albumin', 'Glucagon recombinant').
+drug_interaction('Pegaspargase', 'Anakinra').
+drug_interaction('Interferon alfa-n1', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Palifermin', 'Adalimumab').
+drug_interaction('Omalizumab', 'Lutropin alfa').
+drug_interaction('Octreotide', 'Etanercept').
+drug_interaction('Drotrecogin alfa', 'Anakinra').
+drug_interaction('Interferon gamma-1b', 'Dornase alfa').
+drug_interaction('Urokinase', 'Reteplase').
+drug_interaction('Tenecteplase', 'Insulin Glargine').
+drug_interaction('Palifermin', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2a', 'Alefacept').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Alefacept').
+drug_interaction('Anakinra', 'Alefacept').
+drug_interaction('Serum albumin iodonated', 'Sargramostim').
+drug_interaction('Pegfilgrastim', 'Interferon alfa-n1').
+drug_interaction('Palifermin', 'Gramicidin D').
+drug_interaction('Interferon alfa-n3', 'Becaplermin').
+drug_interaction('Pegvisomant', 'Dornase alfa').
+drug_interaction('Peginterferon alfa-2a', 'Gemtuzumab ozogamicin').
+drug_interaction('Sermorelin', 'Glucagon recombinant').
+drug_interaction('Serum albumin iodonated', 'Peginterferon alfa-2a').
+drug_interaction('Peginterferon alfa-2b', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Basiliximab').
+drug_interaction('Pegaspargase', 'Lutropin alfa').
+drug_interaction('Interferon alfa-n1', 'Alteplase').
+drug_interaction('Urofollitropin', 'Pegvisomant').
+drug_interaction('Streptokinase', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Serum albumin', 'Gemtuzumab ozogamicin').
+drug_interaction('Reteplase', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Serum albumin', 'Felypressin').
+drug_interaction('Insulin Pork', 'Infliximab').
+drug_interaction('Streptokinase', 'Satumomab Pendetide').
+drug_interaction('Serum albumin iodonated', 'Eptifibatide').
+drug_interaction('Somatropin recombinant', 'Satumomab Pendetide').
+drug_interaction('Trastuzumab', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Satumomab Pendetide', 'Oprelvekin').
+drug_interaction('Insulin Lispro', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Tositumomab', 'Efalizumab').
+drug_interaction('Rasburicase', 'Pegfilgrastim').
+drug_interaction('Gemtuzumab ozogamicin', 'Eptifibatide').
+drug_interaction('Interferon alfa-n3', 'Asparaginase').
+drug_interaction('Serum albumin', 'Salmon Calcitonin').
+drug_interaction('Rasburicase', 'Oprelvekin').
+drug_interaction('Pegfilgrastim', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Serum albumin iodonated', 'Dornase alfa').
+drug_interaction('Thyrotropin Alfa', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Muromonab', 'Imiglucerase').
+drug_interaction('Asparaginase', 'Abciximab').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Reteplase', 'Filgrastim').
+drug_interaction('Insulin Lispro', 'Alglucerase').
+drug_interaction('Urokinase', 'Tositumomab').
+drug_interaction('Lutropin alfa', 'Imiglucerase').
+drug_interaction('Interferon alfa-n1', 'Filgrastim').
+drug_interaction('Secretin', 'Collagenase clostridium histolyticum').
+drug_interaction('Pegvisomant', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Rasburicase', 'Human Serum Albumin').
+drug_interaction('Reteplase', 'Alteplase').
+drug_interaction('Pegademase bovine', 'Insulin Lispro').
+drug_interaction('Pegaspargase', 'Interferon alfacon-1').
+drug_interaction('Muromonab', 'Cetuximab').
+drug_interaction('Octreotide', 'Adalimumab').
+drug_interaction('Streptokinase', 'Insulin Lispro').
+drug_interaction('Darbepoetin alfa', 'Anistreplase').
+drug_interaction('Interferon beta-1b', 'Becaplermin').
+drug_interaction('Tenecteplase', 'Serum albumin iodonated').
+drug_interaction('Interferon beta-1a', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Peginterferon alfa-2b', 'Lepirudin').
+drug_interaction('Sermorelin', 'Interferon alfa-n3').
+drug_interaction('Leuprolide', 'Desmopressin').
+drug_interaction('Pegfilgrastim', 'Capromab').
+drug_interaction('Pegfilgrastim', 'Abarelix').
+drug_interaction('Vasopressin', 'Serum albumin').
+drug_interaction('Lutropin alfa', 'Bivalirudin').
+drug_interaction('Interferon beta-1b', 'Alefacept').
+drug_interaction('Serum albumin', 'Abarelix').
+drug_interaction('Pegfilgrastim', 'Pegaspargase').
+drug_interaction('Interferon beta-1b', 'Basiliximab').
+drug_interaction('Secretin', 'Darbepoetin alfa').
+drug_interaction('Botulinum Toxin Type B', 'Bivalirudin').
+drug_interaction('Tenecteplase', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Insulin Pork', 'Glucagon recombinant').
+drug_interaction('Interferon beta-1b', 'Follitropin beta').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Abarelix').
+drug_interaction('Follitropin beta', 'Eptifibatide').
+drug_interaction('Erythropoietin', 'Alemtuzumab').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Anakinra').
+drug_interaction('Tositumomab', 'Omalizumab').
+drug_interaction('Tositumomab', 'Insulin Pork').
+drug_interaction('Denileukin diftitox', 'Daptomycin').
+drug_interaction('Interferon gamma-1b', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Imiglucerase', 'Abciximab').
+drug_interaction('Oprelvekin', 'Interferon beta-1a').
+drug_interaction('Dornase alfa', 'Adalimumab').
+drug_interaction('Immune Globulin Human', 'Erythropoietin').
+drug_interaction('Sargramostim', 'Imiglucerase').
+drug_interaction('Thyrotropin Alfa', 'Denileukin diftitox').
+drug_interaction('Peginterferon alfa-2b', 'Gemtuzumab ozogamicin').
+drug_interaction('Lepirudin', 'Basiliximab').
+drug_interaction('Interferon Alfa-2a, Recombinant', 'Bivalirudin').
+drug_interaction('Filgrastim', 'Capromab').
+drug_interaction('Anakinra', 'Aldesleukin').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Alglucerase').
+drug_interaction('Human Serum Albumin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Interferon alfa-n1', 'Daptomycin').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Cetuximab').
+drug_interaction('Insulin Lispro', 'Desmopressin').
+drug_interaction('Vasopressin', 'Satumomab Pendetide').
+drug_interaction('Secretin', 'Alteplase').
+drug_interaction('Interferon gamma-1b', 'Hyaluronidase').
+drug_interaction('Interferon alfa-n3', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2a', 'Lepirudin').
+drug_interaction('Menotropins', 'Interferon alfa-n1').
+drug_interaction('Satumomab Pendetide', 'Salmon Calcitonin').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Abarelix').
+drug_interaction('Octreotide', 'Lutropin alfa').
+drug_interaction('Serum albumin iodonated', 'Infliximab').
+drug_interaction('Omalizumab', 'Laronidase').
+drug_interaction('Oprelvekin', 'Gramicidin D').
+drug_interaction('Interferon alfa-n3', 'Drotrecogin alfa').
+drug_interaction('Insulin Lispro', 'Aldesleukin').
+drug_interaction('OspA lipoprotein', 'Aldesleukin').
+drug_interaction('Urofollitropin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Menotropins', 'Human Serum Albumin').
+drug_interaction('Leuprolide', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Rasburicase', 'Basiliximab').
+drug_interaction('Peginterferon alfa-2a', 'Daptomycin').
+drug_interaction('Peginterferon alfa-2a', 'Becaplermin').
+drug_interaction('Lepirudin', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Alpha-1-proteinase inhibitor', 'Alefacept').
+drug_interaction('Tenecteplase', 'Pegfilgrastim').
+drug_interaction('Interferon gamma-1b', 'Daptomycin').
+drug_interaction('Cetrorelix', 'Alglucerase').
+drug_interaction('Capromab', 'Alteplase').
+drug_interaction('Rasburicase', 'Laronidase').
+drug_interaction('Salmon Calcitonin', 'Aldesleukin').
+drug_interaction('Pancrelipase', 'Ibritumomab tiuxetan').
+drug_interaction('Sermorelin', 'Infliximab').
+drug_interaction('Dornase alfa', 'Daptomycin').
+drug_interaction('Eptifibatide', 'Alglucerase').
+drug_interaction('OspA lipoprotein', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Octreotide', 'Alteplase').
+drug_interaction('Insulin Glargine', 'Botulinum Toxin Type A').
+drug_interaction('Lutropin alfa', 'Capromab').
+drug_interaction('Insulin Lispro', 'Glucagon recombinant').
+drug_interaction('Infliximab', 'Botulinum Toxin Type B').
+drug_interaction('Cetrorelix', 'Alemtuzumab').
+drug_interaction('Secretin', 'Gemtuzumab ozogamicin').
+drug_interaction('Drotrecogin alfa', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Insulin Human', 'Etanercept').
+drug_interaction('Pegademase bovine', 'Octreotide').
+drug_interaction('Urofollitropin', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Interferon beta-1a', 'Darbepoetin alfa').
+drug_interaction('Interferon alfacon-1', 'Erythropoietin').
+drug_interaction('Satumomab Pendetide', 'Muromonab').
+drug_interaction('Somatropin recombinant', 'Daptomycin').
+drug_interaction('Lutropin alfa', 'Leuprolide').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Botulinum Toxin Type A').
+drug_interaction('Anti-thymocyte Globulin (Rabbit)', 'Abarelix').
+drug_interaction('Secretin', 'Daptomycin').
+drug_interaction('Dornase alfa', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Sargramostim', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Streptokinase', 'Interferon alfa-n1').
+drug_interaction('Sermorelin', 'Muromonab').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Alemtuzumab').
+drug_interaction('Laronidase', 'Glucagon recombinant').
+drug_interaction('Hyaluronidase', 'Gemtuzumab ozogamicin').
+drug_interaction('Hyaluronidase', 'Follitropin beta').
+drug_interaction('Cyclosporine', 'Agalsidase beta').
+drug_interaction('Drotrecogin alfa', 'Capromab').
+drug_interaction('Somatropin recombinant', 'Leuprolide').
+drug_interaction('Rituximab', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Etanercept', 'Dornase alfa').
+drug_interaction('Streptokinase', 'Adalimumab').
+drug_interaction('Interferon gamma-1b', 'Capromab').
+drug_interaction('Rituximab', 'OspA lipoprotein').
+drug_interaction('Urofollitropin', 'Pegaspargase').
+drug_interaction('Pegvisomant', 'Cetrorelix').
+drug_interaction('Interferon beta-1a', 'Interferon alfacon-1').
+drug_interaction('Interferon alfacon-1', 'Human Serum Albumin').
+drug_interaction('Goserelin', 'Desmopressin').
+drug_interaction('Tositumomab', 'Interferon beta-1b').
+drug_interaction('Hyaluronidase', 'Becaplermin').
+drug_interaction('Peginterferon alfa-2b', 'Laronidase').
+drug_interaction('Interferon gamma-1b', 'Agalsidase beta').
+drug_interaction('Pegfilgrastim', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Thyrotropin Alfa', 'Insulin Human').
+drug_interaction('OspA lipoprotein', 'Laronidase').
+drug_interaction('Urofollitropin', 'Palifermin').
+drug_interaction('Insulin Human', 'Asparaginase').
+drug_interaction('Follitropin beta', 'Alemtuzumab').
+drug_interaction('Peginterferon alfa-2b', 'Palifermin').
+drug_interaction('Tositumomab', 'Anakinra').
+drug_interaction('Tenecteplase', 'Pancrelipase').
+drug_interaction('Pegvisomant', 'Basiliximab').
+drug_interaction('Trastuzumab', 'Cetrorelix').
+drug_interaction('Insulin Human', 'Alteplase').
+drug_interaction('Filgrastim', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('OspA lipoprotein', 'Eptifibatide').
+drug_interaction('Interferon Alfa-2b, Recombinant', 'Hyaluronidase').
+drug_interaction('Interferon beta-1a', 'Interferon alfa-n1').
+drug_interaction('Ibritumomab tiuxetan', 'Alteplase').
+drug_interaction('Peginterferon alfa-2a', 'Pegfilgrastim').
+drug_interaction('Omalizumab', 'Cetuximab').
+drug_interaction('Interferon beta-1b', 'Filgrastim').
+drug_interaction('Sermorelin', 'Denileukin diftitox').
+drug_interaction('Gemtuzumab ozogamicin', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Tenecteplase', 'Alglucerase').
+drug_interaction('Insulin Human', 'Basiliximab').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Alteplase').
+drug_interaction('Hyaluronidase', 'Goserelin').
+drug_interaction('Salmon Calcitonin', 'Insulin Glargine').
+drug_interaction('Pegvisomant', 'Anakinra').
+drug_interaction('Laronidase', 'Adalimumab').
+drug_interaction('Pegademase bovine', 'Eptifibatide').
+drug_interaction('Peginterferon alfa-2b', 'Interferon alfa-n3').
+drug_interaction('Interferon gamma-1b', 'Insulin Pork').
+drug_interaction('Leuprolide', 'Agalsidase beta').
+drug_interaction('Serum albumin', 'Adalimumab').
+drug_interaction('Ibritumomab tiuxetan', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Serum albumin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('OspA lipoprotein', 'Interferon alfacon-1').
+drug_interaction('Insulin Pork', 'Cetrorelix').
+drug_interaction('Hyaluronidase', 'Darbepoetin alfa').
+drug_interaction('Interferon beta-1b', 'Bivalirudin').
+drug_interaction('Glucagon recombinant', 'Botulinum Toxin Type B').
+drug_interaction('Hyaluronidase', 'Alglucerase').
+drug_interaction('Pegaspargase', 'Glucagon recombinant').
+drug_interaction('Pegvisomant', 'Interferon beta-1b').
+drug_interaction('Peginterferon alfa-2b', 'Pegfilgrastim').
+drug_interaction('Interferon alfa-n1', 'Gemtuzumab ozogamicin').
+drug_interaction('Insulin Human', 'Capromab').
+drug_interaction('Muromonab', 'Drotrecogin alfa').
+drug_interaction('Eptifibatide', 'Adalimumab').
+drug_interaction('Interferon alfacon-1', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegvisomant', 'Capromab').
+drug_interaction('Filgrastim', 'Efalizumab').
+drug_interaction('Hyaluronidase', 'Abarelix').
+drug_interaction('Satumomab Pendetide', 'Follitropin beta').
+drug_interaction('Insulin Lispro', 'Hyaluronidase').
+drug_interaction('Vasopressin', 'Felypressin').
+drug_interaction('Sargramostim', 'Pegaspargase').
+drug_interaction('Sermorelin', 'Basiliximab').
+drug_interaction('Pegvisomant', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Interferon beta-1a', 'Cyclosporine').
+drug_interaction('Lepirudin', 'Insulin Glargine').
+drug_interaction('Interferon alfa-n3', 'Insulin Pork').
+drug_interaction('Peginterferon alfa-2a', 'Drotrecogin alfa').
+drug_interaction('Muromonab', 'Alteplase').
+drug_interaction('Imiglucerase', 'Human Serum Albumin').
+drug_interaction('Interferon alfa-n1', 'Alemtuzumab').
+drug_interaction('Botulinum Toxin Type A', 'Anakinra').
+drug_interaction('Urofollitropin', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Rituximab', 'Efalizumab').
+drug_interaction('Pegvisomant', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegademase bovine', 'Basiliximab').
+drug_interaction('Alemtuzumab', 'Abciximab').
+drug_interaction('Thyrotropin Alfa', 'Abciximab').
+drug_interaction('Pegfilgrastim', 'Adalimumab').
+drug_interaction('Sermorelin', 'Dornase alfa').
+drug_interaction('Pegfilgrastim', 'Alteplase').
+drug_interaction('Pegaspargase', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Antihemophilic Factor (Recombinant)', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Pegvisomant', 'Immune Globulin Human').
+drug_interaction('Pegaspargase', 'Muromonab').
+drug_interaction('Serum albumin iodonated', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Pegfilgrastim', 'Muromonab').
+drug_interaction('Follitropin beta', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Goserelin', 'Capromab').
+drug_interaction('Becaplermin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Cetrorelix', 'Becaplermin').
+drug_interaction('Darbepoetin alfa', 'Aldesleukin').
+drug_interaction('Immune Globulin Human', 'Capromab').
+drug_interaction('Vasopressin', 'Filgrastim').
+drug_interaction('Thyrotropin Alfa', 'Serum albumin iodonated').
+drug_interaction('Interferon alfacon-1', 'Goserelin').
+drug_interaction('Erythropoietin', 'Cyclosporine').
+drug_interaction('Trastuzumab', 'Bivalirudin').
+drug_interaction('Serum albumin iodonated', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Rituximab', 'Interferon Alfa-2b, Recombinant').
+drug_interaction('Interferon gamma-1b', 'Interferon beta-1a').
+drug_interaction('Omalizumab', 'Lepirudin').
+drug_interaction('Somatropin recombinant', 'Rituximab').
+drug_interaction('Thyrotropin Alfa', 'Eptifibatide').
+drug_interaction('Tenecteplase', 'Omalizumab').
+drug_interaction('Collagenase clostridium histolyticum', 'Alemtuzumab').
+drug_interaction('Interferon alfa-n3', 'Goserelin').
+drug_interaction('Satumomab Pendetide', 'Lutropin alfa').
+drug_interaction('Pegvisomant', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Tenecteplase', 'Oprelvekin').
+drug_interaction('Pegademase bovine', 'Anakinra').
+drug_interaction('Rasburicase', 'Cyclosporine').
+drug_interaction('Octreotide', 'Menotropins').
+drug_interaction('Vasopressin', 'Gemtuzumab ozogamicin').
+drug_interaction('Urofollitropin', 'Cetrorelix').
+drug_interaction('Omalizumab', 'Asparaginase').
+drug_interaction('Vasopressin', 'Coagulation factor VIIa Recombinant Human').
+drug_interaction('Interferon alfa-n3', 'Glucagon recombinant').
+drug_interaction('Oprelvekin', 'Anakinra').
+drug_interaction('Lepirudin', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Asparaginase', 'Alpha-1-proteinase inhibitor').
+drug_interaction('Trastuzumab', 'Insulin Human').
+drug_interaction('Urokinase', 'Human Serum Albumin').
+drug_interaction('Bivalirudin', 'Anakinra').
+drug_interaction('Filgrastim', 'Anistreplase').
+drug_interaction('Human Serum Albumin', 'Glucagon recombinant').
+drug_interaction('Lepirudin', 'Follitropin beta').
+drug_interaction('Alemtuzumab', 'Adalimumab').
+drug_interaction('Coagulation factor VIIa Recombinant Human', 'Botulinum Toxin Type B').
+drug_interaction('Human Serum Albumin', 'Alteplase').
+drug_interaction('Lepirudin', 'Interferon alfa-n3').
+drug_interaction('Chorionic Gonadotropin (Recombinant)', 'Anakinra').
+drug_interaction('Tenecteplase', 'Anistreplase').
+drug_interaction('Salmon Calcitonin', 'Octreotide').
+drug_interaction('Trastuzumab', 'Interferon gamma-1b').
+drug_interaction('Sargramostim', 'Adalimumab').
+drug_interaction('Alemtuzumab', 'Abarelix').
+drug_interaction('Interferon beta-1a', 'Anistreplase').
+drug_interaction('Rituximab', 'Abarelix').
+drug_interaction('Glucagon recombinant', 'Alglucerase').
+drug_interaction('Urofollitropin', 'Coagulation Factor IX (Recombinant)').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Aldesleukin').
+drug_interaction('Insulin Human', 'Darbepoetin alfa').
+drug_interaction('Pegademase bovine', 'Collagenase clostridium histolyticum').
+drug_interaction('Streptokinase', 'Peginterferon alfa-2b').
+drug_interaction('Follitropin beta', 'Filgrastim').
+drug_interaction('Lutropin alfa', 'Laronidase').
+drug_interaction('Tenecteplase', 'Peginterferon alfa-2a').
+drug_interaction('Hyaluronidase', 'Agalsidase beta').
+drug_interaction('Thyrotropin Alfa', 'Cetuximab').
+drug_interaction('Thyrotropin Alfa', 'Menotropins').
+drug_interaction('Muromonab', 'Alemtuzumab').
+drug_interaction('Somatropin recombinant', 'Alemtuzumab').
+drug_interaction('Interferon alfacon-1', 'Chorionic Gonadotropin (Recombinant)').
+drug_interaction('Laronidase', 'Interferon Alfa-2a, Recombinant').
+drug_interaction('Gramicidin D', 'Erythropoietin').
+drug_interaction('Thyrotropin Alfa', 'Rasburicase').
+drug_interaction('Insulin Glargine', 'Gramicidin D').
+drug_interaction('Pegaspargase', 'Goserelin').
+drug_interaction('Insulin Glargine', 'Human Serum Albumin').
+drug_interaction('Omalizumab', 'Ibritumomab tiuxetan').
+drug_interaction('Human Serum Albumin', 'Denileukin diftitox').
+drug_interaction('Sargramostim', 'Abciximab').
+drug_interaction('Vasopressin', 'Omalizumab').
+drug_interaction('Sermorelin', 'Anistreplase').
+drug_interaction('Tositumomab', 'Sermorelin').
+drug_interaction('Coagulation Factor IX (Recombinant)', 'Botulinum Toxin Type B').
+drug_interaction('Tositumomab', 'Capromab').
+drug_interaction('Pegaspargase', 'Becaplermin').
+drug_interaction('Gemtuzumab ozogamicin', 'Anakinra').
+drug_interaction('Muromonab', 'Anakinra').
+drug_interaction('Insulin Glargine', 'Hyaluronidase').
+drug_interaction('Salmon Calcitonin', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Lutropin alfa', 'Gramicidin D').
+drug_interaction('Tositumomab', 'Ibritumomab tiuxetan').
+drug_interaction('Streptokinase', 'Serum albumin').
+drug_interaction('Cetrorelix', 'Basiliximab').
+drug_interaction('Menotropins', 'Abciximab').
+drug_interaction('Interferon beta-1b', 'Digoxin Immune Fab (Ovine)').
+drug_interaction('Somatropin recombinant', 'Cyclosporine').
+drug_interaction('Leuprolide', 'Botulinum Toxin Type A').
+drug_interaction('Rasburicase', 'Alteplase').
+drug_interaction('Octreotide', 'Becaplermin').
+drug_interaction('Erythropoietin', 'Botulinum Toxin Type B').
+drug_interaction('Urokinase', 'Satumomab Pendetide').
+drug_interaction('Trastuzumab', 'Immune Globulin Human').
+drug_interaction('Interferon alfacon-1', 'Etanercept').
+drug_interaction('Salmon Calcitonin', 'Anti-thymocyte Globulin (Rabbit)').
+drug_interaction('Pegvisomant', 'Leuprolide').
+drug_interaction('Tenecteplase', 'Peginterferon alfa-2b').
+drug_interaction('Abciximab', 'Abarelix').
+drug_interaction('Etanercept', 'Asparaginase').
+drug_interaction('Urokinase', 'Botulinum Toxin Type B').
+drug_interaction('Secretin', 'Cetrorelix').
+drug_interaction('Pancrelipase', 'Interferon beta-1a').
+drug_interaction('Secretin', 'Lutropin alfa').
+drug_interaction('Peginterferon alfa-2b', 'Oprelvekin').
+drug_interaction('Salmon Calcitonin', 'Abciximab').
+drug_interaction('Gramicidin D', 'Filgrastim').
+drug_interaction('Etanercept', 'Antihemophilic Factor (Recombinant)').
+drug_interaction('Urofollitropin', 'Insulin Glargine').
+drug_interaction('Peginterferon alfa-2b', 'Glucagon recombinant').
+drug_interaction('Leuprolide', 'Human Serum Albumin').
+drug_interaction('Gramicidin D', 'Follitropin beta').
+drug_interaction('Pancrelipase', 'Insulin Human').
+drug_interaction('Felypressin', 'Alglucerase').
+drug_interaction('Peginterferon alfa-2b', 'Felypressin').
+drug_interaction('Salmon Calcitonin', 'Agalsidase beta').
+drug_interaction('Digoxin Immune Fab (Ovine)', 'Abciximab').
+drug_interaction('Basiliximab', 'Abciximab').
+drug_interaction('Secretin', 'Felypressin').
+drug_interaction('Botulinum Toxin Type B', 'Alteplase').
+drug_interaction('Omalizumab', 'Capromab').
+drug_interaction('Tenecteplase', 'Darbepoetin alfa').
+drug_interaction('Filgrastim', 'Dornase alfa').
+drug_interaction('Immune Globulin Human', 'Cyclosporine').
+drug_interaction('Lepirudin', 'Insulin Lispro').
+
